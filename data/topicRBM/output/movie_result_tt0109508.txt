@@ -1,0 +1,19 @@
+Movie ID tt0109508, Title: crumb (1994), Tag: ['documentary']
+Overview: this movie chronicles the life and times of r crumb robert crumb is the cartoonist artist who drew keep on truckin fritz the cat and played a major pioneering role in the genesis of underground comix through interviews with his mother two brothers wife and ex girlfriends as well as selections from his vast quantity of graphic art we are treated to a darkly comic ride through one man s subconscious mind as stream of consciousness images incessantly flow forth from the tip of his pen biting social satire is revealed often along with a disturbing and haunting vision of crumb s own betes noires and inadequacies as his acid trip induced images flicker across our own retinas we gain a little insight into this complex and highly creative individual
+
+Recommend Movies List IDs: ['tt0111756', 'tt0107507', 'tt0114388', 'tt0115645', 'tt0360307']
+Recommend movie top1 ID tt0111756, Title: wyatt earp (1994), Tag: ['western']
+Overview: wyatt earp is a movie about a man and his family the movie shows us the good times and the bad times of one of the west s most famous individuals
+
+Recommend movie top2 ID tt0107507, Title: manhattan murder mystery (1993), Tag: ['comedy', 'mystery']
+Overview: a middle aged couple suspects foul play when their neighbor s wife suddenly drops dead
+
+Recommend movie top3 ID tt0114388, Title: sense and sensibility (1995), Tag: ['drama', 'romance']
+Overview: rich mr dashwood dies leaving his second wife and her three daughters poor by the rules of inheritance the two eldest daughters are the titular opposites
+
+Recommend movie top4 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top5 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+

@@ -1,0 +1,19 @@
+Movie ID tt0103859, Title: boomerang (1992), Tag: ['comedy', 'romance']
+Overview: marcus is a successful advertising executive who woos and beds women almost at will after a company merger he finds that his new boss the ravishing jacqueline is treating him in exactly the same way completely traumatized by this his work goes badly downhill but then jacqueline s more quietly attractive assistant angela who has been dating marcus best friend shows herself more than a little concerned by his parlous state
+
+Recommend Movies List IDs: ['tt0360307', 'tt0230877', 'tt0257315', 'tt0113749', 'tt0050022']
+Recommend movie top1 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top2 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top3 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top4 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top5 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+

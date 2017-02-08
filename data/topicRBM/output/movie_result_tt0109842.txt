@@ -1,0 +1,19 @@
+Movie ID tt0109842, Title: fresh (1994), Tag: ['crime', 'drama', 'thriller']
+Overview: michael or fresh as he s well known is a year old drug pusher who lives in a crowded housing project with his cousins and aunt his father has become a street bum but still meets with fresh on occasion to play chess fresh is rather quiet in a crazy world fresh s sister is a junkie who sleeps with the dealers who fresh sells for as the story progresses fresh realizes that he doesn t want to sell drugs anymore he wants out
+
+Recommend Movies List IDs: ['tt0112688', 'tt0934676', 'tt0230877', 'tt0114496', 'tt0109891']
+Recommend movie top1 ID tt0112688, Title: clockers (1995), Tag: ['crime', 'drama', 'mystery']
+Overview: young drug pushers in the projects of brooklyn live hard dangerous lives trapped between their drug bosses and the detectives out to stop them
+
+Recommend movie top2 ID tt0934676, Title: little princess, a (1995), Tag: ['children', 'drama']
+Overview: a little girl lives in a rather strange castle she shares it with her mother father and maid other characters help her realize that just because you are a princess you can t always get what you want
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

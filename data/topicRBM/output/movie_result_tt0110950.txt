@@ -1,0 +1,19 @@
+Movie ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+
+Recommend Movies List IDs: ['tt4103972', 'tt0111256', 'tt0115639', 'tt0058450', 'tt0109891']
+Recommend movie top1 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top2 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top3 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top4 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

@@ -1,0 +1,19 @@
+Movie ID tt0110620, Title: nadja (1994), Tag: ['drama']
+Overview: this ultra hip post modern vampire tale is set in contemporary new york city members of a dysfunctional family of vampires are trying to come to terms with each other in the wake of their father s death meanwhile they are being hunted by dr van helsing and his hapless nephew as in all good vampire movies forces of love are pitted against forces of destruction
+
+Recommend Movies List IDs: ['tt0059448', 'tt0113326', 'tt0106220', 'tt3446062', 'tt0109891']
+Recommend movie top1 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+
+Recommend movie top2 ID tt0113326, Title: rumble in the bronx (hont faan kui) (1995), Tag: ['action', 'adventure', 'comedy', 'crime']
+Overview: a young man visiting and helping his uncle in new york city finds himself forced to fight a street gang and the mob with his martial art skills
+
+Recommend movie top3 ID tt0106220, Title: addams family values (1993), Tag: ['children', 'comedy', 'fantasy']
+Overview: a comical gothic horror movie type family tries to rescue their beloved uncle from his gold digging new love
+
+Recommend movie top4 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

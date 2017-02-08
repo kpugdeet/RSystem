@@ -1,0 +1,19 @@
+Movie ID tt0106473, Title: boys of st. vincent, the (1992), Tag: ['drama']
+Overview: this movie is based on actual events but it says it is not all about one specific incident it documents st vincent s orphanage in canada where many of the boys suffer physical emotional and sexual abuse at the hands of the brothers who run the facility when the stories are surfaced and a police investigation is begun religious and political groups work to silence the story to keep it from reaching the public
+
+Recommend Movies List IDs: ['tt0114478', 'tt0360307', 'tt0230877', 'tt0074102', 'tt0109579']
+Recommend movie top1 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+
+Recommend movie top2 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0074102, Title: in the realm of the senses (ai no corrida) (1976), Tag: ['drama']
+Overview: a passionate telling of the story of sada abe a woman whose affair with her master led to a sexual obsession which then came to a violent end
+
+Recommend movie top5 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+

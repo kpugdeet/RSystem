@@ -1,0 +1,19 @@
+Movie ID tt0113845, Title: money train (1995), Tag: ['action', 'comedy', 'crime', 'drama', 'thriller']
+Overview: a vengeful new york transit cop decides to steal a trainload of subway fares his foster brother a fellow cop tries to protect him
+
+Recommend Movies List IDs: ['tt0109891', 'tt0106292', 'tt0110657', 'tt0779794', 'tt0111742']
+Recommend movie top1 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top2 ID tt0106292, Title: another stakeout (1993), Tag: ['comedy', 'thriller']
+Overview: prankster cops chris and bill are joined by a gina from the da s office to stakeout a lakeside home
+
+Recommend movie top3 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top4 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top5 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+

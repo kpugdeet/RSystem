@@ -1,0 +1,19 @@
+Movie ID tt0114594, Title: swimming with sharks (1995), Tag: ['comedy', 'drama']
+Overview: a young hollywood executive becomes the assistant to a big time movie producer who is the worst boss imaginable abusive abrasive and cruel but soon things turn around when the young executive kidnaps his boss and visits all the cruelties back on him
+
+Recommend Movies List IDs: ['tt1781922', 'tt0109891', 'tt0110657', 'tt0111488', 'tt0230877']
+Recommend movie top1 ID tt1781922, Title: no escape (1994), Tag: ['action', 'drama', 'sci-fi']
+Overview: in their new overseas home an american family soon finds themselves caught in the middle of a coup and they frantically look for a safe escape from an environment where foreigners are being immediately executed
+
+Recommend movie top2 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top3 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top4 ID tt0111488, Title: trial by jury (1994), Tag: ['crime', 'drama', 'thriller']
+Overview: valerie is a juror in the trail of a mob boss when her young son s life is threatened she has no option other than to see that justice isn t done
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

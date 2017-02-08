@@ -1,0 +1,19 @@
+Movie ID tt0113537, Title: kicking and screaming (1995), Tag: ['comedy', 'drama']
+Overview: after college graduation grover s girlfriend jane tells him she s moving to prague to study writing grover declines to accompany her deciding instead to move in with several friends all of whom can t quite work up the inertia to escape their university s pull nobody wants to make any big decisions that would radically alter his life yet none of them wants to end up like chet the professional student who tends bar and is in his tenth year of university studies
+
+Recommend Movies List IDs: ['tt0058450', 'tt0111732', 'tt0110950', 'tt0114296', 'tt0115639']
+Recommend movie top1 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+
+Recommend movie top2 ID tt0111732, Title: with honors (1994), Tag: ['comedy', 'drama']
+Overview: convinced his thesis will have him graduate with honors from harvard university a stuffy student finds himself at the mercy of a homeless man s demands when he holds the papers hostage
+
+Recommend movie top3 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+
+Recommend movie top4 ID tt0114296, Title: roommates (1995), Tag: ['comedy', 'drama']
+Overview: an elderly yet young at heart man moves in with his grandson and both their lives turn upside down
+
+Recommend movie top5 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+

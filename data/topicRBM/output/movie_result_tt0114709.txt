@@ -1,0 +1,19 @@
+Movie ID tt0114709, Title: toy story (1995), Tag: ['adventure', 'animation', 'children', 'comedy', 'fantasy']
+Overview: a little boy named andy loves to be in his room playing with his toys especially his doll named woody but what do the toys do when andy is not with them they come to life woody believes that he has life as a toy good however he must worry about andy s family moving and what woody does not know is about andy s birthday party woody does not realize that andy s mother gave him an action figure known as buzz lightyear who does not believe that he is a toy and quickly becomes andy s new favorite toy woody who is now consumed with jealousy tries to get rid of buzz then both woody and buzz are now lost they must find a way to get back to andy before he moves without them but they will have to pass through a ruthless toy killer sid phillips
+
+Recommend Movies List IDs: ['tt0111127', 'tt0111742', 'tt0110657', 'tt0934676', 'tt0118375']
+Recommend movie top1 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top2 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top3 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top4 ID tt0934676, Title: little princess, a (1995), Tag: ['children', 'drama']
+Overview: a little girl lives in a rather strange castle she shares it with her mother father and maid other characters help her realize that just because you are a princess you can t always get what you want
+
+Recommend movie top5 ID tt0118375, Title: king of the hill (1993), Tag: ['drama']
+Overview: a straight laced propane salesman in arlen texas tries to deal with the wacky antics of his family and friends while also trying to keep his son in line
+

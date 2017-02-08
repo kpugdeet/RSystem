@@ -1,0 +1,19 @@
+Movie ID tt0113819, Title: mighty aphrodite (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: lenny and amanda have an adopted son max who turns out to be brilliant lenny becomes obsessed with finding max s real parents because he believes that they too must be brilliant when he finds that linda ash is max real mother lenny is disappointed linda is a prostitute and porn star on top of that she is quite possibly the dumbest person lenny has ever met interwoven is a greek chorus linking the story with the story of oedipus
+
+Recommend Movies List IDs: ['tt0113228', 'tt0109913', 'tt2993648', 'tt1595032', 'tt0779794']
+Recommend movie top1 ID tt0113228, Title: grumpier old men (1995), Tag: ['comedy', 'romance']
+Overview: john and max resolve to save their beloved bait shop from turning into an italian restaurant just as its new female owner catches max s attention
+
+Recommend movie top2 ID tt0109913, Title: go fish (1994), Tag: ['drama', 'romance']
+Overview: max is a trendy pretty young lesbian who is having trouble finding love a friend sets her up with ely whom max likes but ely is frumpy homely and older nor do they have much in common can max learn to look past the packaging
+
+Recommend movie top3 ID tt2993648, Title: what's love got to do with it? (1993), Tag: ['drama', 'musical']
+Overview: marriage pressure haven t found the right person in love with the wrong person what s love got to do with it tells real life stories of people like you and me who are simply looking
+
+Recommend movie top4 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top5 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+

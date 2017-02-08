@@ -1,0 +1,19 @@
+Movie ID tt0114746, Title: twelve monkeys (a.k.a. 12 monkeys) (1995), Tag: ['mystery', 'sci-fi', 'thriller']
+Overview: an unknown and lethal virus has wiped out five billion people in only of the population has survived by the year and is forced to live underground a convict james cole reluctantly volunteers to be sent back in time to to gather information about the origin of the epidemic who he s told was spread by a mysterious army of the twelve monkeys and locate the virus before it mutates so that scientists can study it unfortunately cole is mistakenly sent to six years earlier than expected and is arrested and locked up in a mental institution where he meets dr kathryn railly a psychiatrist and jeffrey goines the insane son of a famous scientist and virus expert
+
+Recommend Movies List IDs: ['tt0079758', 'tt0115683', 'tt0113243', 'tt3446062', 'tt0114069']
+Recommend movie top1 ID tt0079758, Title: prophecy, the (1995), Tag: ['fantasy', 'horror', 'mystery']
+Overview: a log company s waste mutates the environment creating a giant killer bear monster
+
+Recommend movie top2 ID tt0115683, Title: bio-dome (1996), Tag: ['comedy']
+Overview: moronic best friends get themselves locked inside the bio dome a science experiment along with a group of environmental scientists for one year
+
+Recommend movie top3 ID tt0113243, Title: hackers (1995), Tag: ['action', 'adventure', 'crime', 'thriller']
+Overview: a young boy is arrested by the u s secret service for writing a computer virus and is banned from using a computer until his birthday years later he and his new found friends
+
+Recommend movie top4 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top5 ID tt0114069, Title: outbreak (1995), Tag: ['action', 'drama', 'sci-fi', 'thriller']
+Overview: extreme measures are necessary to contain an epidemic of a deadly airborne virus but how extreme exactly
+

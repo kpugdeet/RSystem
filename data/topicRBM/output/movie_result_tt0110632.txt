@@ -1,0 +1,19 @@
+Movie ID tt0110632, Title: natural born killers (1994), Tag: ['action', 'crime', 'thriller']
+Overview: two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media
+
+Recommend Movies List IDs: ['tt0230877', 'tt0115645', 'tt3446062', 'tt0109579', 'tt0113749']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top3 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top4 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top5 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+

@@ -1,0 +1,19 @@
+Movie ID tt3673944, Title: mrs. doubtfire (1993), Tag: ['comedy', 'drama']
+Overview: eccentric actor daniel hillard is an amusing and caring father but after a disastrous birthday party for his son daniel s wife miranda draws the line and files a divorce he can see his three children only once a week which doesn t sit well with him daniel also holds a job at a tv studio as a shipping clerk under the recommendation of his liason but when miranda puts out an ad for a housekeeper daniel takes it upon himself to make a disguise as a scottish lady named mrs doubtfire and daniel must also deal with miranda s new boyfriend stu dunemyer
+
+Recommend Movies List IDs: ['tt2167202', 'tt0779794', 'tt0110657', 'tt0109891', 'tt0115645']
+Recommend movie top1 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top4 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top5 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+

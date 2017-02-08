@@ -1,0 +1,19 @@
+Movie ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend Movies List IDs: ['tt0109891', 'tt0111127', 'tt0230877', 'tt0113691', 'tt4103972']
+Recommend movie top1 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top2 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0113691, Title: losing isaiah (1995), Tag: ['drama']
+Overview: the natural and adoptive mothers of a young boy are involved in a bitter controversial custody battle
+
+Recommend movie top5 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+

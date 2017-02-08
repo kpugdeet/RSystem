@@ -1,0 +1,19 @@
+Movie ID tt0109759, Title: exotica (1994), Tag: ['drama']
+Overview: this psychological thriller is true to its subjects as well as being complex dynamic and overly dramatic how something so long ago seemingly trivial years later with more significant trauma turns repressed emotions into a dysfunctional life and distorted thinking this is all merged into a psychological menagerie that unfolds piece by piece to perfection
+
+Recommend Movies List IDs: ['tt0112495', 'tt3446062', 'tt4103972', 'tt0257315', 'tt0380167']
+Recommend movie top1 ID tt0112495, Title: beyond rangoon (1995), Tag: ['adventure', 'drama', 'war']
+Overview: laura is trying to pick up the pieces of her life after the murder of her husband and son and goes on vacation with her sister to burma after losing her passport at a political rally she
+
+Recommend movie top2 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top3 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top4 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top5 ID tt0380167, Title: addiction, the (1995), Tag: ['drama', 'horror']
+Overview: a brutal act of self defense unleashes a quiet man s inner demons
+

@@ -1,0 +1,19 @@
+Movie ID tt0109305, Title: blue chips (1994), Tag: ['drama']
+Overview: pete bell a college basketball coach is under a lot of pressure his team isn t winning and he cannot attract new players the stars of the future are secretly being paid by boosters this practice is forbidden in the college game but pete is desperate and has pressures from all around
+
+Recommend Movies List IDs: ['tt0111256', 'tt0110950', 'tt0230877', 'tt0115639', 'tt0779794']
+Recommend movie top1 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top2 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top5 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+

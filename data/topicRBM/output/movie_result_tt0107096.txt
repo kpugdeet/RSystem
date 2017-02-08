@@ -1,0 +1,19 @@
+Movie ID tt0107096, Title: heaven & earth (1993), Tag: ['action', 'drama', 'war']
+Overview: the final movie in oliver stone s vietnam trilogy follows the true story of a vietnamese village girl who survives a life of suffering and hardship during and after the vietnam war as a
+
+Recommend Movies List IDs: ['tt0112819', 'tt0058450', 'tt0114496', 'tt4103972', 'tt0059448']
+Recommend movie top1 ID tt0112819, Title: dead presidents (1995), Tag: ['action', 'crime', 'drama']
+Overview: a vietnam vet adjusts to life after the war while trying to support his family but the chance of a better life may involve crime and bloodshed
+
+Recommend movie top2 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top5 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+

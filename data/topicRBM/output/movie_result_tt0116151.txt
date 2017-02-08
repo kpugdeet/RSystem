@@ -1,0 +1,19 @@
+Movie ID tt0116151, Title: dunston checks in (1996), Tag: ['children', 'comedy']
+Overview: robert s a beleaguered concierge of the luxury hotel owned by mrs dubrow she tells robert an undercover reviewer is coming and to look sharp if he does well he might get a promotion and some time off to take his sons brian and kyle on vacation but then the villainous jewel thief rutledge checks in with his specially trained orangutan dunston and when dunston gets loose and tries to escape a life of crime with the help of brian and kyle things go just a little lunatic
+
+Recommend Movies List IDs: ['tt0109891', 'tt0360307', 'tt0112744', 'tt0257315', 'tt0110950']
+Recommend movie top1 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top2 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top3 ID tt0112744, Title: crossing guard, the (1995), Tag: ['action', 'crime', 'drama', 'thriller']
+Overview: freddie gale is a seedy jeweler who has sworn to kill the drunk driver who killed his little girl
+
+Recommend movie top4 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top5 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+

@@ -1,0 +1,19 @@
+Movie ID tt0109303, Title: blown away (1994), Tag: ['action', 'thriller']
+Overview: jimmy dove works for the bomb squad in boston and he is always the one who is on the tough jobs one day he decides to quit the force and to become a teacher for the rookies of the squad a few days later his former partner is killed by a bomb and jimmy becomes suspicious that maybe this bomb could have been built by a former friend of himself he begins to investigate and finds out that his worst nightmare has returned from his past
+
+Recommend Movies List IDs: ['tt4103972', 'tt0111742', 'tt0108122', 'tt0110622', 'tt0115639']
+Recommend movie top1 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top2 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top3 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top4 ID tt0110622, Title: naked gun 33 1/3: the final insult (1994), Tag: ['action', 'comedy']
+Overview: frank drebin comes out of retirement to help police squad infiltrate a gang of terrorists planning to detonate a bomb at the academy awards
+
+Recommend movie top5 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+

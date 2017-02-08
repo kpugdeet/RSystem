@@ -1,0 +1,19 @@
+Movie ID tt2747352, Title: specialist, the (1994), Tag: ['action', 'drama', 'thriller']
+Overview: kusanagi plays a police detective who gets framed for a crime he didn t commit and had to spend the last years in prison however he regains his job as a police officer and makes use of his specialized knowledge on criminal psychology to solve difficult cases
+
+Recommend Movies List IDs: ['tt0111400', 'tt0111742', 'tt0108174', 'tt0109891', 'tt1842530']
+Recommend movie top1 ID tt0111400, Title: terminal velocity (1994), Tag: ['action', 'mystery', 'thriller']
+Overview: a maverick skydiver and a former kgb agent team up to stop the russian mafia from stealing gold
+
+Recommend movie top2 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top3 ID tt0108174, Title: so i married an axe murderer (1993), Tag: ['comedy', 'romance', 'thriller']
+Overview: a san francisco poet who fears commitment suspects his girlfriend may not be who she appears
+
+Recommend movie top4 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top5 ID tt1842530, Title: unforgettable (1996), Tag: ['mystery', 'sci-fi', 'thriller']
+Overview: carrie wells a former police detective has a rare ability to remember virtually everything she experiences including detailed visual recall she returns to police work and uses her ability to solve crimes
+

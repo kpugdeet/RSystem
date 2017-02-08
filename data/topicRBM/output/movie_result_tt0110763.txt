@@ -1,0 +1,19 @@
+Movie ID tt0110763, Title: pagemaster, the (1994), Tag: ['action', 'adventure', 'animation', 'children', 'fantasy']
+Overview: this is the story of a young boy named richard tyler who spouts statistics about the possibility of accidents so much so he is scared to do anything that might endanger him like riding his bike or climbing into his treehouse while riding his bike home richard finds shelter from a storm inside a nearby library richard slips and is knocked unconscious while exploring a rotunda in the library upon awakening he is led on a journey through conflicts and events that resemble fictional stories keeping him from finding the exit from the library
+
+Recommend Movies List IDs: ['tt0113987', 'tt1595032', 'tt0111742', 'tt0074102', 'tt0113691']
+Recommend movie top1 ID tt0113987, Title: nixon (1995), Tag: ['drama']
+Overview: a biographical story of former u s president richard milhous nixon from his days as a young boy to his eventual presidency which ended in shame
+
+Recommend movie top2 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt0074102, Title: in the realm of the senses (ai no corrida) (1976), Tag: ['drama']
+Overview: a passionate telling of the story of sada abe a woman whose affair with her master led to a sexual obsession which then came to a violent end
+
+Recommend movie top5 ID tt0113691, Title: losing isaiah (1995), Tag: ['drama']
+Overview: the natural and adoptive mothers of a young boy are involved in a bitter controversial custody battle
+

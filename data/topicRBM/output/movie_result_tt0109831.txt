@@ -1,0 +1,19 @@
+Movie ID tt0109831, Title: four weddings and a funeral (1994), Tag: ['comedy', 'romance']
+Overview: the film follows the fortunes of charles and his friends as they wonder if they will ever find true love and marry charles thinks he s found miss right in carrie an american this british subtle comedy revolves around charlie his friends and the four weddings and one funeral which they attend
+
+Recommend Movies List IDs: ['tt0109198', 'tt0115639', 'tt0360307', '62', 'tt0114478']
+Recommend movie top1 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top2 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top3 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top4 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top5 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+

@@ -1,0 +1,19 @@
+Movie ID tt0109445, Title: clerks (1994), Tag: ['comedy']
+Overview: dante hicks is not having a good day he works as a clerk in a small convenience store and is told to come into work on his day off dante thinks life is a series of down endings and this day is proving to no different he reads in the newspaper that his ex girlfriend caitlin is getting married his present girlfriend reveals to have somewhat more experience with sex that he ever imagined his principal concerns are the hockey game he has that afternoon and the wake for a friend who died his buddy randal graves works as a clerk in the video store next and he hates his job just about as much as dante hates his
+
+Recommend Movies List IDs: ['tt0113986', 'tt0108328', 'tt0108122', 'tt0113749', 'tt0115645']
+Recommend movie top1 ID tt0113986, Title: nine months (1995), Tag: ['comedy', 'romance']
+Overview: when he finds out his longtime girlfriend is pregnant a commitment phobe realizes he might have to change his lifestyle for better or much much worse
+
+Recommend movie top2 ID tt0108328, Title: thirty-two short films about glenn gould (1993), Tag: ['drama', 'musical']
+Overview: a collection of vignettes highlighting different aspects of the life work and character of the acclaimed canadian classical pianist
+
+Recommend movie top3 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top4 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top5 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+

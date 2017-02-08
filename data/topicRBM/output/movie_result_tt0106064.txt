@@ -1,0 +1,19 @@
+Movie ID tt0106064, Title: mighty morphin power rangers: the movie (1995), Tag: ['action', 'children']
+Overview: four athletically able teenagers along with their brainy friend billy are selected by zordon to fight the evil of rita repulsa her monsters and her minions after the witch is accidentally released from imprisonment in an intergalactic dumpster on the moon later in the series the rangers are joined by tommy the once evil green ranger designed for rita s evil but later was deprogrammed and spent two portions of the series briefly as the green ranger over time some rangers had to pass their powers to others as well action scenes and scenes with rita were edited from footage based on japanese action sagas replacement villain lord zedd was designed in the u s
+
+Recommend Movies List IDs: ['tt0106452', 'tt0115759', 'tt0111742', 'tt0109198', 'tt0104029']
+Recommend movie top1 ID tt0106452, Title: body snatchers (1993), Tag: ['horror', 'sci-fi', 'thriller']
+Overview: a teenage girl and her father discover alien clones are replacing humans on a remote u s military base in alabama
+
+Recommend movie top2 ID tt0115759, Title: broken arrow (1996), Tag: ['action', 'adventure', 'thriller']
+Overview: terrorists steal nuclear warheads from the u s military but don t count on a pilot and park ranger spoiling their plans
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top5 ID tt0104029, Title: cronos (1993), Tag: ['drama', 'horror']
+Overview: a mysterious device designed to provide its owner with eternal life resurfaces after four hundred years leaving a trail of destruction in its path
+

@@ -1,0 +1,19 @@
+Movie ID tt0109120, Title: andre (1994), Tag: ['adventure', 'children', 'drama']
+Overview: toni whitney and her family adopt a baby sea lion when it grows and starts getting into mischief it antagonizes some of the fisherman in the town one of the fisherman billy baker is upset with the whitney s because toni s father harry was appointed harbor master instead of him partially because of the seal but when the humorous antics of the sea lion attracts media attention further squeezing out mark and running down his business he gets even more upset
+
+Recommend Movies List IDs: ['tt0113089', 'tt0257315', 'tt0109891', 'tt0110729', 'tt4103972']
+Recommend movie top1 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top2 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top3 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top4 ID tt0110729, Title: once were warriors (1994), Tag: ['crime', 'drama']
+Overview: a family descended from maori warriors is bedeviled by a violent father and the societal problems of being treated as outcasts
+
+Recommend movie top5 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+

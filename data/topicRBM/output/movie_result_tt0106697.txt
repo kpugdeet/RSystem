@@ -1,0 +1,19 @@
+Movie ID tt0106697, Title: demolition man (1993), Tag: ['action', 'adventure', 'sci-fi']
+Overview: frozen in simon phoenix a convicted crime lord is revived for a parole hearing well into the century revived into a society free from crime phoenix resumes his murderous rampage and no one can stop him john spartan the police officer who captured phoenix in has also been cryogenically frozen this time for a crime he did not commit in the former cities of los angeles san diego and santa barbara have merged into peaceful utopian san angeles unable to stop him with their non violent solutions the police release spartan to help recapture phoenix now after years spartan has to adapt himself to the future society he has no knowledge about
+
+Recommend Movies List IDs: ['tt2747352', 'tt1842530', 'tt0388976', 'tt0108122', 'tt0111400']
+Recommend movie top1 ID tt2747352, Title: specialist, the (1994), Tag: ['action', 'drama', 'thriller']
+Overview: kusanagi plays a police detective who gets framed for a crime he didn t commit and had to spend the last years in prison however he regains his job as a police officer and makes use of his specialized knowledge on criminal psychology to solve difficult cases
+
+Recommend movie top2 ID tt1842530, Title: unforgettable (1996), Tag: ['mystery', 'sci-fi', 'thriller']
+Overview: carrie wells a former police detective has a rare ability to remember virtually everything she experiences including detailed visual recall she returns to police work and uses her ability to solve crimes
+
+Recommend movie top3 ID tt0388976, Title: heidi fleiss: hollywood madam (1995), Tag: ['documentary']
+Overview: the story of heidi fleiss known as the hollywood madam who was the daughter of a prominent los angeles doctor and eventually became a prostitute for a well known los angeles madam she
+
+Recommend movie top4 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top5 ID tt0111400, Title: terminal velocity (1994), Tag: ['action', 'mystery', 'thriller']
+Overview: a maverick skydiver and a former kgb agent team up to stop the russian mafia from stealing gold
+

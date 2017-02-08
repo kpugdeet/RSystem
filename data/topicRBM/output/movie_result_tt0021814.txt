@@ -1,0 +1,19 @@
+Movie ID tt0021814, Title: dracula: dead and loving it (1995), Tag: ['comedy', 'horror']
+Overview: after a harrowing ride through the carpathian mountains in eastern europe renfield enters castle dracula to finalize the transferral of carfax abbey in london to count dracula who is in actuality a vampire renfield is drugged by the eerily hypnotic count and turned into one of his thralls protecting him during his sea voyage to london after sucking the blood and turning the young lucy weston into a vampire dracula turns his attention to her friend mina seward daughter of dr seward who then calls in a specialist dr van helsing to diagnose the sudden deterioration of mina s health van helsing realizing that dracula is indeed a vampire tries to prepare mina s fiance john harker and dr seward for what is to come and the measures that will have to be taken to prevent mina from becoming one of the undead
+
+Recommend Movies List IDs: ['tt1595680', 'tt0116367', 'tt0118375', 'tt4103972', 'tt0113228']
+Recommend movie top1 ID tt1595680, Title: being human (1993), Tag: ['drama']
+Overview: three twenty somethings share a house and try to live a normal life despite being a ghost a werewolf and a vampire
+
+Recommend movie top2 ID tt0116367, Title: from dusk till dawn (1996), Tag: ['action', 'comedy', 'horror', 'thriller']
+Overview: two criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires with chaotic results
+
+Recommend movie top3 ID tt0118375, Title: king of the hill (1993), Tag: ['drama']
+Overview: a straight laced propane salesman in arlen texas tries to deal with the wacky antics of his family and friends while also trying to keep his son in line
+
+Recommend movie top4 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top5 ID tt0113228, Title: grumpier old men (1995), Tag: ['comedy', 'romance']
+Overview: john and max resolve to save their beloved bait shop from turning into an italian restaurant just as its new female owner catches max s attention
+

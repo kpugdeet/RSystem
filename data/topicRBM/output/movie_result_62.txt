@@ -1,0 +1,19 @@
+Movie ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend Movies List IDs: ['tt0106677', 'tt1595032', 'tt0230877', 'tt0114496', 'tt0109198']
+Recommend movie top1 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top2 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

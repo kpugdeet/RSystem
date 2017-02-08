@@ -1,0 +1,19 @@
+Movie ID tt0107286, Title: judgment night (1993), Tag: ['action', 'crime', 'thriller']
+Overview: four pals are on their way to a boxing match but get stuck in heavy traffic to get to the boxing match in time they take the first exit they find to find another way to the venue as they are driving around lost in gang land they get stuck and witness a brutal murder the killer wants no witnesses and tries to kill them too the four pals get away the first time but the killer is soon back on their tail again while they are trying to find help in the middle of nowhere
+
+Recommend Movies List IDs: ['tt0107057', 'tt1595032', 'tt0113118', '62', 'tt0109198']
+Recommend movie top1 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+
+Recommend movie top2 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top3 ID tt0113118, Title: friday (1995), Tag: ['comedy']
+Overview: two homies smokey and craig smoke a dope dealer s weed and try to figure a way to get the they owe to the dealer by p m that same night in that time they smoke more weed and get jacked and shot at in a drive by
+
+Recommend movie top4 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

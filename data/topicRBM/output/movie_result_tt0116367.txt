@@ -1,0 +1,19 @@
+Movie ID tt0116367, Title: from dusk till dawn (1996), Tag: ['action', 'comedy', 'horror', 'thriller']
+Overview: two criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires with chaotic results
+
+Recommend Movies List IDs: ['tt0113749', 'tt0230877', 'tt0111742', 'tt0360307', 'tt0050022']
+Recommend movie top1 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top2 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+

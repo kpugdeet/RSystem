@@ -1,0 +1,19 @@
+Movie ID tt0107076, Title: hard target (1993), Tag: ['action', 'adventure', 'crime', 'thriller']
+Overview: natasha binder comes to new orleans looking for her father who has gone missing in doing so she meets a very hard man called chance he helps her find out that her father was killed by an organisation who sell the opportunity to hunt human prey they are taking advantage of a police strike in new orleans will the muscles from brussels win through
+
+Recommend Movies List IDs: ['tt0109891', 'tt0107478', 'tt0113326', 'tt0059448', 'tt0112744']
+Recommend movie top1 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top2 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+
+Recommend movie top3 ID tt0113326, Title: rumble in the bronx (hont faan kui) (1995), Tag: ['action', 'adventure', 'comedy', 'crime']
+Overview: a young man visiting and helping his uncle in new york city finds himself forced to fight a street gang and the mob with his martial art skills
+
+Recommend movie top4 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+
+Recommend movie top5 ID tt0112744, Title: crossing guard, the (1995), Tag: ['action', 'crime', 'drama', 'thriller']
+Overview: freddie gale is a seedy jeweler who has sworn to kill the drunk driver who killed his little girl
+

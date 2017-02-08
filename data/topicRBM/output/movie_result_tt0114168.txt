@@ -1,0 +1,19 @@
+Movie ID tt0114168, Title: powder (1995), Tag: ['drama', 'sci-fi']
+Overview: an off the charts genius who is home schooled and shunned after his last relative dies shows the unconscious residents of his town about connection awareness and the generosity of the spirit
+
+Recommend Movies List IDs: ['tt0230877', 'tt0113089', 'tt0106677', 'tt0108122', 'tt0109891']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top3 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top4 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

@@ -1,0 +1,19 @@
+Movie ID tt0114781, Title: under siege 2: dark territory (1995), Tag: ['action']
+Overview: seal team commander casey ryback has retired from the navy since the conclusion of the events in the first movie and is now a chef at the mile high cafe in denver colorado ryback is taking his niece sarah ryback on vacation to reconnect and commiserate with her after the death of her parents they board a train traveling westbound through the rocky mountains from denver to la with the help of gun for hire marcus penn a couple dozen of his mercenaries ex cia brain and mentally unstable travis dane commandeers the train takes the passengers and crew hostage and sets up a mobile control center he hacks into the cia database and gains control of a top secret defence satellite he designed during his agency days that has just been deployed funded by various foreign interests he stands to make billion dollars for using the space weapon to blow up the eastern seaboard by targeting a nuclear reactor housed beneath the pentagon dane taunts the joint chiefs in the pentagon situation room by using it to blow up a chinese chemical weapons plant and the two stealth planes sent to intercept him secure in the knowledge that he cannot be stopped because his location can t be traced as long as the train keeps moving his location can t be fixed ryback aided by young porter bobby zachs is the only ones who can take out the bad guys rescue the hostages and prevent the destruction of the eastern seaboard before dane can realise his dastardly plans
+
+Recommend Movies List IDs: ['tt0280486', 'tt0116253', 'tt0111438', 'tt0109729', 'tt4947656']
+Recommend movie top1 ID tt0280486, Title: bad company (1995), Tag: ['action', 'crime', 'drama']
+Overview: when a harvard educated cia agent is killed during an operation the secret agency recruits his twin brother
+
+Recommend movie top2 ID tt0116253, Title: executive decision (1996), Tag: ['action', 'adventure', 'thriller']
+Overview: when terrorists seize control of an airliner an intelligence analyst accompanies a commando unit for a midair boarding operation
+
+Recommend movie top3 ID tt0111438, Title: timecop (1994), Tag: ['action', 'sci-fi', 'thriller']
+Overview: max walker an officer for a security agency that regulates time travel must fend for his life against a shady politician who s intent on changing the past to control the future
+
+Recommend movie top4 ID tt0109729, Title: endless summer 2, the (1994), Tag: ['adventure', 'documentary']
+Overview: bruce brown king of surfing documentaries returns after nearly thirty years to trace the steps of two young surfers to top surfing spots around the world along the way we see many of the
+
+Recommend movie top5 ID tt4947656, Title: simple twist of fate, a (1994), Tag: ['drama']
+Overview: quinn must prove himself worthy to take over for his friend and mentor who is retiring from one of the most important positions at their firm
+

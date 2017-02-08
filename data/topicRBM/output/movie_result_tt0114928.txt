@@ -1,0 +1,19 @@
+Movie ID tt0114928, Title: white man's burden (1995), Tag: ['drama']
+Overview: the story takes place in alternative america where the blacks are members of social elite and whites are inhabitants of inner city ghettos louis pinnock is a white worker in a chocolate
+
+Recommend Movies List IDs: ['tt0107478', 'tt0112572', 'tt0113101', '498 ', 'tt3446062']
+Recommend movie top1 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+
+Recommend movie top2 ID tt0112572, Title: brady bunch movie, the (1995), Tag: ['comedy']
+Overview: the original t v family is now placed in the where they re even more square and out of place than ever
+
+Recommend movie top3 ID tt0113101, Title: four rooms (1995), Tag: ['comedy']
+Overview: four interlocking tales that take place in a fading hotel on new year s eve
+
+Recommend movie top4 ID 498 , Title: mr. jones (1993), Tag: ['drama', 'romance']
+Overview: the story about the relationship between a manic depressive man mr jones and the female doctor who takes more than a professional interest in his treatment
+
+Recommend movie top5 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+

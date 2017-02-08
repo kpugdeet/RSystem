@@ -1,0 +1,19 @@
+Movie ID tt0110216, Title: junior (1994), Tag: ['comedy', 'sci-fi']
+Overview: alex hesse and larry arbogast are working on a new drug which will reduce the chances of a woman s body rejecting an embryo and thus causing a miscarriage when their research funding is withdrawn and human experimentation is denied to them they decide to test the drug by breifly impregnating hesse hesse however becomes attached to his unborn baby
+
+Recommend Movies List IDs: ['tt0116483', 'tt0111742', 'tt0114496', 'tt0112688', 'tt0106402']
+Recommend movie top1 ID tt0116483, Title: happy gilmore (1996), Tag: ['comedy']
+Overview: a rejected hockey player puts his skills to the golf course to save his grandmother s house
+
+Recommend movie top2 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt0112688, Title: clockers (1995), Tag: ['crime', 'drama', 'mystery']
+Overview: young drug pushers in the projects of brooklyn live hard dangerous lives trapped between their drug bosses and the detectives out to stop them
+
+Recommend movie top5 ID tt0106402, Title: beyond bedlam (1993), Tag: ['drama', 'horror']
+Overview: dr stephanie lyell works for neurological research and is testing a seemingly safe personality altering drug on marc gilmour a notorious serial killer but when a pair of bizarre suicides
+

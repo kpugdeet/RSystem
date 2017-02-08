@@ -1,0 +1,19 @@
+Movie ID tt0106673, Title: dave (1993), Tag: ['comedy', 'romance']
+Overview: bill mitchell is the philandering and distant president of the united states dave kovic is a sweet natured and caring temp agency operator who by a staggering coincidence looks exactly like the president as such when mitchell wants to escape an official luncheon the secret service hires dave to stand in for him unfortunately mitchell suffers a severe stroke whilst having sex with one of his aides and dave finds himself stuck in the role indefinitely the corrupt and manipulative chief of staff bob alexander plans to use dave to elevate himself to the white house but unfortunately he doesn t count on dave enjoying himself in office using his luck to make the country a better place and falling in love with the beautiful first lady
+
+Recommend Movies List IDs: ['tt0103639', 'tt0280486', 'tt1595032', 'tt0107554', 'tt0230877']
+Recommend movie top1 ID tt0103639, Title: aladdin (1992), Tag: ['adventure', 'animation', 'children', 'comedy', 'musical']
+Overview: when a street urchin vies for the love of a beautiful princess he uses a genie s magic power to make himself off as a prince in order to marry her
+
+Recommend movie top2 ID tt0280486, Title: bad company (1995), Tag: ['action', 'crime', 'drama']
+Overview: when a harvard educated cia agent is killed during an operation the secret agency recruits his twin brother
+
+Recommend movie top3 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top4 ID tt0107554, Title: menace ii society (1993), Tag: ['action', 'crime', 'drama']
+Overview: a young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

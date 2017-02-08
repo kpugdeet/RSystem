@@ -1,0 +1,19 @@
+Movie ID tt0089560, Title: mask, the (1994), Tag: ['action', 'comedy', 'crime', 'fantasy']
+Overview: rusty dennis is the mother of rocky a seriously deformed but extremely intelligent and emotionally warm teenager rusty is a no nonsense mother whose wild lifestyle is often at odds with her tenderness and protectiveness towards rocky she is determined that rocky be given the same chances and happiness that everyone else takes for granted
+
+Recommend Movies List IDs: ['tt0111127', 'tt0779794', 'tt0110657', 'tt0050022', 'tt0113691']
+Recommend movie top1 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top4 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top5 ID tt0113691, Title: losing isaiah (1995), Tag: ['drama']
+Overview: the natural and adoptive mothers of a young boy are involved in a bitter controversial custody battle
+

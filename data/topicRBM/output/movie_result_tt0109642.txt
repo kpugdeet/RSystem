@@ -1,0 +1,19 @@
+Movie ID tt0109642, Title: dolores claiborne (1995), Tag: ['drama', 'thriller']
+Overview: a big city reporter travels to the small town where her mother has been arrested for the murder of an elderly woman that she works for as a maid
+
+Recommend Movies List IDs: ['tt0114496', 'tt0779794', 'tt0107478', 'tt0230877', 'tt0111256']
+Recommend movie top1 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+
+Recommend movie top4 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top5 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+

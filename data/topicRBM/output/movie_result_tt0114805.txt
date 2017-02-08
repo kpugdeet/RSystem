@@ -1,0 +1,19 @@
+Movie ID tt0114805, Title: unzipped (1995), Tag: ['documentary']
+Overview: isaac mizrahi one of the most successful designers in high fashion plans his fall collection he combines inspirations such as the hollywood eskimo look the mary tyler moore show and ouija derived advise like dominatrix mixed with hitchcock into a well received collection a behind the scenes look at the creative side of fashion
+
+Recommend Movies List IDs: ['tt0257315', '62', 'tt0038650', 'tt0111256', 'tt0110950']
+Recommend movie top1 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top2 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top3 ID tt0038650, Title: wonderful, horrible life of leni riefenstahl, the (macht der bilder: leni riefenstahl, die) (1993), Tag: ['documentary']
+Overview: an angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed
+
+Recommend movie top4 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top5 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+

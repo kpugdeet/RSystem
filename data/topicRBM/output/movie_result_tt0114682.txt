@@ -1,0 +1,19 @@
+Movie ID tt0114682, Title: to wong foo, thanks for everything! julie newmar (1995), Tag: ['comedy']
+Overview: after jointly winning a local drag queen pageant in new york city noxeema jackson and vida boheme win the right and are given the round trip airfare to compete in the drag queen of america pageant in hollywood california noxeema sees herself as the next dorothy dandridge who bucked the trend of most black american movie actresses of her time by never playing the slave house maid vida s style reflects her past of growing up in upper class suburban pennsylvania one of their fellow new york contestants chi chi rodriguez is a straight talking but naive and inexperienced drag queen seeing that chi chi needs some drag queen confidence despite her bravada vida and a reluctant noxeema decide to cash in their plane tickets and buy an older model cadillac convertible and drive to hollywood with chi chi their drive takes them through much of the country where alternate lifestyles are less tolerated than they may be in new york or los angeles the three have an extended stay in small town snydersville where their car breaks down if they ever make it out of snydersville they may be the better for their stay by learning more about themselves while dealing with the issues of town residents and spending more time together their stay is made even more precarious when they find out that sheriff dollard a homophobic racist and sexist highway sheriff with who they had an earlier encounter is on their tail
+
+Recommend Movies List IDs: ['tt0108122', 'tt0106660', 'tt0107653', 'tt0114928', 'tt0059448']
+Recommend movie top1 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top2 ID tt0106660, Title: dangerous game (1993), Tag: ['drama']
+Overview: a new york film director working on his latest movie in los angeles begins to reflect the actions in his movie and real life especially when he begins an affair with the lead actress
+
+Recommend movie top3 ID tt0107653, Title: naked (1993), Tag: ['drama']
+Overview: johnny flees manchester for london to avoid a beating from the family of a girl he has raped there he finds an old girlfriend and spends some time homeless spending much of his time ranting at strangers and meeting characters in plights very much like his own
+
+Recommend movie top4 ID tt0114928, Title: white man's burden (1995), Tag: ['drama']
+Overview: the story takes place in alternative america where the blacks are members of social elite and whites are inhabitants of inner city ghettos louis pinnock is a white worker in a chocolate
+
+Recommend movie top5 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+

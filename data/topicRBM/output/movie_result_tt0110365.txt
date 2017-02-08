@@ -1,0 +1,19 @@
+Movie ID tt0110365, Title: little odessa (1994), Tag: ['crime', 'drama']
+Overview: this film tells a bitter tale of a dysfunctional family joshua a cold blooded professional killer returns to his brighton beach boyhood home for a job he knows it will be difficult to return to the russian immigrant community of his youth in his eyes we see anticipation of the inevitable emotional pain and psychic turmoil that seeing his forsaken family and estranged companions will bring him to do his job and try to maintain some semblence of sanity he has had to wall off his humanity from even himself seeing his kid brother who adores him talking with his dying mother who still loves him and yes arguing with his abusive father begins to wreak havoc with his personal defenses as his steely demeanor begins to dissolve we are shown the soul of a hit man crumbling away piece by piece finally all that he now allows himself to admit that he loves is agonizingly torn away from him and he is left with the ultimate punishment for his transgressions
+
+Recommend Movies List IDs: ['tt0113089', 'tt0111127', 'tt0112818', 'tt0109370', 'tt0112572']
+Recommend movie top1 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top2 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top3 ID tt0112818, Title: dead man walking (1995), Tag: ['crime', 'drama']
+Overview: a nun while comforting a convicted killer on death row empathizes with both the killer and his victim s families
+
+Recommend movie top4 ID tt0109370, Title: canadian bacon (1995), Tag: ['comedy', 'war']
+Overview: the u s president low in the opinion polls gets talked into raising his popularity by trying to start a cold war against canada
+
+Recommend movie top5 ID tt0112572, Title: brady bunch movie, the (1995), Tag: ['comedy']
+Overview: the original t v family is now placed in the where they re even more square and out of place than ever
+

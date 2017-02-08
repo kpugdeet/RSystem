@@ -1,0 +1,19 @@
+Movie ID tt0115033, Title: young poisoner's handbook, the (1995), Tag: ['crime', 'drama']
+Overview: this film is based on a true story about a british teenager who allegedly poisoned family friends and co workers graham is highly intelligent but completely amoral he becomes interested in science especially chemistry and begins to read avidly something of a social misfit he is fascinated by morbid subjects such as poisons and murder his family environment is intolerable to him and in particular his stepmother torments him he decides to poison those who annoy him first with antimony and later with thallium he smugly thinks himself cleverer than all those around him but nevertheless he is caught and sentenced to rehabilitation at a psychiatric institution once there he undertakes to deceive the new eminent psychiatrist sent there to cure him thereby securing his release
+
+Recommend Movies List IDs: ['tt0106220', 'tt1781922', 'tt3446062', 'tt4947656', 'tt0050022']
+Recommend movie top1 ID tt0106220, Title: addams family values (1993), Tag: ['children', 'comedy', 'fantasy']
+Overview: a comical gothic horror movie type family tries to rescue their beloved uncle from his gold digging new love
+
+Recommend movie top2 ID tt1781922, Title: no escape (1994), Tag: ['action', 'drama', 'sci-fi']
+Overview: in their new overseas home an american family soon finds themselves caught in the middle of a coup and they frantically look for a safe escape from an environment where foreigners are being immediately executed
+
+Recommend movie top3 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top4 ID tt4947656, Title: simple twist of fate, a (1994), Tag: ['drama']
+Overview: quinn must prove himself worthy to take over for his friend and mentor who is retiring from one of the most important positions at their firm
+
+Recommend movie top5 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+

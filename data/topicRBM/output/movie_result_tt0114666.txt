@@ -1,0 +1,19 @@
+Movie ID tt0114666, Title: tie that binds, the (1995), Tag: ['thriller']
+Overview: john netherwood and his wife leann are fugitives who are both wanted for murder they have a young daughter named janie john and leann are in the process of robbing a house when the two residents of the house show up john kills the two residents and heads back to the car with leann only to discover the police waiting for them john and leann get away after a cop shoots john and janie is placed up for adoption janie is soon adopted by southern california carpenter russell clifton and his wife dana and what they don t know is that they re in for the fight of their lives john and leann are trying to locate janie and will stop at nothing to find her even if it means killing whoever is in their way when john and leann discover that janie was adopted by russell and dana they plot to kill russell and dana and take janie but one thing they don t expect is for russell and dana to fight back with all they ve got because russell and dana are willing to do whatever it takes to hold on to the new daughter that they have grown to love
+
+Recommend Movies List IDs: ['tt0107057', 'tt0114388', 'tt0113501', 'tt0108122', 'tt0112744']
+Recommend movie top1 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+
+Recommend movie top2 ID tt0114388, Title: sense and sensibility (1995), Tag: ['drama', 'romance']
+Overview: rich mr dashwood dies leaving his second wife and her three daughters poor by the rules of inheritance the two eldest daughters are the titular opposites
+
+Recommend movie top3 ID tt0113501, Title: just cause (1995), Tag: ['mystery', 'thriller']
+Overview: a harvard professor is lured back into the courtroom after years to take the case of a young black man condemned to death for the horrific murder of a child
+
+Recommend movie top4 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top5 ID tt0112744, Title: crossing guard, the (1995), Tag: ['action', 'crime', 'drama', 'thriller']
+Overview: freddie gale is a seedy jeweler who has sworn to kill the drunk driver who killed his little girl
+

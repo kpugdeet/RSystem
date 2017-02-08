@@ -1,0 +1,19 @@
+Movie ID tt0110963, Title: queen margot (reine margot, la) (1994), Tag: ['drama', 'romance']
+Overview: the night of august is known as the massacre of st bartholomew in france a religious war is raging in order to impose peace a forced wedding is arranged between margot de valois sister of the immature catholic king charles ix and the hugenot king henri of navarre catherine of medici maintains her behind the scenes power by ordering assaults poisonings and instigations to incest
+
+Recommend Movies List IDs: ['tt0230877', 'tt0050022', 'tt0103639', 'tt2167202', 'tt4103972']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top3 ID tt0103639, Title: aladdin (1992), Tag: ['adventure', 'animation', 'children', 'comedy', 'musical']
+Overview: when a street urchin vies for the love of a beautiful princess he uses a genie s magic power to make himself off as a prince in order to marry her
+
+Recommend movie top4 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top5 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+

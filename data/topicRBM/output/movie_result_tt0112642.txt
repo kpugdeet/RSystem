@@ -1,0 +1,19 @@
+Movie ID tt0112642, Title: casper (1995), Tag: ['adventure', 'children']
+Overview: furious that her late father only willed her his gloomy looking mansion rather than his millions carrigan crittenden is ready to burn the place to the ground when she discovers a map to a treasure hidden in the house but when she enters the rickety mansion to seek her claim she is frightened away by a wicked wave of ghosts determined to get her hands on this hidden fortune she hires afterlife therapist dr james harvey to exorcise the ghosts from the mansion harvey and his daughter kat move in and soon kat meets casper the ghost of a young boy who s the friendliest ghost you know but not so friendly are casper s uncles stretch fatso and stinkie who are determined to drive all fleshies away ultimately it is up to harvey and kat to help the ghosts cross over to the other side
+
+Recommend Movies List IDs: ['tt0109439', 'tt1595680', 'tt3446062', 'tt0117002', 'tt0109450']
+Recommend movie top1 ID tt0109439, Title: city slickers ii: the legend of curly's gold (1994), Tag: ['adventure', 'comedy', 'western']
+Overview: shortly after their first western adventure mitch robbins and his friends discover a treasure map that belonged to their late trail guide curly and set out to discover its secrets
+
+Recommend movie top2 ID tt1595680, Title: being human (1993), Tag: ['drama']
+Overview: three twenty somethings share a house and try to live a normal life despite being a ghost a werewolf and a vampire
+
+Recommend movie top3 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top4 ID tt0117002, Title: mary reilly (1996), Tag: ['drama', 'horror', 'thriller']
+Overview: a housemaid falls in love with dr jekyll and his darkly mysterious counterpart mr hyde
+
+Recommend movie top5 ID tt0109450, Title: cobb (1994), Tag: ['drama']
+Overview: a reporter hired to write the official biography of ty cobb discovers just how dark the baseball legend s real story is
+

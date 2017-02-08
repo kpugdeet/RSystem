@@ -1,0 +1,19 @@
+Movie ID tt0106402, Title: beyond bedlam (1993), Tag: ['drama', 'horror']
+Overview: dr stephanie lyell works for neurological research and is testing a seemingly safe personality altering drug on marc gilmour a notorious serial killer but when a pair of bizarre suicides
+
+Recommend Movies List IDs: ['tt0110997', 'tt1595032', 'tt0109891', 'tt0114496', 'tt0360307']
+Recommend movie top1 ID tt0110997, Title: river wild, the (1994), Tag: ['action', 'thriller']
+Overview: rafting expert gail takes on a pair of armed killers while navigating a spectacularly violent river
+
+Recommend movie top2 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top3 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top4 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top5 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+

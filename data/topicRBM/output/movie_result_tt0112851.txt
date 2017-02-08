@@ -1,0 +1,19 @@
+Movie ID tt0112851, Title: desperado (1995), Tag: ['action', 'romance', 'western']
+Overview: with this sequel to his prize winning independent previous film el mariachi director robert rodriquez joins the ranks of sam peckinpah and john woo as a master of slick glamorized ultra violence we pick up the story as a continuation of el mariachi where an itinerant musician looking for work gets mistaken for a hitman and thereby entangled in a web of love corruption and death this time he is out to avenge the murder of his lover and the maiming of his fretting hand which occurred at the end of the earlier movie however the plot is recapitulated and again a case of mistaken identity leads to a very high body count involvement with a beautiful woman who works for the local drug lord and finally the inevitable face to face confrontation and bloody showdown
+
+Recommend Movies List IDs: ['tt0110950', 'tt0109443', 'tt1391741', 'tt0109450', 'tt0058450']
+Recommend movie top1 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+
+Recommend movie top2 ID tt0109443, Title: clean slate (1994), Tag: ['comedy']
+Overview: a private eye who suffers total amnesia every is deeply entangled in a complicated murder theft case
+
+Recommend movie top3 ID tt1391741, Title: walking dead, the (1995), Tag: ['drama', 'war']
+Overview: an old man looks death in the face when a stranger s car hits a tree off an icy road
+
+Recommend movie top4 ID tt0109450, Title: cobb (1994), Tag: ['drama']
+Overview: a reporter hired to write the official biography of ty cobb discovers just how dark the baseball legend s real story is
+
+Recommend movie top5 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+

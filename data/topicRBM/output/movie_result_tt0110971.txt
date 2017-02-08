@@ -1,0 +1,19 @@
+Movie ID tt0110971, Title: renaissance man (1994), Tag: ['comedy', 'drama']
+Overview: a down on his luck businessman desperately takes the only job offered a teacher in the u s army his mission keep a ragtag bunch of underachieving misfits from flunking out of basic training be on alert as this unlikely new teacher and his underdog class unexpectedly inspire each other to be all they can be
+
+Recommend Movies List IDs: ['62', 'tt0111742', 'tt0110657', 'tt3446062', 'tt0230877']
+Recommend movie top1 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top2 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top3 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top4 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

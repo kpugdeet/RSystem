@@ -1,0 +1,19 @@
+Movie ID tt0105275, Title: romper stomper (1992), Tag: ['action', 'drama']
+Overview: nazi skinheads in melbourne take out their anger on local vietnamese who are seen as threatening racial purity finally the vietnamese have had enough and confront the skinheads in an all out confrontation sending the skinheads running a woman who is prone to epileptic seizures joins the skins merry band and helps them on their run from justice but is her affliction also a sign of impurity
+
+Recommend Movies List IDs: ['tt0114496', 'tt0109198', 'tt0109450', 'tt0109579', 'tt0106292']
+Recommend movie top1 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top2 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top3 ID tt0109450, Title: cobb (1994), Tag: ['drama']
+Overview: a reporter hired to write the official biography of ty cobb discovers just how dark the baseball legend s real story is
+
+Recommend movie top4 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top5 ID tt0106292, Title: another stakeout (1993), Tag: ['comedy', 'thriller']
+Overview: prankster cops chris and bill are joined by a gina from the da s office to stakeout a lakeside home
+

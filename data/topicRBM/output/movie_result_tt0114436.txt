@@ -1,0 +1,19 @@
+Movie ID tt0114436, Title: showgirls (1995), Tag: ['drama']
+Overview: nomi malone a mysterious young girl with the ambition to dance embarks on a journey to las vegas to become a showgirl in a high class hotel show there she meets molly a seamstress at the stardust hotel and the two quickly become good friends she gets a job as a lap dancer at the seedy cheetah club but after a chance meeting with cristal connors the star of goddess the current show at the hotel where molly works nomi manages to secure an audition for a spot on the chorus line however she soon realises that fame comes with a price as her friendships her morals and her soul are put to the test as she works her way up the ladder and eventually becomes the star of the show stealing cristal s part she begins to wonder if all of her work was for nothing and if she can reclaim her life back before it is too late
+
+Recommend Movies List IDs: ['tt0109306', 'tt0109813', 'tt0109484', 'tt0111256', 'tt0038650']
+Recommend movie top1 ID tt0109306, Title: blue sky (1994), Tag: ['drama', 'romance']
+Overview: jessica lange stars in a period drama about a family moving to a military base and she quickly becomes part of a cover up involving nuclear bomb tests
+
+Recommend movie top2 ID tt0109813, Title: flintstones, the (1994), Tag: ['children', 'comedy', 'fantasy']
+Overview: in this live action feature of the cartoon show fred flintstone finally gets the job he s always wanted but it may just come at a price
+
+Recommend movie top3 ID tt0109484, Title: corrina, corrina (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: when manny singer s wife dies his young daughter molly becomes mute and withdrawn to help cope with looking after molly he hires sassy housekeeper corrina washington who coaxes molly
+
+Recommend movie top4 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top5 ID tt0038650, Title: wonderful, horrible life of leni riefenstahl, the (macht der bilder: leni riefenstahl, die) (1993), Tag: ['documentary']
+Overview: an angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed
+

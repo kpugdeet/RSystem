@@ -1,0 +1,19 @@
+Movie ID tt0118158, Title: white squall (1996), Tag: ['action', 'adventure', 'drama']
+Overview: a true story about a group of american teenage boys who crew a school sailing ship to gain experience discipline or whatever their parents feel they lack the voyage is a true adventure for them all but it has its downs as well as ups
+
+Recommend Movies List IDs: ['tt0360307', 'tt0779794', 'tt0050022', 'tt0115645', 'tt0109198']
+Recommend movie top1 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top4 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

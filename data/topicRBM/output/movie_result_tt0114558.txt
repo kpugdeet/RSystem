@@ -1,0 +1,19 @@
+Movie ID tt0114558, Title: strange days (1995), Tag: ['action', 'crime', 'drama', 'mystery', 'sci-fi', 'thriller']
+Overview: set in the year during the last days of the old millennium the movie tells the story of lenny nero an ex cop who now deals with data discs containing recorded memories and emotions one day he receives a disc which contains the memories of a murderer killing a prostitute lenny investigates and is pulled deeper and deeper in a whirl of blackmail murder and rape will he survive and solve the case
+
+Recommend Movies List IDs: ['tt0115645', 'tt0108122', 'tt0113677', 'tt0106677', 'tt0109198']
+Recommend movie top1 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top2 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top3 ID tt0113677, Title: living in oblivion (1995), Tag: ['comedy']
+Overview: film about filmmaking it takes place during one day on set of non budget movie ultimate tribute to all independent filmmakers
+
+Recommend movie top4 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

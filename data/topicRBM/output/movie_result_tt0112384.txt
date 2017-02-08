@@ -1,0 +1,19 @@
+Movie ID tt0112384, Title: apollo 13 (1995), Tag: ['adventure', 'drama', 'imax']
+Overview: based on the true story of the ill fated apollo mission bound for the moon astronauts lovell haise and swigert were scheduled to fly apollo but are moved up to it s and america have already achieved their lunar landing goal so there s little interest in this routine flight until that is things go very wrong and prospects of a safe return fade
+
+Recommend Movies List IDs: ['tt0111127', 'tt0360307', 'tt0114478', 'tt0115639', 'tt0147800']
+Recommend movie top1 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top2 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top3 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+
+Recommend movie top4 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top5 ID tt0147800, Title: hate (haine, la) (1995), Tag: ['crime', 'drama']
+Overview: a pretty popular teenager can t go out on a date until her ill tempered older sister does
+

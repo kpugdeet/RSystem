@@ -1,0 +1,19 @@
+Movie ID tt0114814, Title: usual suspects, the (1995), Tag: ['crime', 'mystery', 'thriller']
+Overview: following a truck hijack in new york five conmen are arrested and brought together for questioning as none of them are guilty they plan a revenge operation against the police the operation goes well but then the influence of a legendary mastermind criminal called keyser sze is felt it becomes clear that each one of them has wronged sze at some point and must pay back now the payback job leaves men dead in a boat explosion but the real question arises now who actually is keyser sze
+
+Recommend Movies List IDs: ['tt0115759', 'tt0116367', 'tt0111742', 'tt0110657', 'tt0116253']
+Recommend movie top1 ID tt0115759, Title: broken arrow (1996), Tag: ['action', 'adventure', 'thriller']
+Overview: terrorists steal nuclear warheads from the u s military but don t count on a pilot and park ranger spoiling their plans
+
+Recommend movie top2 ID tt0116367, Title: from dusk till dawn (1996), Tag: ['action', 'comedy', 'horror', 'thriller']
+Overview: two criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires with chaotic results
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top5 ID tt0116253, Title: executive decision (1996), Tag: ['action', 'adventure', 'thriller']
+Overview: when terrorists seize control of an airliner an intelligence analyst accompanies a commando unit for a midair boarding operation
+

@@ -1,0 +1,19 @@
+Movie ID tt0113492, Title: judge dredd (1995), Tag: ['action', 'crime', 'sci-fi']
+Overview: in the year the earth has changed into a virtually uninhabitable place called the cursed earth all of the earth s population have crowded into the cities across the planet now known as mega cities the crimes in these mega cities became so violent and so powerful that the regular justice system was powerless to contain then it collapsed completely however a new justice system came from the ashes there were three justice systems in one police jury and executioner they were called judges in mega city one formerly new york city there was a judge named joseph dredd who was the toughest and most stringent judge in history one day he was charged with murder and was tried and sentenced to life in prison because of it
+
+Recommend Movies List IDs: ['tt0112572', 'tt3507484', 'tt0499556', 'tt0111333', 'tt0111003']
+Recommend movie top1 ID tt0112572, Title: brady bunch movie, the (1995), Tag: ['comedy']
+Overview: the original t v family is now placed in the where they re even more square and out of place than ever
+
+Recommend movie top2 ID tt3507484, Title: flesh and bone (1993), Tag: ['drama', 'mystery', 'romance']
+Overview: a talented but emotionally troubled dancer runs away to new york city and quickly finds herself immersed in the cutthroat world of professional ballet
+
+Recommend movie top3 ID tt0499556, Title: war, the (1994), Tag: ['adventure', 'drama', 'war']
+Overview: an fbi agent seeks vengeance on a mysterious assassin known as rogue who murdered his partner
+
+Recommend movie top4 ID tt0111333, Title: swan princess, the (1994), Tag: ['animation', 'children']
+Overview: a power hungry sorcerer transforms a princess into a swan by day in this tale of everlasting love
+
+Recommend movie top5 ID tt0111003, Title: puppet masters, the (1994), Tag: ['horror', 'sci-fi']
+Overview: the earth is invaded by stingray shaped alien slugs that ride on people s backs and control their minds
+

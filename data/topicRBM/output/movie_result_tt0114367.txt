@@ -1,0 +1,19 @@
+Movie ID tt0114367, Title: screamers (1995), Tag: ['action', 'sci-fi', 'thriller']
+Overview: sirius year on a distant mining planet ravaged by a decade of war scientists have created the perfect weapon a blade wielding self replicating race of killing devices known as
+
+Recommend Movies List IDs: ['tt0230877', 'tt0380167', 'tt3446062', 'tt0079758', 'tt0058450']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0380167, Title: addiction, the (1995), Tag: ['drama', 'horror']
+Overview: a brutal act of self defense unleashes a quiet man s inner demons
+
+Recommend movie top3 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top4 ID tt0079758, Title: prophecy, the (1995), Tag: ['fantasy', 'horror', 'mystery']
+Overview: a log company s waste mutates the environment creating a giant killer bear monster
+
+Recommend movie top5 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+

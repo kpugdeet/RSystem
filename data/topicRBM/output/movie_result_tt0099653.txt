@@ -1,0 +1,19 @@
+Movie ID tt0099653, Title: ghost (1990), Tag: ['comedy', 'drama', 'fantasy', 'romance', 'thriller']
+Overview: sam wheat is a banker molly jensen is an artist and the two are madly in love however when sam is murdered by friend and corrupt business partner carl bruner over a shady business deal he is left to roam the earth as a powerless spirit when he learns of carl s betrayal sam must seek the help of psychic oda mae brown to set things right and protect molly from carl and his goons
+
+Recommend Movies List IDs: ['tt0115645', 'tt0112966', 'tt0499556', 'tt4947656', 'tt0360307']
+Recommend movie top1 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top2 ID tt0112966, Title: englishman who went up a hill but came down a mountain, the (1995), Tag: ['comedy', 'romance']
+Overview: when an english cartographer must tell a welsh village that their mountain is only a hill the offended community sets out to change that
+
+Recommend movie top3 ID tt0499556, Title: war, the (1994), Tag: ['adventure', 'drama', 'war']
+Overview: an fbi agent seeks vengeance on a mysterious assassin known as rogue who murdered his partner
+
+Recommend movie top4 ID tt4947656, Title: simple twist of fate, a (1994), Tag: ['drama']
+Overview: quinn must prove himself worthy to take over for his friend and mentor who is retiring from one of the most important positions at their firm
+
+Recommend movie top5 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+

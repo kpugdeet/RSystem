@@ -1,0 +1,19 @@
+Movie ID tt0114571, Title: stuart saves his family (1995), Tag: ['comedy']
+Overview: stuart smalley the saturday night live character comes to the big screen stuart the disciple of the step program is challenged by lifes injustices he loses his public access cable television show must beg his manipulative overbearing boss for his job back rehabilitate his alcoholic father and drug abuser brother and support his over weight mother and sister in their lack of ability in handling their relationships with their husbands stuart is supported by his step sponsors as a he regresses back to his negative behaviors each time he faces these challenges
+
+Recommend Movies List IDs: ['tt0111693', 'tt0109891', 'tt0111488', 'tt0112495', 'tt0111054']
+Recommend movie top1 ID tt0111693, Title: when a man loves a woman (1994), Tag: ['drama', 'romance']
+Overview: an airline pilot and his wife are forced to face the consequences of her alcoholism when her addictions threaten her life and their daughter s safety while the woman enters detox her husband must face the truth of his enabling behavior
+
+Recommend movie top2 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top3 ID tt0111488, Title: trial by jury (1994), Tag: ['crime', 'drama', 'thriller']
+Overview: valerie is a juror in the trail of a mob boss when her young son s life is threatened she has no option other than to see that justice isn t done
+
+Recommend movie top4 ID tt0112495, Title: beyond rangoon (1995), Tag: ['adventure', 'drama', 'war']
+Overview: laura is trying to pick up the pieces of her life after the murder of her husband and son and goes on vacation with her sister to burma after losing her passport at a political rally she
+
+Recommend movie top5 ID tt0111054, Title: safe passage (1994), Tag: ['drama']
+Overview: a mother with seven sons feels like she s losing control of her life and her family but personal pain and a troubled marriage fade into the background as news comes that one of her sons
+

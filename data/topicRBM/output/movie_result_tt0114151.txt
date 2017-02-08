@@ -1,0 +1,19 @@
+Movie ID tt0114151, Title: poison ivy ii (1996), Tag: ['drama', 'thriller']
+Overview: lily is a sheltered art student from michigan going to school in california she finds an apartment and her roommates aren t quite normal one day she finds a box of items belonging to a
+
+Recommend Movies List IDs: ['tt0106677', '62', 'tt0108122', 'tt4103972', 'tt1595032']
+Recommend movie top1 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top2 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top3 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top4 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top5 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+

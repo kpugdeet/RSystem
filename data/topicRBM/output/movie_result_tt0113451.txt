@@ -1,0 +1,19 @@
+Movie ID tt0113451, Title: jade (1995), Tag: ['thriller']
+Overview: someone does a nasty hatchet job on a san fransisco big noise and the assistant d a takes charge of the investigation through a web of blackmail and prostitution involving the governor an old lover of the lawman emerges as a prime suspect and he has to deal with his personal feelings as well as the case
+
+Recommend Movies List IDs: ['tt0108174', 'tt0109198', 'tt0115645', 'tt0257315', 'tt0230877']
+Recommend movie top1 ID tt0108174, Title: so i married an axe murderer (1993), Tag: ['comedy', 'romance', 'thriller']
+Overview: a san francisco poet who fears commitment suspects his girlfriend may not be who she appears
+
+Recommend movie top2 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top3 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top4 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

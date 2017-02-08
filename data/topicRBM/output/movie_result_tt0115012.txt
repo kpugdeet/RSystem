@@ -1,0 +1,19 @@
+Movie ID tt0115012, Title: shanghai triad (yao a yao yao dao waipo qiao) (1995), Tag: ['crime', 'drama']
+Overview: uncle liu brings his cousin to shanghai to work for boss the leader of a powerful drug empire in the s shuisheng a simple country boy is awed and overwhelmed by the opulence and immense wealth he is suddenly surrounded by he is to be the attendant of xiao jingbao the new mistress of boss while he fumbles with the demands of his new role much intrigue is going on around him well beyond his bewildered perception xiao jingbao is having a tumultuous affair fat yu is starting a gang war and boss is beginning to suspect that one of his trusted men is not loyal
+
+Recommend Movies List IDs: ['tt0111488', 'tt0050022', 'tt0108174', 'tt0111333', 'tt0257315']
+Recommend movie top1 ID tt0111488, Title: trial by jury (1994), Tag: ['crime', 'drama', 'thriller']
+Overview: valerie is a juror in the trail of a mob boss when her young son s life is threatened she has no option other than to see that justice isn t done
+
+Recommend movie top2 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top3 ID tt0108174, Title: so i married an axe murderer (1993), Tag: ['comedy', 'romance', 'thriller']
+Overview: a san francisco poet who fears commitment suspects his girlfriend may not be who she appears
+
+Recommend movie top4 ID tt0111333, Title: swan princess, the (1994), Tag: ['animation', 'children']
+Overview: a power hungry sorcerer transforms a princess into a swan by day in this tale of everlasting love
+
+Recommend movie top5 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+

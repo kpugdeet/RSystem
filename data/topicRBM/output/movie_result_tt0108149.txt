@@ -1,0 +1,19 @@
+Movie ID tt0108149, Title: six degrees of separation (1993), Tag: ['drama']
+Overview: new yorkers ouisa and flan kittredge are upper class private art dealers pretentious but compassionate their prized possession is a double sided kandinsky one side that represents control the other side chaos they relay a story to their friends and acquaintances that over time becomes legendary it is their encounter with a young black man who they had never met or heard of but who comes stumbling upon their front door one evening as they are courting an important investor geoffrey miller who could make them wealthy beyond what they could have dreamed that black man is paul poitier who has just arrived in the city was just mugged outside their building and is sporting a minor knife wound to the abdomen he is a friend of the kittredge s children who are attending harvard but more importantly is the son of actor director sidney poitier tomorrow paul is meeting up with his father who is in town directing a movie of cats beyond the attraction of talking paul into getting them roles in the movie ouisa flan and geoffrey all end up being captivated by the charm charisma pedigree and eloquence of paul who the kittredges after tending to his wounds invite to stay the night their encounter with paul ends up being an all too familiar story which they will soon learn and leads the kittredges on a search for paul after he leaves their abode the next morning in that search ouisa in particular begins to view critically their life and just how much compassion they really have
+
+Recommend Movies List IDs: ['tt0107426', 'tt0059448', 'tt0107822', 'tt0112651', 'tt0113107']
+Recommend movie top1 ID tt0107426, Title: little buddha (1993), Tag: ['drama']
+Overview: lama norbu comes to seattle in search of the reincarnation of his dead teacher lama dorje his search leads him to young jesse conrad raju a waif from kathmandu and an upper class
+
+Recommend movie top2 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+
+Recommend movie top3 ID tt0107822, Title: piano, the (1993), Tag: ['drama', 'romance']
+Overview: a mute woman is sent to new zealand along with her young daughter and prized piano for an arranged marriage to a wealthy landowner but is soon lusted after by a local worker on the plantation
+
+Recommend movie top4 ID tt0112651, Title: celluloid closet, the (1995), Tag: ['documentary']
+Overview: a comprehensive documentary of the history of gays and lesbians in cinema from negative to positive reflections of gay characters and the troubles of actors and actresses
+
+Recommend movie top5 ID tt0113107, Title: frankie starlight (1995), Tag: ['drama', 'romance']
+Overview: this is a story of a man walker suffering from dwarfism who writes an autobiographical account of his life in flashbacks we see how he was conceived to a woman parillaud at the end
+

@@ -1,0 +1,19 @@
+Movie ID tt0114825, Title: vampire in brooklyn (1995), Tag: ['comedy', 'horror', 'romance']
+Overview: maximillian is the only survivor from a race of vampires on a caribbean island and as a vampire he must find a mate to keep the line from ending he knows that a child had been born to a woman who had a vampire father and he searches for her in brooklyn rita s mother who has died in an asylum was that woman and rita has nightmares that she does not understand not knowing that she is part vampire max woos her and attempts to bring her to her blood sucking destiny even though rita has strange dreams and actions justice her partner has feelings for her and does not want her involved with this stranger max but it is rita who must decide her destiny
+
+Recommend Movies List IDs: ['tt0934676', 'tt0779794', 'tt0111742', 'tt0113089', 'tt1595680']
+Recommend movie top1 ID tt0934676, Title: little princess, a (1995), Tag: ['children', 'drama']
+Overview: a little girl lives in a rather strange castle she shares it with her mother father and maid other characters help her realize that just because you are a princess you can t always get what you want
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top5 ID tt1595680, Title: being human (1993), Tag: ['drama']
+Overview: three twenty somethings share a house and try to live a normal life despite being a ghost a werewolf and a vampire
+

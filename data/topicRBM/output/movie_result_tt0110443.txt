@@ -1,0 +1,19 @@
+Movie ID tt0110443, Title: major payne (1995), Tag: ['comedy']
+Overview: major benson winifred payne is being discharged from the marines payne is a killin machine but the wars of the world are no longer fought on the battlefield a career marine he has no idea what to do as a civilian so his commander finds him a job commanding officer of a local school s jrotc program a bunch or ragtag losers with no hope using such teaching tools as live grenades and real bullets payne starts to instill the corp with some hope but when payne is recalled to fight in bosnia will he leave the corp that has just started to believe in him or will he find out that killin ain t much of a livin
+
+Recommend Movies List IDs: ['tt1425253', 'tt0111742', 'tt0113277', '62', 'tt0106292']
+Recommend movie top1 ID tt1425253, Title: shadow, the (1994), Tag: ['action', 'adventure', 'fantasy', 'mystery']
+Overview: when a young soldier leaves for a mountain biking excursion he meets the girl of his dreams as well as a group of violent locals who want to see them dead at any cost
+
+Recommend movie top2 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top3 ID tt0113277, Title: heat (1995), Tag: ['action', 'crime', 'thriller']
+Overview: a group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist
+
+Recommend movie top4 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top5 ID tt0106292, Title: another stakeout (1993), Tag: ['comedy', 'thriller']
+Overview: prankster cops chris and bill are joined by a gina from the da s office to stakeout a lakeside home
+

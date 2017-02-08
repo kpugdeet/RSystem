@@ -1,0 +1,19 @@
+Movie ID tt0435506, Title: crow, the (1994), Tag: ['action', 'crime', 'fantasy', 'thriller']
+Overview: esa nissi s documentary film about the symbiosis of man and the crow a story about a peasant crow that tries to adapt to modern citylife winter is coming amd the nature of the countryside fails to provide enough nutrition to the crow fosterling of the countryside has to change it s lifestyle radically migration to overwinter lies ahead luckily unlike it s forefathers the crow doesn t have to go through the moving flight to middle europe the nearest city provides the means to winter could the swollen urbanized man help crow tells how the city community created by man embraces a migrant one autumn day
+
+Recommend Movies List IDs: ['498 ', 'tt0380167', 'tt0109579', 'tt0079758', 'tt4103972']
+Recommend movie top1 ID 498 , Title: mr. jones (1993), Tag: ['drama', 'romance']
+Overview: the story about the relationship between a manic depressive man mr jones and the female doctor who takes more than a professional interest in his treatment
+
+Recommend movie top2 ID tt0380167, Title: addiction, the (1995), Tag: ['drama', 'horror']
+Overview: a brutal act of self defense unleashes a quiet man s inner demons
+
+Recommend movie top3 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top4 ID tt0079758, Title: prophecy, the (1995), Tag: ['fantasy', 'horror', 'mystery']
+Overview: a log company s waste mutates the environment creating a giant killer bear monster
+
+Recommend movie top5 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+

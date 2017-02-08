@@ -1,0 +1,19 @@
+Movie ID tt0113326, Title: rumble in the bronx (hont faan kui) (1995), Tag: ['action', 'adventure', 'comedy', 'crime']
+Overview: a young man visiting and helping his uncle in new york city finds himself forced to fight a street gang and the mob with his martial art skills
+
+Recommend Movies List IDs: ['tt0059448', 'tt1595032', 'tt0111301', 'tt0109579', 'tt0109198']
+Recommend movie top1 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+
+Recommend movie top2 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top3 ID tt0111301, Title: street fighter (1994), Tag: ['action', 'adventure', 'fantasy']
+Overview: col guile and various other martial arts heroes fight against the tyranny of dictator m bison and his cohorts
+
+Recommend movie top4 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

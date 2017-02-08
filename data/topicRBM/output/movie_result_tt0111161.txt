@@ -1,0 +1,19 @@
+Movie ID tt0111161, Title: shawshank redemption, the (1994), Tag: ['crime', 'drama']
+Overview: two imprisoned men bond over a number of years finding solace and eventual redemption through acts of common decency
+
+Recommend Movies List IDs: ['tt0230877', 'tt0111256', 'tt0114496', 'tt1595032', 'tt0380167']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top5 ID tt0380167, Title: addiction, the (1995), Tag: ['drama', 'horror']
+Overview: a brutal act of self defense unleashes a quiet man s inner demons
+

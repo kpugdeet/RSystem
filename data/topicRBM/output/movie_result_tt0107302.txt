@@ -1,0 +1,19 @@
+Movie ID tt0107302, Title: kalifornia (1993), Tag: ['drama', 'thriller']
+Overview: a journalist duo go on a tour of serial killer murder sites with two companions unaware that one of them is a serial killer himself
+
+Recommend Movies List IDs: ['tt0110632', 'tt0112818', 'tt0230877', 'tt0115645', 'tt0110997']
+Recommend movie top1 ID tt0110632, Title: natural born killers (1994), Tag: ['action', 'crime', 'thriller']
+Overview: two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media
+
+Recommend movie top2 ID tt0112818, Title: dead man walking (1995), Tag: ['crime', 'drama']
+Overview: a nun while comforting a convicted killer on death row empathizes with both the killer and his victim s families
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top5 ID tt0110997, Title: river wild, the (1994), Tag: ['action', 'thriller']
+Overview: rafting expert gail takes on a pair of armed killers while navigating a spectacularly violent river
+

@@ -1,0 +1,19 @@
+Movie ID tt0109758, Title: exit to eden (1994), Tag: ['comedy']
+Overview: elliot is going to the island of eden to live out his submissive fantasies but inadvertently photographs diamond smugglers at work smugglers and detectives follow him to the island where they try to retrieve the film elliot begins falling in love with lisa the head mistress of the island and lisa must evaluate her feelings about elliot and her own motivations
+
+Recommend Movies List IDs: ['tt0111256', 'tt0779794', 'tt3446062', 'tt0112572', 'tt1595680']
+Recommend movie top1 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top4 ID tt0112572, Title: brady bunch movie, the (1995), Tag: ['comedy']
+Overview: the original t v family is now placed in the where they re even more square and out of place than ever
+
+Recommend movie top5 ID tt1595680, Title: being human (1993), Tag: ['drama']
+Overview: three twenty somethings share a house and try to live a normal life despite being a ghost a werewolf and a vampire
+

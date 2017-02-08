@@ -1,0 +1,19 @@
+Movie ID tt0109686, Title: dumb & dumber (dumb and dumber) (1994), Tag: ['adventure', 'comedy']
+Overview: harry and lloyd are two good friends who happen to be really stupid the duo set out on a cross country trip from providence to aspen colorado to return a briefcase full of money to its rightful owner a beautiful woman named mary swanson after a trip of one mishap after another the duo eventually make it to aspen but the two soon realize that mary and her briefcase are the least of their problems
+
+Recommend Movies List IDs: ['tt0113198', 'tt0113749', 'tt0111256', 'tt3446062', 'tt0103639']
+Recommend movie top1 ID tt0113198, Title: goofy movie, a (1995), Tag: ['animation', 'children', 'comedy', 'romance']
+Overview: when max makes an preposterous promise to a girl he has a crush on his chances to fulfilling it seem hopeless when he is dragged onto a cross country trip with his embarrassing father goofy
+
+Recommend movie top2 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top3 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top4 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top5 ID tt0103639, Title: aladdin (1992), Tag: ['adventure', 'animation', 'children', 'comedy', 'musical']
+Overview: when a street urchin vies for the love of a beautiful princess he uses a genie s magic power to make himself off as a prince in order to marry her
+

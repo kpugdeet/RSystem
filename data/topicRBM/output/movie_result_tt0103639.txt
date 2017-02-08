@@ -1,0 +1,19 @@
+Movie ID tt0103639, Title: aladdin (1992), Tag: ['adventure', 'animation', 'children', 'comedy', 'musical']
+Overview: when a street urchin vies for the love of a beautiful princess he uses a genie s magic power to make himself off as a prince in order to marry her
+
+Recommend Movies List IDs: ['tt0111333', 'tt0114496', 'tt0111256', 'tt4103972', 'tt0111127']
+Recommend movie top1 ID tt0111333, Title: swan princess, the (1994), Tag: ['animation', 'children']
+Overview: a power hungry sorcerer transforms a princess into a swan by day in this tale of everlasting love
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top4 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top5 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+

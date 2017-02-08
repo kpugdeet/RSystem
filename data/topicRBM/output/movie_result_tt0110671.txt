@@ -1,0 +1,19 @@
+Movie ID tt0110671, Title: nina takes a lover (1994), Tag: ['comedy', 'romance']
+Overview: when ninas husband goes off for a few weeks to work she meets and starts seeing a photographer this story is told as an interview by a journalist writing about adultery who is talking with both nina and the photographer in separate interviews through him we learn much about the couple and their attitudes on adultery
+
+Recommend Movies List IDs: ['tt0114496', 'tt0109370', 'tt0111256', 'tt0109450', 'tt4103972']
+Recommend movie top1 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top2 ID tt0109370, Title: canadian bacon (1995), Tag: ['comedy', 'war']
+Overview: the u s president low in the opinion polls gets talked into raising his popularity by trying to start a cold war against canada
+
+Recommend movie top3 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top4 ID tt0109450, Title: cobb (1994), Tag: ['drama']
+Overview: a reporter hired to write the official biography of ty cobb discovers just how dark the baseball legend s real story is
+
+Recommend movie top5 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+

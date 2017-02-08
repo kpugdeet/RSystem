@@ -1,0 +1,19 @@
+Movie ID tt0113118, Title: friday (1995), Tag: ['comedy']
+Overview: two homies smokey and craig smoke a dope dealer s weed and try to figure a way to get the they owe to the dealer by p m that same night in that time they smoke more weed and get jacked and shot at in a drive by
+
+Recommend Movies List IDs: ['tt0109891', 'tt0114478', 'tt1595032', 'tt4103972', 'tt0360307']
+Recommend movie top1 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top2 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+
+Recommend movie top3 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top4 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top5 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+

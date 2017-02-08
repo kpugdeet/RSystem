@@ -1,0 +1,19 @@
+Movie ID tt0107144, Title: hot shots! part deux (1993), Tag: ['action', 'comedy', 'war']
+Overview: topper harley is found working as an odd job man in a monastery the cia wants him to lead a rescue mission into iraq to rescue the last rescue team who went in to rescue the last rescue team who who went in to rescue hostages left behind after desert storm the president is tug benson who also likes to be in on the action basically it s a send up of all the big shoot em up rambo robocop commando type movies
+
+Recommend Movies List IDs: ['tt0106220', 'tt0112715', 'tt0108255', 'tt0109579', 'tt0111742']
+Recommend movie top1 ID tt0106220, Title: addams family values (1993), Tag: ['children', 'comedy', 'fantasy']
+Overview: a comical gothic horror movie type family tries to rescue their beloved uncle from his gold digging new love
+
+Recommend movie top2 ID tt0112715, Title: congo (1995), Tag: ['action', 'adventure', 'mystery', 'sci-fi']
+Overview: when an expedition to the african congo ends in disaster a new team is assembled to find out what went wrong
+
+Recommend movie top3 ID tt0108255, Title: super mario bros. (1993), Tag: ['action', 'adventure', 'children', 'comedy', 'fantasy', 'sci-fi']
+Overview: two brooklyn plumbers mario and luigi must travel to another dimension to rescue a princess from the evil dictator king koopa and stop him from taking over the world
+
+Recommend movie top4 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top5 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+

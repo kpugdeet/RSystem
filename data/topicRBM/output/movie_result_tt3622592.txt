@@ -1,0 +1,19 @@
+Movie ID tt3622592, Title: paper, the (1994), Tag: ['comedy', 'drama']
+Overview: after an all night adventure quentin s life long crush margo disappears leaving behind clues that quentin and his friends follow on the journey of a lifetime
+
+Recommend Movies List IDs: ['tt0360307', 'tt0050022', 'tt0109198', 'tt0109891', 'tt0779794']
+Recommend movie top1 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top2 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top3 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top4 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top5 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+

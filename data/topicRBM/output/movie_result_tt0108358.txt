@@ -1,0 +1,19 @@
+Movie ID tt0108358, Title: tombstone (1993), Tag: ['action', 'drama', 'western']
+Overview: after success cleaning up dodge city wyatt earp moves to tombstone arizona and wishes to get rich in obscurity he meets his brothers there as well as his old friend doc holliday a band of outlaws that call themselves the cowboys are causing problems in the region with various acts of random violence and inevitably come into confrontation with holliday and the earps which leads to a shoot out at the ok corral
+
+Recommend Movies List IDs: ['tt0360307', 'tt0108101', 'tt0115639', 'tt0109198', '499']
+Recommend movie top1 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top2 ID tt0108101, Title: shadowlands (1993), Tag: ['drama', 'romance']
+Overview: c s lewis a world renowned christian theologian writer and professor leads a passionless life until he meets a spirited poet from the u s
+
+Recommend movie top3 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top4 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top5 ID 499, Title: mr. wonderful (1993), Tag: ['comedy', 'romance']
+Overview: electrician gus gets the chance to fulfill a childhood dream by buying an old bowling alley with some of his friends unfortunately due to the alimony payments he has to make to his
+

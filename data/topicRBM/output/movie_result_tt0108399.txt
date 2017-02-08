@@ -1,0 +1,19 @@
+Movie ID tt0108399, Title: true romance (1993), Tag: ['crime', 'thriller']
+Overview: in detroit clarence worley goes to the movie theater alone on the day of his birthday to watch some movies the gorgeous alabama whitman accidentally drops her popcorn on clarence and they watch the movie together later they go to a diner for pie and end up having a one night stand in the morning alabama confesses that she is a call girl hired to spend the night with him but she has fallen in love with him in the morning they get married and clarence goes to the club where she worked to bring her some clothes however her pimp drexl spivey and his partner beat up clarence and he reacts by killing them both clarence asks for alabama s suitcase with her clothes and the other girls mistakenly give another one with cocaine when clarence discovers the mistake he decides to travel with alabama to the house of his friend the aspiring actor dick ritchie to sell the drug and travel to mexico he visits his father clifford worley and gives his address to him but the sicilian mafia is the owner of the drug and a group of killers are sent to hunt down clarnece and alabama
+
+Recommend Movies List IDs: ['tt0106452', 'tt0112744', 'tt0360307', 'tt0111756', 'tt0111333']
+Recommend movie top1 ID tt0106452, Title: body snatchers (1993), Tag: ['horror', 'sci-fi', 'thriller']
+Overview: a teenage girl and her father discover alien clones are replacing humans on a remote u s military base in alabama
+
+Recommend movie top2 ID tt0112744, Title: crossing guard, the (1995), Tag: ['action', 'crime', 'drama', 'thriller']
+Overview: freddie gale is a seedy jeweler who has sworn to kill the drunk driver who killed his little girl
+
+Recommend movie top3 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top4 ID tt0111756, Title: wyatt earp (1994), Tag: ['western']
+Overview: wyatt earp is a movie about a man and his family the movie shows us the good times and the bad times of one of the west s most famous individuals
+
+Recommend movie top5 ID tt0111333, Title: swan princess, the (1994), Tag: ['animation', 'children']
+Overview: a power hungry sorcerer transforms a princess into a swan by day in this tale of everlasting love
+

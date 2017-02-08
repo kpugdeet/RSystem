@@ -1,0 +1,19 @@
+Movie ID tt1841321, Title: secret garden, the (1993), Tag: ['children', 'drama']
+Overview: kim joo won hyun bin is the dream of every woman he is young rich handsome well educated and the c e o of a big department store however his bossiness and arrogance can not shield his heart from an unexpected and unlikely love gil ra im ha ji won is a professional stunt actress she drives fights and talks like a man she is exactly the opposite of what kim joo won looks for in a prospective wife poor under educated old years old from an ordinary family etc when kim joo won attempts to do a small favor for his famous singing cousin oska yoon sang hyun of course in return for a profitable business deal he mistakes gil ra im for the leading actress she s currently stunt doubling from that moment on his comfortable and luxurious life unravels and the piercing love of this extra ordinary woman overtakes his life as the story progresses fate love triangles magical potions class differences manipulative mothers corporate intrigue a dead fireman and a forgotten trauma make their life more complicated
+
+Recommend Movies List IDs: ['tt0115639', 'tt0106941', 'tt0109642', 'tt0110950', 'tt0113089']
+Recommend movie top1 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top2 ID tt0106941, Title: for love or money (1993), Tag: ['comedy', 'romance']
+Overview: doug is a young man who works all day as a concierge at a luxurious hotel saving money to make his own business unfortunately when he finds the financial supporter he needs he discovers that his saviour is having an affair with the woman he loves now he must choose between money and love
+
+Recommend movie top3 ID tt0109642, Title: dolores claiborne (1995), Tag: ['drama', 'thriller']
+Overview: a big city reporter travels to the small town where her mother has been arrested for the murder of an elderly woman that she works for as a maid
+
+Recommend movie top4 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+
+Recommend movie top5 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+

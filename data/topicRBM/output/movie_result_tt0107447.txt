@@ -1,0 +1,19 @@
+Movie ID tt0107447, Title: love & human remains (1993), Tag: ['comedy', 'drama']
+Overview: set in a dreary urban landscape of edmonton love and human remains is a dark comedy about a group of twentysomethings looking for love and meaning in the the film focuses on roommates david a gay waiter who has has given up on his acting career and candy a book reviewer who is also david s ex lover david and candy s lives are entangled with those of david s friends a busboy a psychic dominatrix and a misogynistic civil servant and candy s dates a male bartender and a lesbian schoolteacher meanwhile a serial killer menaces the concrete and asphalt neighbourhood in which david and candy live
+
+Recommend Movies List IDs: ['tt0111689', 'tt0112651', 'tt0111256', 'tt2993648', 'tt0106880']
+Recommend movie top1 ID tt0111689, Title: what happened was... (1994), Tag: ['comedy', 'drama', 'romance', 'thriller']
+Overview: this darkly humorous film explores the personal psychic landscape of two lonely new yorkers jackie and michael are coworkers at a large law firm who decide to meet at jackie s for dinner
+
+Recommend movie top2 ID tt0112651, Title: celluloid closet, the (1995), Tag: ['documentary']
+Overview: a comprehensive documentary of the history of gays and lesbians in cinema from negative to positive reflections of gay characters and the troubles of actors and actresses
+
+Recommend movie top3 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top4 ID tt2993648, Title: what's love got to do with it? (1993), Tag: ['drama', 'musical']
+Overview: marriage pressure haven t found the right person in love with the wrong person what s love got to do with it tells real life stories of people like you and me who are simply looking
+
+Recommend movie top5 ID tt0106880, Title: fear of a black hat (1994), Tag: ['comedy']
+Overview: a mockumentary chronicling the rise and fall of nwh a not particularly talented or particularly bright but always controversial hip hop group
+

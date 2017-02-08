@@ -1,0 +1,19 @@
+Movie ID tt0115734, Title: bottle rocket (1996), Tag: ['adventure', 'comedy', 'crime', 'romance']
+Overview: upon his release from a mental hospital following a nervous breakdown the directionless anthony joins his friend dignan who seems far less sane than the former dignan has hatched a hare brained scheme for an as yet unspecified crime spree that somehow involves his former boss the supposedly legendary mr henry with the help of their pathetic neighbor and pal bob anthony and dignan pull a job and hit the road where anthony finds love with motel maid inez when our boys finally hook up with mr henry the ensuing escapade turns out to be far from what anyone expected
+
+Recommend Movies List IDs: ['tt0109198', 'tt1391741', 'tt0113987', 'tt0360307', 'tt0107507']
+Recommend movie top1 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top2 ID tt1391741, Title: walking dead, the (1995), Tag: ['drama', 'war']
+Overview: an old man looks death in the face when a stranger s car hits a tree off an icy road
+
+Recommend movie top3 ID tt0113987, Title: nixon (1995), Tag: ['drama']
+Overview: a biographical story of former u s president richard milhous nixon from his days as a young boy to his eventual presidency which ended in shame
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0107507, Title: manhattan murder mystery (1993), Tag: ['comedy', 'mystery']
+Overview: a middle aged couple suspects foul play when their neighbor s wife suddenly drops dead
+

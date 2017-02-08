@@ -1,0 +1,19 @@
+Movie ID tt0111282, Title: stargate (1994), Tag: ['action', 'adventure', 'sci-fi']
+Overview: an interstellar teleportation device found in egypt leads to a planet with humans resembling ancient egyptians who worship the god ra
+
+Recommend Movies List IDs: ['tt0230877', 'tt0050022', 'tt0109198', 'tt0360307', 'tt0109579']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top3 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+

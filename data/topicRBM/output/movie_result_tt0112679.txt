@@ -1,0 +1,19 @@
+Movie ID tt0112679, Title: circle of friends (1995), Tag: ['drama', 'romance']
+Overview: circle of friends is set in s ireland the movie focuses on benny hogan and her best friend eve malone the story centers around benny and eve as they enter student life at
+
+Recommend Movies List IDs: ['tt0360307', 'tt0050022', 'tt0114478', 'tt0106677', 'tt0113749']
+Recommend movie top1 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top2 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top3 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+
+Recommend movie top4 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top5 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+

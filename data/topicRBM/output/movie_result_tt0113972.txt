@@ -1,0 +1,19 @@
+Movie ID tt0113972, Title: nick of time (1995), Tag: ['action', 'thriller']
+Overview: gene watson is a public accountant who arrives on a train at union station in los angeles accompanied by his year old daughter lynn because of his ordinary looks he is approached by a pair of sinister people named smith and jones pretending to be cops smith and jones kidnap lynn and confront gene with a simple choice kill california governor eleanor grant in minutes or less or lynn will die watson is given a gun six bullets and a name tag and he is told to go to the westin bonaventure hotel and kill eleanor who is giving an afternoon speech while jones is watching lynn in a van smith watches watson in order to prevent watson from alerting the authorities watson must quickly find some way to get himself and lynn out of this seemingly impossible situation
+
+Recommend Movies List IDs: ['tt0113101', 'tt2167202', 'tt0116253', 'tt0230877', 'tt0110997']
+Recommend movie top1 ID tt0113101, Title: four rooms (1995), Tag: ['comedy']
+Overview: four interlocking tales that take place in a fading hotel on new year s eve
+
+Recommend movie top2 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top3 ID tt0116253, Title: executive decision (1996), Tag: ['action', 'adventure', 'thriller']
+Overview: when terrorists seize control of an airliner an intelligence analyst accompanies a commando unit for a midair boarding operation
+
+Recommend movie top4 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top5 ID tt0110997, Title: river wild, the (1994), Tag: ['action', 'thriller']
+Overview: rafting expert gail takes on a pair of armed killers while navigating a spectacularly violent river
+

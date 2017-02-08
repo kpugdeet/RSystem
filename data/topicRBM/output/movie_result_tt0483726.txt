@@ -1,0 +1,19 @@
+Movie ID tt0483726, Title: man of the year (1995), Tag: ['documentary']
+Overview: tom dobbs comedic host of a political talk show a la bill maher and jon stewart runs for president of the us as an independent candidate who after an issues oriented campaign and an explosive performance in the final debate gets just enough votes to win trouble is he owes his victory to a computer glitch in the national touch screen voting system marketed by delacroy a private company with a rising stock price to protect their fortune delacroy executives want to keep the glitch a secret but one programmer eleanor green wants dobbs to know the truth can she get to him
+
+Recommend Movies List IDs: ['tt0109813', 'tt0079758', 'tt0257315', 'tt0230877', 'tt0109370']
+Recommend movie top1 ID tt0109813, Title: flintstones, the (1994), Tag: ['children', 'comedy', 'fantasy']
+Overview: in this live action feature of the cartoon show fred flintstone finally gets the job he s always wanted but it may just come at a price
+
+Recommend movie top2 ID tt0079758, Title: prophecy, the (1995), Tag: ['fantasy', 'horror', 'mystery']
+Overview: a log company s waste mutates the environment creating a giant killer bear monster
+
+Recommend movie top3 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top4 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top5 ID tt0109370, Title: canadian bacon (1995), Tag: ['comedy', 'war']
+Overview: the u s president low in the opinion polls gets talked into raising his popularity by trying to start a cold war against canada
+

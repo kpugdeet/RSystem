@@ -1,0 +1,19 @@
+Movie ID tt0113612, Title: last summer in the hamptons (1995), Tag: ['comedy', 'drama']
+Overview: filmed entirely on location in east hampton long island last summer in the hamptons concerns a large theatrical family spending the last weekend of their summer together at the decades old family retreat which economic circumstances have forced them to put on the market victoria foyt plays a young hollywood actress whose visit wreaks havoc on the stellar group of family and friends led by matriarch viveca lindfors and made up of an extraordinary mix of prominent new york actors directors and playwrights in the course of a very unusual weekend comic as well as serious situations arise and the family s secrets of which there are many begin to unravel
+
+Recommend Movies List IDs: ['tt0059448', 'tt0106660', 'tt0257315', 'tt0114011', 'tt0113326']
+Recommend movie top1 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+
+Recommend movie top2 ID tt0106660, Title: dangerous game (1993), Tag: ['drama']
+Overview: a new york film director working on his latest movie in los angeles begins to reflect the actions in his movie and real life especially when he begins an affair with the lead actress
+
+Recommend movie top3 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top4 ID tt0114011, Title: now and then (1995), Tag: ['children', 'drama']
+Overview: roberta teeny samantha and chrissy have been busy growing up but they always remembered the promise they made to be there for each other now they re together again to relive the greatest summer of their lives
+
+Recommend movie top5 ID tt0113326, Title: rumble in the bronx (hont faan kui) (1995), Tag: ['action', 'adventure', 'comedy', 'crime']
+Overview: a young man visiting and helping his uncle in new york city finds himself forced to fight a street gang and the mob with his martial art skills
+

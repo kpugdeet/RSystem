@@ -1,0 +1,19 @@
+Movie ID tt0110367, Title: little women (1994), Tag: ['drama']
+Overview: with their father away fighting in the civil war jo meg beth and amy grow up with their mother in somewhat reduced circumstances they are a close family who inevitably have their squabbles and tragedies but the bond holds even when later men friends start to become a part of the household
+
+Recommend Movies List IDs: ['tt0111161', 'tt0111127', 'tt0113089', 'tt0109891', 'tt3446062']
+Recommend movie top1 ID tt0111161, Title: shawshank redemption, the (1994), Tag: ['crime', 'drama']
+Overview: two imprisoned men bond over a number of years finding solace and eventual redemption through acts of common decency
+
+Recommend movie top2 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top3 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top4 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top5 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+

@@ -1,0 +1,19 @@
+Movie ID tt0111323, Title: surviving the game (1994), Tag: ['action', 'adventure', 'thriller']
+Overview: mason who lives on the streets wants to cease his life when on the same day his two best friends die his dog and an older man with whom he shared his food and roof just in time cole from a charity organization can prevent his suicide and also offers him a quite well paid job as servant for a hunting party in the rocky mountains mason accepts the job and flies with them to a hut in the wilderness where they prepare everything for the four rich businessmen who want to hunt something special mason does not yet know that he is the victim of their sports that should lead to the basic insticts of man but they did not count with his cleverness
+
+Recommend Movies List IDs: ['tt4103972', 'tt0111742', 'tt0109813', 'tt0360307', 'tt0113089']
+Recommend movie top1 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top2 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top3 ID tt0109813, Title: flintstones, the (1994), Tag: ['children', 'comedy', 'fantasy']
+Overview: in this live action feature of the cartoon show fred flintstone finally gets the job he s always wanted but it may just come at a price
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+

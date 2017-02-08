@@ -1,0 +1,19 @@
+Movie ID tt0113117, Title: french kiss (1995), Tag: ['action', 'comedy', 'romance']
+Overview: kate and charlie have a perfect life planned out before them buying a house marriage kids the whole works kate s fear of flying keeps her in canada while charlie goes to paris for a medical convention while there charlie is smitten by the lovely juliette he calls off the wedding with kate and she nervously boards a plane to get him back she ends up sitting next to the petty french thief luc teyssier he hides a stolen necklace and smuggled grape vine in her bag to get it through customs her bag is stolen the necklace apparently lost and kate and luc head to cannes luc to find the necklace and kate get charlie back along the way kate and luc begin having feelings for each other which change the course of their lives
+
+Recommend Movies List IDs: ['tt0257315', 'tt1595680', 'tt0109891', 'tt0111003', 'tt0110950']
+Recommend movie top1 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top2 ID tt1595680, Title: being human (1993), Tag: ['drama']
+Overview: three twenty somethings share a house and try to live a normal life despite being a ghost a werewolf and a vampire
+
+Recommend movie top3 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top4 ID tt0111003, Title: puppet masters, the (1994), Tag: ['horror', 'sci-fi']
+Overview: the earth is invaded by stingray shaped alien slugs that ride on people s backs and control their minds
+
+Recommend movie top5 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+

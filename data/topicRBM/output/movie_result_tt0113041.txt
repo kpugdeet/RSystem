@@ -1,0 +1,19 @@
+Movie ID tt0113041, Title: father of the bride part ii (1995), Tag: ['comedy']
+Overview: in this sequel to father of the bride george banks must accept the reality of what his daughter s ascension from daughter to wife and now to mother means when placed into perspective against his own stage of life as the comfortable family unit starts to unravel in his mind a rapid progression into mid life crisis is in his future his journey to regain his youth acts as a catalyst for a kind of rebirth of his attitude on life when he and his wife nina find how their lives are about to change as well
+
+Recommend Movies List IDs: ['tt3446062', 'tt0112572', 'tt0114388', 'tt2167202', 'tt0111127']
+Recommend movie top1 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top2 ID tt0112572, Title: brady bunch movie, the (1995), Tag: ['comedy']
+Overview: the original t v family is now placed in the where they re even more square and out of place than ever
+
+Recommend movie top3 ID tt0114388, Title: sense and sensibility (1995), Tag: ['drama', 'romance']
+Overview: rich mr dashwood dies leaving his second wife and her three daughters poor by the rules of inheritance the two eldest daughters are the titular opposites
+
+Recommend movie top4 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top5 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+

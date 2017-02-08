@@ -1,0 +1,19 @@
+Movie ID tt0114898, Title: waterworld (1995), Tag: ['action', 'adventure', 'sci-fi']
+Overview: in a future where the polar ice caps have melted and earth is almost entirely submerged a mutated mariner fights starvation and outlaw smokers and reluctantly helps a woman and a young girl try to find dry land
+
+Recommend Movies List IDs: ['tt0111742', 'tt0114496', 'tt0779794', 'tt1595032', 'tt0109891']
+Recommend movie top1 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top4 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

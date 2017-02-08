@@ -1,0 +1,19 @@
+Movie ID tt0114508, Title: species (1995), Tag: ['horror', 'sci-fi']
+Overview: in the search for extra terrestrial intelligence project receives a transmission detailing an alien dna structure along with instructions on how to splice it with human dna the result is sil a sensual but deadly creature who can change from a beautiful woman to an armour plated killing machine in the blink of an eye government agent xavier fitch assembles a team of scientists and mercenaries to locate and destroy sil before she manages to find a mate and breed
+
+Recommend Movies List IDs: ['tt3446062', 'tt0112715', 'tt0109579', 'tt0280486', 'tt0114852']
+Recommend movie top1 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top2 ID tt0112715, Title: congo (1995), Tag: ['action', 'adventure', 'mystery', 'sci-fi']
+Overview: when an expedition to the african congo ends in disaster a new team is assembled to find out what went wrong
+
+Recommend movie top3 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top4 ID tt0280486, Title: bad company (1995), Tag: ['action', 'crime', 'drama']
+Overview: when a harvard educated cia agent is killed during an operation the secret agency recruits his twin brother
+
+Recommend movie top5 ID tt0114852, Title: village of the damned (1995), Tag: ['horror', 'sci-fi']
+Overview: a small town s women give birth to unfriendly alien children posing as humans
+

@@ -1,0 +1,19 @@
+Movie ID tt0107507, Title: manhattan murder mystery (1993), Tag: ['comedy', 'mystery']
+Overview: a middle aged couple suspects foul play when their neighbor s wife suddenly drops dead
+
+Recommend Movies List IDs: ['tt4103972', 'tt1595032', 'tt0230877', 'tt0109198', 'tt0109891']
+Recommend movie top1 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top2 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

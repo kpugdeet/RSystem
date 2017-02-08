@@ -1,0 +1,19 @@
+Movie ID tt0112431, Title: babe (1995), Tag: ['children', 'drama']
+Overview: gentle farmer arthur hoggett wins a piglet named babe at a county fair narrowly escaping his fate as christmas dinner when farmer hoggett decides to show him at the next fair babe bonds with motherly border collie fly and discovers that he too can herd sheep but will the other farm animals including fly s jealous husband rex accept a pig who doesn t conform to the farm s social hierarchy
+
+Recommend Movies List IDs: ['tt0114496', 'tt0111161', 'tt0107478', 'tt0257315', 'tt0050022']
+Recommend movie top1 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top2 ID tt0111161, Title: shawshank redemption, the (1994), Tag: ['crime', 'drama']
+Overview: two imprisoned men bond over a number of years finding solace and eventual redemption through acts of common decency
+
+Recommend movie top3 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+
+Recommend movie top4 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top5 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+

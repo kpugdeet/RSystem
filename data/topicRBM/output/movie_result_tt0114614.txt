@@ -1,0 +1,19 @@
+Movie ID tt0114614, Title: tank girl (1995), Tag: ['action', 'comedy', 'sci-fi']
+Overview: tank girl rebecca and her friends are the only remaining citizens living in the wasteland that is earth where all the remaining water is controlled by water and power the mega corporation government that runs the territory while incarcerated at w p tank girl and her new friend jet girl break out and steal a tank and a jet after meeting some mutant kangaroo humans and rescuing her little girl adopted by her friends the kangaroos and the girls kick water and powers butt
+
+Recommend Movies List IDs: ['tt0360307', 'tt0106452', 'tt0113442', 'tt0112744', 'tt0111333']
+Recommend movie top1 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top2 ID tt0106452, Title: body snatchers (1993), Tag: ['horror', 'sci-fi', 'thriller']
+Overview: a teenage girl and her father discover alien clones are replacing humans on a remote u s military base in alabama
+
+Recommend movie top3 ID tt0113442, Title: it takes two (1995), Tag: ['children', 'comedy']
+Overview: alyssa a rich girl and amanda an orphan are two little girls who are identical but complete strangers that accidentally meet one day in an attempt to stop alyssa s father from
+
+Recommend movie top4 ID tt0112744, Title: crossing guard, the (1995), Tag: ['action', 'crime', 'drama', 'thriller']
+Overview: freddie gale is a seedy jeweler who has sworn to kill the drunk driver who killed his little girl
+
+Recommend movie top5 ID tt0111333, Title: swan princess, the (1994), Tag: ['animation', 'children']
+Overview: a power hungry sorcerer transforms a princess into a swan by day in this tale of everlasting love
+

@@ -1,0 +1,19 @@
+Movie ID tt0109484, Title: corrina, corrina (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: when manny singer s wife dies his young daughter molly becomes mute and withdrawn to help cope with looking after molly he hires sassy housekeeper corrina washington who coaxes molly
+
+Recommend Movies List IDs: ['tt3446062', 'tt2167202', 'tt0360307', 'tt0109579', 'tt0111742']
+Recommend movie top1 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top2 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top3 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top4 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top5 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+

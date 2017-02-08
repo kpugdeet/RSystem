@@ -1,0 +1,19 @@
+Movie ID tt0107501, Title: man without a face, the (1993), Tag: ['drama']
+Overview: the story of a relationship between a teacher and his troubled pupil justin mcleod is a former teacher who lives as a recluse on the edge of town his face is disfigured from an automobile accident and fire ten years before in which a boy was incinerated and for which he was convicted of involuntary manslaughter he is also suspected of being a pedophile he is befriended by chuck igniting the town s suspicion and hostility mcleod instills in his protg a love of justice and freedom from prejudice which sustains chuck beyond the end of the film
+
+Recommend Movies List IDs: ['62', 'tt0108174', 'tt0074102', 'tt0779794', 'tt0230877']
+Recommend movie top1 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top2 ID tt0108174, Title: so i married an axe murderer (1993), Tag: ['comedy', 'romance', 'thriller']
+Overview: a san francisco poet who fears commitment suspects his girlfriend may not be who she appears
+
+Recommend movie top3 ID tt0074102, Title: in the realm of the senses (ai no corrida) (1976), Tag: ['drama']
+Overview: a passionate telling of the story of sada abe a woman whose affair with her master led to a sexual obsession which then came to a violent end
+
+Recommend movie top4 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

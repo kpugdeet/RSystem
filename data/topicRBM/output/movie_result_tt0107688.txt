@@ -1,0 +1,19 @@
+Movie ID tt0107688, Title: nightmare before christmas, the (1993), Tag: ['animation', 'children', 'fantasy', 'musical']
+Overview: jack skellington the pumpkin king of halloween town is bored with doing the same thing every year for halloween one day he stumbles into christmas town and is so taken with the idea of christmas that he tries to get the resident bats ghouls and goblins of halloween town to help him put on christmas instead of halloween but alas they can t get it quite right
+
+Recommend Movies List IDs: ['tt0108122', 'tt0114852', 'tt0110657', 'tt0230877', 'tt0114168']
+Recommend movie top1 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top2 ID tt0114852, Title: village of the damned (1995), Tag: ['horror', 'sci-fi']
+Overview: a small town s women give birth to unfriendly alien children posing as humans
+
+Recommend movie top3 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top4 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top5 ID tt0114168, Title: powder (1995), Tag: ['drama', 'sci-fi']
+Overview: an off the charts genius who is home schooled and shunned after his last relative dies shows the unconscious residents of his town about connection awareness and the generosity of the spirit
+

@@ -1,0 +1,19 @@
+Movie ID tt0112541, Title: blue in the face (1995), Tag: ['comedy', 'drama']
+Overview: wayne wang s follow up movie to smoke presents a series of improvisational situations strung together to form a pastiche of brooklyn s diverse ethnicity offbeat humor and essential humanity many of the same characters inhabiting auggie wren s brooklyn cigar store in smoke return here to expound on their philosophy of smoking relationships baseball new york and belgian waffles most of all this is a movie about living life off the cuff
+
+Recommend Movies List IDs: ['tt0114478', 'tt0059448', 'tt0115639', 'tt0107096', 'tt0108328']
+Recommend movie top1 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+
+Recommend movie top2 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+
+Recommend movie top3 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top4 ID tt0107096, Title: heaven & earth (1993), Tag: ['action', 'drama', 'war']
+Overview: the final movie in oliver stone s vietnam trilogy follows the true story of a vietnamese village girl who survives a life of suffering and hardship during and after the vietnam war as a
+
+Recommend movie top5 ID tt0108328, Title: thirty-two short films about glenn gould (1993), Tag: ['drama', 'musical']
+Overview: a collection of vignettes highlighting different aspects of the life work and character of the acclaimed canadian classical pianist
+

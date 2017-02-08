@@ -1,0 +1,19 @@
+Movie ID tt0113729, Title: mad love (1995), Tag: ['drama', 'romance']
+Overview: the high school student matt leland lives with his twin brother and sister and his father in a house by the lake when the teenager casey roberts moves to the house on the other side of the lake matt snoops into her room with his telescope they meet each other and soon they fall in love with each other one day matt is taking a test at school and casey activates the fire alarm to stop the test she is suspended and her father decides to check her into a psychiatric institution however matt breaks her out of the hospital they travel in matt s car and have lots of fun until the day matt discovers that casey has bipolar disorder with periods of depression and periods of elevated mood when she tries to commit suicide matt realizes that she needs specialized help
+
+Recommend Movies List IDs: ['tt0106677', 'tt0108122', 'tt0109306', 'tt0117002', 'tt0112579']
+Recommend movie top1 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top2 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top3 ID tt0109306, Title: blue sky (1994), Tag: ['drama', 'romance']
+Overview: jessica lange stars in a period drama about a family moving to a military base and she quickly becomes part of a cover up involving nuclear bomb tests
+
+Recommend movie top4 ID tt0117002, Title: mary reilly (1996), Tag: ['drama', 'horror', 'thriller']
+Overview: a housemaid falls in love with dr jekyll and his darkly mysterious counterpart mr hyde
+
+Recommend movie top5 ID tt0112579, Title: bridges of madison county, the (1995), Tag: ['drama', 'romance']
+Overview: photographer robert kincaid wanders into the life of housewife francesca johnson for four days in the
+

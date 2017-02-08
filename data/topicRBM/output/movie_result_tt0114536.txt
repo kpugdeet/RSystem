@@ -1,0 +1,19 @@
+Movie ID tt0114536, Title: steal big, steal little (1995), Tag: ['comedy']
+Overview: ruben and robby are twin brothers adopted by mona one of the wealthiest and most eccentric women in santa barbara ruben is devoted to mona but robby is more devoted to her money so
+
+Recommend Movies List IDs: ['tt0779794', 'tt0360307', 'tt0111742', 'tt0109579', 'tt0230877']
+Recommend movie top1 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top2 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

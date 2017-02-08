@@ -1,0 +1,19 @@
+Movie ID tt0109254, Title: beverly hills cop iii (1994), Tag: ['action', 'comedy', 'crime', 'thriller']
+Overview: one night in detroit during a shoot out at a chop shop detroit cop axel foley sees his boss inspector douglas todd getting killed by a well dressed man using his last breath inspector todd tells axel to get the man who shot him and axel says that he will do that axel does some looking around and finds the killer s vehicle at wonder world a theme park in beverly hills california in beverly hills axel is reunited with his friend billy rosewood who tells axel that john taggart is now retired and living in arizona billy is now the deputy director of operations for joint systems interdepartmental operational command jsioc billy also has a new partner named jon flint axel checks out wonder world which is owned by dave uncle dave thornton at wonder world axel rescues two kids who are stuck on a ride that broke down and after this axel is taken to see the park s head of security ellis dewald and axel recognizes dewald as inspector todd s killer jon refuses to believe this because dewald is one of jon s friends ellis runs a counterfeiting ring that uses the theme park as a front axel is also falling in love with janice perkins who works at the park when dave gets shot by dewald s men axel is accused of being the man who shot dave with the help of billy and jon axel sets out to prove his innocence and get revenge on dewald
+
+Recommend Movies List IDs: ['tt0107302', 'tt0115759', 'tt1595032', 'tt0112966', 'tt0107057']
+Recommend movie top1 ID tt0107302, Title: kalifornia (1993), Tag: ['drama', 'thriller']
+Overview: a journalist duo go on a tour of serial killer murder sites with two companions unaware that one of them is a serial killer himself
+
+Recommend movie top2 ID tt0115759, Title: broken arrow (1996), Tag: ['action', 'adventure', 'thriller']
+Overview: terrorists steal nuclear warheads from the u s military but don t count on a pilot and park ranger spoiling their plans
+
+Recommend movie top3 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top4 ID tt0112966, Title: englishman who went up a hill but came down a mountain, the (1995), Tag: ['comedy', 'romance']
+Overview: when an english cartographer must tell a welsh village that their mountain is only a hill the offended community sets out to change that
+
+Recommend movie top5 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+

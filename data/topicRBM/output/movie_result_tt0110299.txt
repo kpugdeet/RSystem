@@ -1,0 +1,19 @@
+Movie ID tt0110299, Title: lamerica (1994), Tag: ['adventure', 'drama']
+Overview: two italian racketeers come to albania just after the fall of the communists to set up a fictive firm and pocket the grants they need a stooge they choose an old one in a jail spiro
+
+Recommend Movies List IDs: ['tt0111256', 'tt0109198', 'tt0230877', 'tt4103972', 'tt1595032']
+Recommend movie top1 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top2 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top5 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+

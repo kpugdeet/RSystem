@@ -1,0 +1,19 @@
+Movie ID tt0112646, Title: catwalk (1996), Tag: ['documentary']
+Overview: a camera follows model christy turlington through the spring fashion shows in milan paris and new york one year in the early probably she and others dash from one designer s unveilings to another extended footage looks at versace and armani in milan galliano gaultier and langerfeld in paris and isaac mizrahi in new york with kate moss naomi campbell and turlington we see the nature of friendships among models with the engaging mizrahi in particular there s some exploration of the relationship between designer and models
+
+Recommend Movies List IDs: ['tt0110907', 'tt0114805', 'tt0104029', 'tt0059448', 'tt0113101']
+Recommend movie top1 ID tt0110907, Title: ready to wear (pret-a-porter) (1994), Tag: ['comedy']
+Overview: a fashion show in paris draws the usual bunch of people designers reporters models magazine editors photographers lots of unconnected stories which all revolve around this show and an all star cast
+
+Recommend movie top2 ID tt0114805, Title: unzipped (1995), Tag: ['documentary']
+Overview: isaac mizrahi one of the most successful designers in high fashion plans his fall collection he combines inspirations such as the hollywood eskimo look the mary tyler moore show and ouija derived advise like dominatrix mixed with hitchcock into a well received collection a behind the scenes look at the creative side of fashion
+
+Recommend movie top3 ID tt0104029, Title: cronos (1993), Tag: ['drama', 'horror']
+Overview: a mysterious device designed to provide its owner with eternal life resurfaces after four hundred years leaving a trail of destruction in its path
+
+Recommend movie top4 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+
+Recommend movie top5 ID tt0113101, Title: four rooms (1995), Tag: ['comedy']
+Overview: four interlocking tales that take place in a fading hotel on new year s eve
+

@@ -1,0 +1,19 @@
+Movie ID tt0109707, Title: ed wood (1994), Tag: ['comedy', 'drama']
+Overview: because of his eccentric habits and bafflingly strange films director edward d wood jr is a hollywood outcast nevertheless with the help of the formerly famous bela lugosi and a devoted cast and crew of show business misfits who believe in ed s off kilter vision the filmmaker is able to bring his oversize dreams to cinematic life despite a lack of critical or commercial success ed and his friends manage to create an oddly endearing series of extremely low budget films
+
+Recommend Movies List IDs: ['tt0113677', 'tt0115639', 'tt0038650', 'tt0360307', 'tt0079758']
+Recommend movie top1 ID tt0113677, Title: living in oblivion (1995), Tag: ['comedy']
+Overview: film about filmmaking it takes place during one day on set of non budget movie ultimate tribute to all independent filmmakers
+
+Recommend movie top2 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top3 ID tt0038650, Title: wonderful, horrible life of leni riefenstahl, the (macht der bilder: leni riefenstahl, die) (1993), Tag: ['documentary']
+Overview: an angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0079758, Title: prophecy, the (1995), Tag: ['fantasy', 'horror', 'mystery']
+Overview: a log company s waste mutates the environment creating a giant killer bear monster
+

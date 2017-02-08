@@ -1,0 +1,19 @@
+Movie ID tt0446059, Title: fearless (1993), Tag: ['drama']
+Overview: martial arts legend huo yuanjia became the most famous fighter in all of china at the turn of the century huo faced personal tragedy but ultimately fought his way out of darkness and into history defining the true spirit of martial arts his self discovery and the choices he made inspired his nation the son of a great fighter who did not wish for his child to follow in his footsteps the bullied huo yuanjia resolves to teach himself how to fight and win years of training enable him to ace match after match in his home region of tianjin but as his fame as a martial arts master grows so does his pride after an ill advised fight leads to another master s death members of huo s family are slain in revenge grieving and ashamed huo wanders the country in shock near death he is rescued by women from an idyllic village and is offered simple kindness and generosity that help him heal and regain his equilibrium over a period of several years huo realizes that the future of martial arts lies in sportsmanship and not brutality and he rejoins society to apply what he has learned returning to tianjin huo takes steps to come to terms with his past and restore his family s name his evolving graceful mizong missing fist method of fighting brings huo renewed success and he forms the progressive jingwu sports federation taking note duplicitous members of the foreign chamber of commerce engineer a shanghai tournament pitting huo against four fighters each representing the major foreign powers in china huo commits to the bout and faces off against respectively a british boxer a spanish swordsman a belgian soldier and a japanese martial artist what happened that day in has never been and will never be forgotten in china
+
+Recommend Movies List IDs: ['tt0111301', 'tt0380167', 'tt0113101', 'tt0114885', 'tt0050022']
+Recommend movie top1 ID tt0111301, Title: street fighter (1994), Tag: ['action', 'adventure', 'fantasy']
+Overview: col guile and various other martial arts heroes fight against the tyranny of dictator m bison and his cohorts
+
+Recommend movie top2 ID tt0380167, Title: addiction, the (1995), Tag: ['drama', 'horror']
+Overview: a brutal act of self defense unleashes a quiet man s inner demons
+
+Recommend movie top3 ID tt0113101, Title: four rooms (1995), Tag: ['comedy']
+Overview: four interlocking tales that take place in a fading hotel on new year s eve
+
+Recommend movie top4 ID tt0114885, Title: waiting to exhale (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: based on terry mcmillan s novel this film follows four very different african american women and their relationships with the male gender
+
+Recommend movie top5 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+

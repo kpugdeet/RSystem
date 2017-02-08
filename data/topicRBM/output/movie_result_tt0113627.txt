@@ -1,0 +1,19 @@
+Movie ID tt0113627, Title: leaving las vegas (1995), Tag: ['drama', 'romance']
+Overview: because his wife left him and took his son with her screenwriter ben sanderson has started drinking a lot he s getting more and more isolated and he troubles women in bars because he wants to have sex with them when he gets fired he decides to leave everything behind and move to las vegas and drink himself to death in las vegas he meets sera a prostitute with some problems as well who he moves in with
+
+Recommend Movies List IDs: ['tt0257315', 'tt0110657', 'tt0109198', 'tt0115645', 'tt0110357']
+Recommend movie top1 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top2 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top3 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top4 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top5 ID tt0110357, Title: lion king, the (1994), Tag: ['adventure', 'animation', 'children', 'drama', 'musical', 'imax']
+Overview: lion cub and future king simba searches for his identity his eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble
+

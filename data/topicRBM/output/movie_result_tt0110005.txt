@@ -1,0 +1,19 @@
+Movie ID tt0110005, Title: heavenly creatures (1994), Tag: ['crime', 'drama']
+Overview: based on the true story of juliet hulme and pauline parker two close friends who share a love of fantasy and literature who conspire to kill pauline s mother when she tries to end the girls intense and obsessive relationship
+
+Recommend Movies List IDs: ['tt0779794', 'tt0230877', 'tt0114496', 'tt0112744', 'tt0111127']
+Recommend movie top1 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top2 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt0112744, Title: crossing guard, the (1995), Tag: ['action', 'crime', 'drama', 'thriller']
+Overview: freddie gale is a seedy jeweler who has sworn to kill the drunk driver who killed his little girl
+
+Recommend movie top5 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+

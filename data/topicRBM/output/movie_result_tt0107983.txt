@@ -1,0 +1,19 @@
+Movie ID tt0107983, Title: romeo is bleeding (1993), Tag: ['crime', 'thriller']
+Overview: detective jack grimaldi gary oldman takes us through his shattered life after encountering the most deadly and deceptive criminal he has ever had to deal with it doesn t help that grimladi is playing both sides against the middle when he encounters demarkov lena olin he thinks he can play her as he has all the other women in his life including his wife but demarkov knows jack better than he knows himself she plays him mercilessly all the while threatening to kill him when she tires of the game
+
+Recommend Movies List IDs: ['tt0107507', 'tt0107554', 'tt4103972', 'tt0115645', 'tt0111127']
+Recommend movie top1 ID tt0107507, Title: manhattan murder mystery (1993), Tag: ['comedy', 'mystery']
+Overview: a middle aged couple suspects foul play when their neighbor s wife suddenly drops dead
+
+Recommend movie top2 ID tt0107554, Title: menace ii society (1993), Tag: ['action', 'crime', 'drama']
+Overview: a young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life
+
+Recommend movie top3 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top4 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top5 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+

@@ -1,0 +1,19 @@
+Movie ID tt0110093, Title: i love trouble (1994), Tag: ['action', 'comedy']
+Overview: veteran reporter peter brackett is enjoying new found fame after his book white lies is published when he is asked by his newspaper the chicago chronicle to report on a train crash he notices new reporter sabrina peterson brackett s complacency gets rudely shocked by peterson s report for the rival chicago globe what follows next is a mad race between the reporters who then cook up possible events that lead up to the crash after an initial spate of mad reporting both settle down to get the facts straight which leads them to uncover opposing information when each gets setup to be killed at the same place they escape and then agree to work together while they initially do not trust one another they eventually come to work together to uncover the truth behind the train crash
+
+Recommend Movies List IDs: ['tt0112471', 'tt0257315', 'tt0109642', 'tt0113101', 'tt2665218']
+Recommend movie top1 ID tt0112471, Title: before sunrise (1995), Tag: ['drama', 'romance']
+Overview: a young man and woman meet on a train in europe and wind up spending one evening together in vienna unfortunately both know that this will probably be their only night together
+
+Recommend movie top2 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top3 ID tt0109642, Title: dolores claiborne (1995), Tag: ['drama', 'thriller']
+Overview: a big city reporter travels to the small town where her mother has been arrested for the murder of an elderly woman that she works for as a maid
+
+Recommend movie top4 ID tt0113101, Title: four rooms (1995), Tag: ['comedy']
+Overview: four interlocking tales that take place in a fading hotel on new year s eve
+
+Recommend movie top5 ID tt2665218, Title: silence of the lambs, the (1991), Tag: ['crime', 'horror', 'thriller']
+Overview: part documentary series following a year in the life of farmers during the foot mouht outbreak in the united kingdom nominated for an rts award
+

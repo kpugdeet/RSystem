@@ -1,0 +1,19 @@
+Movie ID tt0106977, Title: fugitive, the (1993), Tag: ['thriller']
+Overview: a well respected chicago surgeon dr richard kimble has found out that his wife helen has been murdered ferociously in her own home the police found kimble and accused him of the murder then kimble without justifiable reason was tried convicted and sentenced to death however on the way to prison kimble s transport crashed kimble escapes and is now on the run deputy samuel gerard from chicago takes charge of the chase of kimble meanwhile kimble takes up his own investigation to find who really killed his wife and to lure gerard and his team into it as well
+
+Recommend Movies List IDs: ['tt0107057', 'tt0115645', 'tt0499556', 'tt0106292', 'tt0113501']
+Recommend movie top1 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+
+Recommend movie top2 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top3 ID tt0499556, Title: war, the (1994), Tag: ['adventure', 'drama', 'war']
+Overview: an fbi agent seeks vengeance on a mysterious assassin known as rogue who murdered his partner
+
+Recommend movie top4 ID tt0106292, Title: another stakeout (1993), Tag: ['comedy', 'thriller']
+Overview: prankster cops chris and bill are joined by a gina from the da s office to stakeout a lakeside home
+
+Recommend movie top5 ID tt0113501, Title: just cause (1995), Tag: ['mystery', 'thriller']
+Overview: a harvard professor is lured back into the courtroom after years to take the case of a young black man condemned to death for the horrific murder of a child
+

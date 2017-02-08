@@ -1,0 +1,19 @@
+Movie ID tt0113967, Title: new jersey drive (1995), Tag: ['crime', 'drama']
+Overview: jason and midget are two young black teenagers living in newarknew jersey the unofficial car theft capital of the world their favourite pastime is that of everybody in their neighbourhood stealing cars and joyriding the trouble starts when they steal a police car and the cops launch a violent offensive that involves beating and even shooting suspects
+
+Recommend Movies List IDs: ['tt0111173', 'tt0113089', 'tt0114496', 'tt0115759', 'tt0111400']
+Recommend movie top1 ID tt0111173, Title: shopping (1994), Tag: ['action', 'thriller']
+Overview: you ve run out of options no school no job steal a car smash a shop with a heavy car and reap the proceeds this movie is about underground england the causes the benefits and the result of a life of crash and carry
+
+Recommend movie top2 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt0115759, Title: broken arrow (1996), Tag: ['action', 'adventure', 'thriller']
+Overview: terrorists steal nuclear warheads from the u s military but don t count on a pilot and park ranger spoiling their plans
+
+Recommend movie top5 ID tt0111400, Title: terminal velocity (1994), Tag: ['action', 'mystery', 'thriller']
+Overview: a maverick skydiver and a former kgb agent team up to stop the russian mafia from stealing gold
+

@@ -1,0 +1,19 @@
+Movie ID tt0114609, Title: tales from the hood (1995), Tag: ['action', 'crime', 'horror']
+Overview: four short moralistic horror vignettes a la ec comics that deal with mostly black characters the framing story introduces three youths out to pick up a drug shipment at a funeral parlor from the strange director mr simms as the three punks wind their way through the parlor mr simms tells them the last stories of some of his more interesting clients
+
+Recommend Movies List IDs: ['498 ', 'tt0108328', 'tt0112966', 'tt1595032', 'tt0230877']
+Recommend movie top1 ID 498 , Title: mr. jones (1993), Tag: ['drama', 'romance']
+Overview: the story about the relationship between a manic depressive man mr jones and the female doctor who takes more than a professional interest in his treatment
+
+Recommend movie top2 ID tt0108328, Title: thirty-two short films about glenn gould (1993), Tag: ['drama', 'musical']
+Overview: a collection of vignettes highlighting different aspects of the life work and character of the acclaimed canadian classical pianist
+
+Recommend movie top3 ID tt0112966, Title: englishman who went up a hill but came down a mountain, the (1995), Tag: ['comedy', 'romance']
+Overview: when an english cartographer must tell a welsh village that their mountain is only a hill the offended community sets out to change that
+
+Recommend movie top4 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

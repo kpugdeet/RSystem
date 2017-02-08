@@ -1,0 +1,19 @@
+Movie ID tt0034928, Title: jungle book, the (1994), Tag: ['adventure', 'children', 'romance']
+Overview: teenaged mowgli who was raised by wolves appears in a village in india and is adopted by messua mowgli learns human language and some human ways quickly though keeping jungle ideas influential merchant buldeo is bigoted against beasts including mowgli not so buldeo s pretty daughter whom mowgli takes on a jungle tour where they find a treasure setting the evil of human greed in motion
+
+Recommend Movies List IDs: ['tt0112966', 'tt0106452', 'tt0111127', 'tt0779794', 'tt3446062']
+Recommend movie top1 ID tt0112966, Title: englishman who went up a hill but came down a mountain, the (1995), Tag: ['comedy', 'romance']
+Overview: when an english cartographer must tell a welsh village that their mountain is only a hill the offended community sets out to change that
+
+Recommend movie top2 ID tt0106452, Title: body snatchers (1993), Tag: ['horror', 'sci-fi', 'thriller']
+Overview: a teenage girl and her father discover alien clones are replacing humans on a remote u s military base in alabama
+
+Recommend movie top3 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top4 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top5 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+

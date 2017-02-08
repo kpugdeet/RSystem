@@ -1,0 +1,19 @@
+Movie ID tt0112442, Title: bad boys (1995), Tag: ['action', 'comedy', 'crime', 'drama', 'thriller']
+Overview: marcus burnett is a hen pecked family man mike lowry is a foot loose and fancy free ladies man both are miami policemen and both have hours to reclaim a consignment of drugs stolen from under their station s nose to complicate matters in order to get the assistance of the sole witness to a murder they have to pretend to be each other
+
+Recommend Movies List IDs: ['tt0113089', 'tt2167202', 'tt0109579', 'tt0111742', 'tt0112572']
+Recommend movie top1 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top2 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top3 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top4 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top5 ID tt0112572, Title: brady bunch movie, the (1995), Tag: ['comedy']
+Overview: the original t v family is now placed in the where they re even more square and out of place than ever
+

@@ -1,0 +1,19 @@
+Movie ID tt0114011, Title: now and then (1995), Tag: ['children', 'drama']
+Overview: roberta teeny samantha and chrissy have been busy growing up but they always remembered the promise they made to be there for each other now they re together again to relive the greatest summer of their lives
+
+Recommend Movies List IDs: ['tt3446062', 'tt0114496', 'tt0111127', 'tt0109198', 'tt0109891']
+Recommend movie top1 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top4 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

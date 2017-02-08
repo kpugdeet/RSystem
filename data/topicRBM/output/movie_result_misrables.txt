@@ -1,0 +1,19 @@
+Movie ID misrables, Title: misrables, les (1995), Tag: ['drama', 'war']
+Overview: jean valjean known as prisoner is released from prison and breaks parole to create a new life for himself while evading the grip of the persistent inspector javert set in post revolutionary france the story reaches resolution against the background of the june rebellion
+
+Recommend Movies List IDs: ['tt0230877', 'tt0079758', 'tt0050022', 'tt0114478', 'tt0108328']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0079758, Title: prophecy, the (1995), Tag: ['fantasy', 'horror', 'mystery']
+Overview: a log company s waste mutates the environment creating a giant killer bear monster
+
+Recommend movie top3 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top4 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+
+Recommend movie top5 ID tt0108328, Title: thirty-two short films about glenn gould (1993), Tag: ['drama', 'musical']
+Overview: a collection of vignettes highlighting different aspects of the life work and character of the acclaimed canadian classical pianist
+

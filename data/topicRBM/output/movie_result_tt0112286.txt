@@ -1,0 +1,19 @@
+Movie ID tt0112286, Title: across the sea of time (1995), Tag: ['documentary', 'imax']
+Overview: a young russian boy thomas minton travels to new york as a passenger on a russian freighter close to ellis island he gets off and thus starts his journey to america the same way as all immigrants in former times thomas is searching for the family of one of his ancestors who had emigrated decades ago but once sent a letter home together with a sample of his new profession photography the boy follows his relative s traces by counter checking the old photographs of new york using an antique viewer with the same places and how they look today this way the audience gets to see the big apple in former times as well as today
+
+Recommend Movies List IDs: ['tt0257315', 'tt0109198', 'tt0113243', 'tt0059448', 'tt0111400']
+Recommend movie top1 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top2 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top3 ID tt0113243, Title: hackers (1995), Tag: ['action', 'adventure', 'crime', 'thriller']
+Overview: a young boy is arrested by the u s secret service for writing a computer virus and is banned from using a computer until his birthday years later he and his new found friends
+
+Recommend movie top4 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+
+Recommend movie top5 ID tt0111400, Title: terminal velocity (1994), Tag: ['action', 'mystery', 'thriller']
+Overview: a maverick skydiver and a former kgb agent team up to stop the russian mafia from stealing gold
+

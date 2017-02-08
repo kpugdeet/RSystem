@@ -1,0 +1,19 @@
+Movie ID tt0108160, Title: sleepless in seattle (1993), Tag: ['comedy', 'drama', 'romance']
+Overview: after his wife maggie passes away sam baldwin and his year old son jonah relocate from chicago to seattle to escape the grief associated with maggie s death eighteen months later sam is still grieving and can t sleep although jonah misses his mother he wants his father to get a new wife despite sam having not even contemplated dating again on christmas eve sam on jonah s initiative ends up pouring his heart out on a national radio talk show about his magical and perfect marriage to maggie and how much he still misses her among the many women who hear sam s story and fall in love with him solely because of it is annie reed a baltimore based newspaper writer annie s infatuation with sam s story and by association sam himself is despite being already engaged but annie s relationship with her straight laced fianc walter is unlike her dream love life in the movie an affair to remember she even writes to sam proposing they meet atop the empire state building on valentine s day back in seattle sam has received hundreds of letters from women wanting to meet him jonah is excited by one letter in particular from baltimore and will do whatever he needs to to get his father and annie together however old fashioned sam wants his future love life to be based on meeting a woman the traditional way and he in turn becomes infatuated with an unknown woman he spots a few times in seattle will magic happen twice in sam s life and if so will it be with this unknown woman or annie
+
+Recommend Movies List IDs: ['tt0109891', 'tt0074102', 'tt0111127', 'tt0113107', 'tt0110950']
+Recommend movie top1 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top2 ID tt0074102, Title: in the realm of the senses (ai no corrida) (1976), Tag: ['drama']
+Overview: a passionate telling of the story of sada abe a woman whose affair with her master led to a sexual obsession which then came to a violent end
+
+Recommend movie top3 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top4 ID tt0113107, Title: frankie starlight (1995), Tag: ['drama', 'romance']
+Overview: this is a story of a man walker suffering from dwarfism who writes an autobiographical account of his life in flashbacks we see how he was conceived to a woman parillaud at the end
+
+Recommend movie top5 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+

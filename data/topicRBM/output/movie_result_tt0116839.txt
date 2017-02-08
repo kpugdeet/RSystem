@@ -1,0 +1,19 @@
+Movie ID tt0116839, Title: lawnmower man 2: beyond cyberspace (1996), Tag: ['action', 'sci-fi', 'thriller']
+Overview: jobe is resuscitated by jonathan walker he wants jobe to create a special computer chip that would connect all the computers in the world into one network which walker would control and use but what walker doesn t realize is a group of teenage hackers are on to him and out to stop his plan
+
+Recommend Movies List IDs: ['tt0114857', 'tt0114496', 'tt0111400', 'tt0079758', 'tt0230877']
+Recommend movie top1 ID tt0114857, Title: virtuosity (1995), Tag: ['action', 'sci-fi', 'thriller']
+Overview: when a virtual reality simulation created using the personalities of multiple serial killers manages to escape into the real world an ex cop is tasked with stopping its reign of terror
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0111400, Title: terminal velocity (1994), Tag: ['action', 'mystery', 'thriller']
+Overview: a maverick skydiver and a former kgb agent team up to stop the russian mafia from stealing gold
+
+Recommend movie top4 ID tt0079758, Title: prophecy, the (1995), Tag: ['fantasy', 'horror', 'mystery']
+Overview: a log company s waste mutates the environment creating a giant killer bear monster
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

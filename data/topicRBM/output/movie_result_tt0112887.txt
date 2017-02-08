@@ -1,0 +1,19 @@
+Movie ID tt0112887, Title: doom generation, the (1995), Tag: ['comedy', 'crime', 'drama']
+Overview: jordan white and amy blue two troubled teens pick up an adolescent drifter xavier red together the threesome embark on a sex and violence filled journey through an america of psychos and quickiemarts
+
+Recommend Movies List IDs: ['tt0109198', 'tt0115645', 'tt0230877', 'tt0110657', 'tt0111256']
+Recommend movie top1 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top2 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top5 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+

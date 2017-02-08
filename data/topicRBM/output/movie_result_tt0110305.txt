@@ -1,0 +1,19 @@
+Movie ID tt0110305, Title: lassie (1994), Tag: ['adventure', 'children']
+Overview: the dog everyone loves now leaps into the in this all new exciting updated version of lassie determined to start a new life in the country the turner family dad stepmom little
+
+Recommend Movies List IDs: ['tt4103972', 'tt0360307', 'tt0111127', 'tt0113089', 'tt0110657']
+Recommend movie top1 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top2 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top3 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top4 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top5 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+

@@ -1,0 +1,19 @@
+Movie ID tt0039628, Title: miracle on 34th street (1994), Tag: ['drama']
+Overview: at the macy s department store thanksgiving day parade the actor playing santa is discovered to be drunk by a whiskered old man doris walker the no nonsense special events director persuades the old man to take his place the old man proves to be a sensation and is quickly recruited to be the store santa at the main macy s outlet while he is successful ms walker learns that he calls himself kris kringle and he claims to be the actual santa claus despite reassurances by kringle s doctor that he is harmless doris still has misgivings especially when she has cynically trained herself and especially her daughter susan to reject all notions of belief and fantasy and yet people especially susan begin to notice there is something special about kris and his determination to advance the true spirit of christmas amidst the rampant commercialism around him and succeeding in improbable ways when a raucous conflict with the store s cruelly incompetent psychologist erupts kris finds himself held at bellevue where in despair he deliberately fails a mental examination to ensure his commitment all seems lost until doris friend fred gaily reassures kris of his worth and agrees to represent him in the fight to secure his release to achieve that fred arranges a formal hearing in which he argues that kris is sane because he is in fact santa claus what ensues is a bizarre hearing in which people s beliefs are reexamined and put to the test but even so it s going to take a miracle for kris to win
+
+Recommend Movies List IDs: ['tt0112572', 'tt0107413', '498 ', 'tt0116483', 'tt0109198']
+Recommend movie top1 ID tt0112572, Title: brady bunch movie, the (1995), Tag: ['comedy']
+Overview: the original t v family is now placed in the where they re even more square and out of place than ever
+
+Recommend movie top2 ID tt0107413, Title: life with mikey (1993), Tag: ['comedy']
+Overview: michael chapman was once a child tv star but when he grew up he couldn t get work so he and his brother ed start their own talent agency that specializes in child acts they can t seem
+
+Recommend movie top3 ID 498 , Title: mr. jones (1993), Tag: ['drama', 'romance']
+Overview: the story about the relationship between a manic depressive man mr jones and the female doctor who takes more than a professional interest in his treatment
+
+Recommend movie top4 ID tt0116483, Title: happy gilmore (1996), Tag: ['comedy']
+Overview: a rejected hockey player puts his skills to the golf course to save his grandmother s house
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

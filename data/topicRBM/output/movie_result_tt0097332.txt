@@ -1,0 +1,19 @@
+Movie ID tt0097332, Title: far from home: the adventures of yellow dog (1995), Tag: ['adventure', 'children']
+Overview: charlie cox is a divorced writer who lives in los angeles charlie and his daughter joleen are on their way home from a cross country vacation when they run out of gas in banco nevada a small town located in a remote part of the desert it s one day before jolene s birthday charlie and joleen check a nearby gas station owned by a vietnam war veteran named duckett but duckett doesn t have any gas so they head to the local supermarket to find a phone sheriff bill childers is in the store and he advises them to go to the trailer park to ask for gas joleen spots the body of the store s owner ferrell hogus in a pool of blood the sheriff states that the murderer is most likely a drifter the man and daughter check into the nearby palomino guest ranch and trailer park which is owned by a hostile woman named agnes reed whilst her father uses the phone joleen speaks to agnes s rebellious teenage son jimmy reed who she briefly came into contact with earlier at the gas station a chemistry between the two teenagers is implied joleen later meets a sandy haired boy named pinky sears who is sent away by an angry jimmy that night while agnes is taking a bath after an argument with jimmy she is killed when a hand reaches in through her bathroom window and pushes a small fan into the bathtub water electrocuting her charlie and joleen also meet their neighbors fellow travelers louise and amy by now it is obvious that a killer is terrorizing banco the next day when jimmy tries to rape joleen she is rescued by pinky who jimmy attempts to drown before joleen pushes him and runs off with pinky joleen s diary is later stolen by the killer soon after this joleen and her dad agree to car pool with louise and amy to leave the ranch but the murderer having become obsessed with joleen blows up the car with amy in it to prevent them when jimmy tries to rob duckett s gas station he is arrested and accused of being the serial killer but the killer turns out to be one of the people joleen least expected
+
+Recommend Movies List IDs: ['tt0107302', 'tt0108122', 'tt0109642', 'tt0107057', 'tt0109906']
+Recommend movie top1 ID tt0107302, Title: kalifornia (1993), Tag: ['drama', 'thriller']
+Overview: a journalist duo go on a tour of serial killer murder sites with two companions unaware that one of them is a serial killer himself
+
+Recommend movie top2 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top3 ID tt0109642, Title: dolores claiborne (1995), Tag: ['drama', 'thriller']
+Overview: a big city reporter travels to the small town where her mother has been arrested for the murder of an elderly woman that she works for as a maid
+
+Recommend movie top4 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+
+Recommend movie top5 ID tt0109906, Title: the glass shield (1994), Tag: ['crime', 'drama']
+Overview: j j is a rookie in the sheriff s department and the first black officer at that station racial tensions run high in the department as some of j j s fellow officers resent his presence
+

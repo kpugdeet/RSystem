@@ -1,0 +1,19 @@
+Movie ID tt0110064, Title: house party 3 (1994), Tag: ['comedy']
+Overview: come to a new house party where kid after a lifetime playing the field falls in love and is about to get married play plans to throw the rockin est bachelor party ever until kid s three wise crackin nephews come to town intent on showing kid and play what parties are all about
+
+Recommend Movies List IDs: ['tt0113497', 'tt0111256', 'tt1595680', 'tt0109504', 'tt0107507']
+Recommend movie top1 ID tt0113497, Title: jumanji (1995), Tag: ['adventure', 'children', 'fantasy']
+Overview: when two kids find and play a magical board game they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game
+
+Recommend movie top2 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top3 ID tt1595680, Title: being human (1993), Tag: ['drama']
+Overview: three twenty somethings share a house and try to live a normal life despite being a ghost a werewolf and a vampire
+
+Recommend movie top4 ID tt0109504, Title: crooklyn (1994), Tag: ['comedy', 'drama']
+Overview: from spike lee comes this vibrant semi autobiographical portrait of a school teacher her stubborn jazz musician husband and their five kids living in brooklyn
+
+Recommend movie top5 ID tt0107507, Title: manhattan murder mystery (1993), Tag: ['comedy', 'mystery']
+Overview: a middle aged couple suspects foul play when their neighbor s wife suddenly drops dead
+

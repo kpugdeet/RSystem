@@ -1,0 +1,19 @@
+Movie ID tt0114148, Title: pocahontas (1995), Tag: ['animation', 'children', 'drama', 'musical', 'romance']
+Overview: an english soldier and the daughter of an algonquin chief share a romance when english colonists invade seventeenth century virginia
+
+Recommend Movies List IDs: ['tt0230877', 'tt0114496', 'tt0112966', '62', 'tt0779794']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0112966, Title: englishman who went up a hill but came down a mountain, the (1995), Tag: ['comedy', 'romance']
+Overview: when an english cartographer must tell a welsh village that their mountain is only a hill the offended community sets out to change that
+
+Recommend movie top4 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top5 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+

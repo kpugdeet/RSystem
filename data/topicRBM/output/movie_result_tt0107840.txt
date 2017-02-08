@@ -1,0 +1,19 @@
+Movie ID tt0107840, Title: poetic justice (1993), Tag: ['drama']
+Overview: after witnessing the murder of her first and only boyfriend young justice decides to forget about college and become a south central los angeles hairdresser avoiding friends the only way for her to cope with her depression is by composing beautiful poetry on her way to a convention in oakland she is forced to ride with an independent minded postal worker whom she has not gotten along with in the past after various arguments between them and their friends they start to discover that their thoughts on violence socially and domestically are the same justice may finally feel that she is not as alone as before
+
+Recommend Movies List IDs: ['tt0114496', 'tt0108122', 'tt0107057', 'tt0111003', 'tt0230877']
+Recommend movie top1 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top2 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top3 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+
+Recommend movie top4 ID tt0111003, Title: puppet masters, the (1994), Tag: ['horror', 'sci-fi']
+Overview: the earth is invaded by stingray shaped alien slugs that ride on people s backs and control their minds
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

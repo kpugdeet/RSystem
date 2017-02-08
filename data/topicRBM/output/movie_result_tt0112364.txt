@@ -1,0 +1,19 @@
+Movie ID tt0112364, Title: angela (1995), Tag: ['drama']
+Overview: a ten year old girl named angela leads her six year old sister ellie through various regimens of purification in an attempt to rid themselves of their evil which she believes to be the cause of their mother s mental illness precocious to say the least angela has visions of lucifer coming to take her and her sister away and one of her remedies for this is for them to remain within a circle of their dolls and toys until they see a vision of the virgin mary come to them but such thinking can only lead to an ending befitting of her own mental state
+
+Recommend Movies List IDs: ['tt0108101', 'tt0109198', 'tt0147800', 'tt0111127', 'tt0230877']
+Recommend movie top1 ID tt0108101, Title: shadowlands (1993), Tag: ['drama', 'romance']
+Overview: c s lewis a world renowned christian theologian writer and professor leads a passionless life until he meets a spirited poet from the u s
+
+Recommend movie top2 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top3 ID tt0147800, Title: hate (haine, la) (1995), Tag: ['crime', 'drama']
+Overview: a pretty popular teenager can t go out on a date until her ill tempered older sister does
+
+Recommend movie top4 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

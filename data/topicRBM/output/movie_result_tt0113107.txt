@@ -1,0 +1,19 @@
+Movie ID tt0113107, Title: frankie starlight (1995), Tag: ['drama', 'romance']
+Overview: this is a story of a man walker suffering from dwarfism who writes an autobiographical account of his life in flashbacks we see how he was conceived to a woman parillaud at the end
+
+Recommend Movies List IDs: ['tt0109579', 'tt0114496', 'tt4103972', 'tt0059448', 'tt0230877']
+Recommend movie top1 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top4 ID tt0059448, Title: mirage (1995), Tag: ['action', 'thriller']
+Overview: a new york man suffers amnesia he soon learns that he s mixed up in a life and death situation but what exactly is it
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

@@ -1,0 +1,19 @@
+Movie ID tt0112792, Title: dangerous minds (1995), Tag: ['drama']
+Overview: louanne johnson is an ex marine hired as a teacher in a high school in a poor area of the city she has recently separated from her husband her friend also teacher in the school got the temporary job for her after a terrible reception from the students she tries unconventional methods of teaching using karate bob dylan lyrics etc to gain the trust of the students
+
+Recommend Movies List IDs: ['tt0106677', '62', 'tt0360307', 'tt0109504', 'tt0779794']
+Recommend movie top1 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top2 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top3 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top4 ID tt0109504, Title: crooklyn (1994), Tag: ['comedy', 'drama']
+Overview: from spike lee comes this vibrant semi autobiographical portrait of a school teacher her stubborn jazz musician husband and their five kids living in brooklyn
+
+Recommend movie top5 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+

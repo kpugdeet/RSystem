@@ -1,0 +1,19 @@
+Movie ID tt0106598, Title: coneheads (1993), Tag: ['comedy', 'sci-fi']
+Overview: an alien couple known as beldar and prymatt with cone shaped heads from the planet called remulak is mistakingly ditched on earth during a scouting mission for planet conquest while here they dodge the ins have a child and discover that life on earth is quite good but unfortunately they are being chased by the government who knows something is not quite right with the conehead family after they are rescued and taken back to their planet belder vows to return to earth and conquer it
+
+Recommend Movies List IDs: ['tt0111003', 'tt0083658', 'tt0114496', 'tt0114852', 'tt0106452']
+Recommend movie top1 ID tt0111003, Title: puppet masters, the (1994), Tag: ['horror', 'sci-fi']
+Overview: the earth is invaded by stingray shaped alien slugs that ride on people s backs and control their minds
+
+Recommend movie top2 ID tt0083658, Title: blade runner (1982), Tag: ['action', 'sci-fi', 'thriller']
+Overview: a blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to earth to find their creator
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt0114852, Title: village of the damned (1995), Tag: ['horror', 'sci-fi']
+Overview: a small town s women give birth to unfriendly alien children posing as humans
+
+Recommend movie top5 ID tt0106452, Title: body snatchers (1993), Tag: ['horror', 'sci-fi', 'thriller']
+Overview: a teenage girl and her father discover alien clones are replacing humans on a remote u s military base in alabama
+

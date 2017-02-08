@@ -1,0 +1,19 @@
+Movie ID tt0109093, Title: amateur (1994), Tag: ['crime', 'drama', 'thriller']
+Overview: isabelle is an ex nun waiting for her special mission from god in the meantime she is making a living writing pornography she meets thomas a sweet confused amnesiac who cannot remember
+
+Recommend Movies List IDs: ['tt3446062', 'tt0360307', 'tt0111256', 'tt0111127', 'tt0230877']
+Recommend movie top1 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top2 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top3 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top4 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

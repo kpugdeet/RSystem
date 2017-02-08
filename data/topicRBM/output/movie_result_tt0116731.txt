@@ -1,0 +1,19 @@
+Movie ID tt0116731, Title: juror, the (1996), Tag: ['drama', 'thriller']
+Overview: when annie laird is selected as a juror in a big mafia trial she is forced by someone known as the teacher to persuade the other jurors to vote not guilty he threatens to kill her son if she doesn t commit when the trial is over he can t let her go
+
+Recommend Movies List IDs: ['62', 'tt0230877', 'tt0109891', 'tt0111488', 'tt3446062']
+Recommend movie top1 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top2 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top3 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top4 ID tt0111488, Title: trial by jury (1994), Tag: ['crime', 'drama', 'thriller']
+Overview: valerie is a juror in the trail of a mob boss when her young son s life is threatened she has no option other than to see that justice isn t done
+
+Recommend movie top5 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+

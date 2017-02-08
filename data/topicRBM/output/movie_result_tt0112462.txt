@@ -1,0 +1,19 @@
+Movie ID tt0112462, Title: batman forever (1995), Tag: ['action', 'adventure', 'comedy', 'crime']
+Overview: batman must battle two face and the riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick robin
+
+Recommend Movies List IDs: ['tt0230877', 'tt0113691', 'tt0058450', 'tt0114496', 'tt0111742']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0113691, Title: losing isaiah (1995), Tag: ['drama']
+Overview: the natural and adoptive mothers of a young boy are involved in a bitter controversial custody battle
+
+Recommend movie top3 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+
+Recommend movie top4 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top5 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+

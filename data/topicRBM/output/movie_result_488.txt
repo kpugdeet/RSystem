@@ -1,0 +1,19 @@
+Movie ID 488, Title: m. butterfly (1993), Tag: ['drama', 'romance']
+Overview: during the cultural revolution in china in the mid a french diplomat falls in love with a singer in the beijing opera interwoven with allusions to the puccini opera madama butterfly a story of love and betrayal unfolds
+
+Recommend Movies List IDs: ['tt0230877', 'tt0111256', 'tt0114496', 'tt0109198', 'tt0117002']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top5 ID tt0117002, Title: mary reilly (1996), Tag: ['drama', 'horror', 'thriller']
+Overview: a housemaid falls in love with dr jekyll and his darkly mysterious counterpart mr hyde
+

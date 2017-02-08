@@ -1,0 +1,19 @@
+Movie ID tt0111173, Title: shopping (1994), Tag: ['action', 'thriller']
+Overview: you ve run out of options no school no job steal a car smash a shop with a heavy car and reap the proceeds this movie is about underground england the causes the benefits and the result of a life of crash and carry
+
+Recommend Movies List IDs: ['tt0113089', 'tt0114478', 'tt0111742', 'tt0109891', 'tt0115639']
+Recommend movie top1 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top2 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top5 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+

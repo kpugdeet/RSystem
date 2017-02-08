@@ -1,0 +1,19 @@
+Movie ID tt0113501, Title: just cause (1995), Tag: ['mystery', 'thriller']
+Overview: a harvard professor is lured back into the courtroom after years to take the case of a young black man condemned to death for the horrific murder of a child
+
+Recommend Movies List IDs: ['tt0110657', 'tt0109579', 'tt0113101', 'tt4103972', 'tt0107478']
+Recommend movie top1 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top2 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top3 ID tt0113101, Title: four rooms (1995), Tag: ['comedy']
+Overview: four interlocking tales that take place in a fading hotel on new year s eve
+
+Recommend movie top4 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top5 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+

@@ -1,0 +1,19 @@
+Movie ID tt0111257, Title: speed (1994), Tag: ['action', 'romance', 'thriller']
+Overview: bomber terrorist s elevator plan backfires so he rigs a bomb to a la city bus the stipulation is once armed the bus must stay above mph to keep from exploding also if lapd officer tries to unload any passengers off payne will detonate it joe morton co stars as jack s superior and jeff daniels supports jack helping him try to defuse the bomb
+
+Recommend Movies List IDs: ['tt0110622', 'tt0106292', 'tt0111742', 'tt0050022', 'tt0779794']
+Recommend movie top1 ID tt0110622, Title: naked gun 33 1/3: the final insult (1994), Tag: ['action', 'comedy']
+Overview: frank drebin comes out of retirement to help police squad infiltrate a gang of terrorists planning to detonate a bomb at the academy awards
+
+Recommend movie top2 ID tt0106292, Title: another stakeout (1993), Tag: ['comedy', 'thriller']
+Overview: prankster cops chris and bill are joined by a gina from the da s office to stakeout a lakeside home
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top5 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+

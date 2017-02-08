@@ -1,0 +1,19 @@
+Movie ID tt0110353, Title: lightning jack (1994), Tag: ['comedy', 'western']
+Overview: lightning jack kane is an australian outlaw in the wild west during a bungled bank robbery he picks up mute ben doyle as a hostage the two become good friends with jack teaching ben how to rob banks while they plan jack s last heist
+
+Recommend Movies List IDs: ['tt0113277', 'tt0115645', 'tt0257315', 'tt0360307', 'tt0109198']
+Recommend movie top1 ID tt0113277, Title: heat (1995), Tag: ['action', 'crime', 'thriller']
+Overview: a group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist
+
+Recommend movie top2 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top3 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

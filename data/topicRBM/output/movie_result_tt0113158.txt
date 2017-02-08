@@ -1,0 +1,19 @@
+Movie ID tt0113158, Title: georgia (1995), Tag: ['drama']
+Overview: sadie is desperately looking up to her older sister georgia who is a famous c w artist sadie wants to be a famous artist like her sister but is always doing everything wrong her
+
+Recommend Movies List IDs: ['tt0147800', 'tt4103972', 'tt0058450', 'tt0114496', 'tt0117002']
+Recommend movie top1 ID tt0147800, Title: hate (haine, la) (1995), Tag: ['crime', 'drama']
+Overview: a pretty popular teenager can t go out on a date until her ill tempered older sister does
+
+Recommend movie top2 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top3 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+
+Recommend movie top4 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top5 ID tt0117002, Title: mary reilly (1996), Tag: ['drama', 'horror', 'thriller']
+Overview: a housemaid falls in love with dr jekyll and his darkly mysterious counterpart mr hyde
+

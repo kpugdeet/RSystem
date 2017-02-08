@@ -1,0 +1,19 @@
+Movie ID tt0110099, Title: i.q. (1994), Tag: ['comedy', 'romance']
+Overview: albert einstein helps a young man who s in love with einstein s niece to catch her attention by pretending temporarily to be a great physicist
+
+Recommend Movies List IDs: ['tt0109579', 'tt4103972', 'tt0109198', 'tt2167202', 'tt0380167']
+Recommend movie top1 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top2 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top3 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top4 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top5 ID tt0380167, Title: addiction, the (1995), Tag: ['drama', 'horror']
+Overview: a brutal act of self defense unleashes a quiet man s inner demons
+

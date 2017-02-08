@@ -1,0 +1,19 @@
+Movie ID tt0107818, Title: philadelphia (1993), Tag: ['drama']
+Overview: andrew beckett a gay lawyer infected with aids is fired from his law firm in fear that they might contract aids from him after andrew is fired in a last attempt for peace he sues his former law firm with the help of a homophobic lawyer joe miller during the court battle miller sees that beckett is no different than anyone else on the gritty streets of the city of brotherly love sheds his homophobia and helps beckett with his case before aids overcomes him
+
+Recommend Movies List IDs: ['tt0113691', 'tt0109579', 'tt0779794', 'tt0112462', 'tt1595032']
+Recommend movie top1 ID tt0113691, Title: losing isaiah (1995), Tag: ['drama']
+Overview: the natural and adoptive mothers of a young boy are involved in a bitter controversial custody battle
+
+Recommend movie top2 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top3 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top4 ID tt0112462, Title: batman forever (1995), Tag: ['action', 'adventure', 'comedy', 'crime']
+Overview: batman must battle two face and the riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick robin
+
+Recommend movie top5 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+

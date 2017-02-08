@@ -1,0 +1,19 @@
+Movie ID tt0108065, Title: searching for bobby fischer (1993), Tag: ['drama']
+Overview: josh waitzkin is just a typical american boy interested in baseball when one day he challenges his father at chess and wins showing unusual precocity at the outdoor matches at washington square in new york city he quickly makes friends with a hustler named vinnie who teaches him speed chess josh s parents hire a renowned chess coach bruce who teaches josh the usefulness of measured planning along the way josh becomes tired of bruce s system and chess in general and purposely throws a match leaving the prospects of winning a national championship in serious jeopardy
+
+Recommend Movies List IDs: ['tt0109450', 'tt0360307', 'tt0111742', 'tt0112579', 'tt3446062']
+Recommend movie top1 ID tt0109450, Title: cobb (1994), Tag: ['drama']
+Overview: a reporter hired to write the official biography of ty cobb discovers just how dark the baseball legend s real story is
+
+Recommend movie top2 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt0112579, Title: bridges of madison county, the (1995), Tag: ['drama', 'romance']
+Overview: photographer robert kincaid wanders into the life of housewife francesca johnson for four days in the
+
+Recommend movie top5 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+

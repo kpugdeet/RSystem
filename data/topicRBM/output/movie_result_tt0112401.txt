@@ -1,0 +1,19 @@
+Movie ID tt0112401, Title: assassins (1995), Tag: ['action', 'crime', 'thriller']
+Overview: professional hit man robert rath wants to fulfill a few more contracts before retiring but unscrupulous ambitious newcomer hit man miguel bain keeps killing rath s targets
+
+Recommend Movies List IDs: ['tt1391741', 'tt0109579', '498 ', 'tt0111742', 'tt1595032']
+Recommend movie top1 ID tt1391741, Title: walking dead, the (1995), Tag: ['drama', 'war']
+Overview: an old man looks death in the face when a stranger s car hits a tree off an icy road
+
+Recommend movie top2 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top3 ID 498 , Title: mr. jones (1993), Tag: ['drama', 'romance']
+Overview: the story about the relationship between a manic depressive man mr jones and the female doctor who takes more than a professional interest in his treatment
+
+Recommend movie top4 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top5 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+

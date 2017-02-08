@@ -1,0 +1,19 @@
+Movie ID tt0113071, Title: first knight (1995), Tag: ['action', 'drama', 'romance']
+Overview: lancelot lives by the sword in fact they re next door neighbours so teaming up to fight for money comes pretty naturally lady guinevere on her way to marry king arthur is ambushed by the evil sir malagant fortunately lancelot is lurking nearby and he rescues his future queen they fall in love but guinevere still fancies the idea of wearing a crown so she honours her promise to arthur can lady guinevere remain faithful or will this pretty woman become a lady of the knight
+
+Recommend Movies List IDs: ['tt0147800', 'tt0111742', 'tt0108255', 'tt0230877', 'tt3446062']
+Recommend movie top1 ID tt0147800, Title: hate (haine, la) (1995), Tag: ['crime', 'drama']
+Overview: a pretty popular teenager can t go out on a date until her ill tempered older sister does
+
+Recommend movie top2 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top3 ID tt0108255, Title: super mario bros. (1993), Tag: ['action', 'adventure', 'children', 'comedy', 'fantasy', 'sci-fi']
+Overview: two brooklyn plumbers mario and luigi must travel to another dimension to rescue a princess from the evil dictator king koopa and stop him from taking over the world
+
+Recommend movie top4 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top5 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+

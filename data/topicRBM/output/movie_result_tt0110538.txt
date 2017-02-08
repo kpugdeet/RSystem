@@ -1,0 +1,19 @@
+Movie ID tt0110538, Title: mixed nuts (1994), Tag: ['comedy']
+Overview: philip runs a crisis hotline with catherine and mrs munchnik that s the easy part now it gets tricky stanley loves evicting people and he evicts philip philip loves helping people and he is loved by catherine catherine is loved by louie who loves writing songs chris loves dancing to songs and loves to wear large dresses gracie also loves to wear large dresses because she s pregnant she loves the baby s father felix who loves to paint that just leaves mrs munchnik who hasn t been loved by anybody in a very long time
+
+Recommend Movies List IDs: ['tt1467412', 'tt0117002', 'tt0111256', 'tt2993648', 'tt0110950']
+Recommend movie top1 ID tt1467412, Title: up close and personal (1996), Tag: ['drama', 'romance']
+Overview: showcases songs from ms merchant s new elektra cd motherland as well as a range of her previous hit songs
+
+Recommend movie top2 ID tt0117002, Title: mary reilly (1996), Tag: ['drama', 'horror', 'thriller']
+Overview: a housemaid falls in love with dr jekyll and his darkly mysterious counterpart mr hyde
+
+Recommend movie top3 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top4 ID tt2993648, Title: what's love got to do with it? (1993), Tag: ['drama', 'musical']
+Overview: marriage pressure haven t found the right person in love with the wrong person what s love got to do with it tells real life stories of people like you and me who are simply looking
+
+Recommend movie top5 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+

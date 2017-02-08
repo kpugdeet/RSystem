@@ -1,0 +1,19 @@
+Movie ID tt0112722, Title: copycat (1995), Tag: ['crime', 'drama', 'horror', 'mystery', 'thriller']
+Overview: in san francisco the criminal psychologist helen hudson is specialized in serial killers during a trial the accused daryll lee cullum kills a police officer and tries to kill her and she becomes agoraphobic now helen lives a reclusive life with her gay friend andy that helps her sometime later there is a wave of crimes and detectives m j monahan and reuben goetz are investigating the murder cases helen identifies that the murderer is copycatting notorious serial killers and she anonymously contacts the police department after fourteen phone calls she is identified by the police detectives m j and reuben visit her and helen teams up with them and prepares the profile of the killer that wants to be famous but soon the copycat killer peter foley contacts and stalks helen and m j and reuben give protection to her will they be capable to stop foley before the next murder
+
+Recommend Movies List IDs: ['tt2747352', 'tt0107302', 'tt0109906', 'tt0110632', 'tt0108174']
+Recommend movie top1 ID tt2747352, Title: specialist, the (1994), Tag: ['action', 'drama', 'thriller']
+Overview: kusanagi plays a police detective who gets framed for a crime he didn t commit and had to spend the last years in prison however he regains his job as a police officer and makes use of his specialized knowledge on criminal psychology to solve difficult cases
+
+Recommend movie top2 ID tt0107302, Title: kalifornia (1993), Tag: ['drama', 'thriller']
+Overview: a journalist duo go on a tour of serial killer murder sites with two companions unaware that one of them is a serial killer himself
+
+Recommend movie top3 ID tt0109906, Title: the glass shield (1994), Tag: ['crime', 'drama']
+Overview: j j is a rookie in the sheriff s department and the first black officer at that station racial tensions run high in the department as some of j j s fellow officers resent his presence
+
+Recommend movie top4 ID tt0110632, Title: natural born killers (1994), Tag: ['action', 'crime', 'thriller']
+Overview: two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media
+
+Recommend movie top5 ID tt0108174, Title: so i married an axe murderer (1993), Tag: ['comedy', 'romance', 'thriller']
+Overview: a san francisco poet who fears commitment suspects his girlfriend may not be who she appears
+

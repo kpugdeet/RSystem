@@ -1,0 +1,19 @@
+Movie ID tt0108000, Title: ruby in paradise (1993), Tag: ['drama']
+Overview: ruby a young woman arrives in a florida resort town during the off season to make a fresh start she gets work as a sales clerk in a souvineer shop run by mildred chambers she dates and sleeps with ricky chambers mildred s conceited son but breaks off with him when she finds she s just another conquest she gets involved with mike a left wing greenhouse worker as the seasons change ruby s relationships with others and herself go through metamorphoses as she makes choices and discoveries establishing her own identity a character study
+
+Recommend Movies List IDs: ['tt0110357', 'tt0109891', 'tt0114214', 'tt0360307', 'tt0111256']
+Recommend movie top1 ID tt0110357, Title: lion king, the (1994), Tag: ['adventure', 'animation', 'children', 'drama', 'musical', 'imax']
+Overview: lion cub and future king simba searches for his identity his eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble
+
+Recommend movie top2 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top3 ID tt0114214, Title: quick and the dead, the (1995), Tag: ['action', 'thriller', 'western']
+Overview: lady avenger returns to western town owned by a ruthless gunslinger hosting an elimination tournament
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+

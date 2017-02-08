@@ -1,0 +1,19 @@
+Movie ID tt0110074, Title: hudsucker proxy, the (1994), Tag: ['comedy']
+Overview: when waring hudsucker head of hugely successful hudsucker industries commits suicide his board of directors led by sidney mussberger comes up with a brilliant plan to make a lot of money appoint a moron to run the company when the stock falls low enough sidney and friends can buy it up for pennies on the dollar take over the company and restore its fortunes they choose idealistic norville barnes who just started in the mail room norville is whacky enough to drive any company to ruin but soon tough reporter amy archer smells a rat and begins an undercover investigation of hudsucker industries
+
+Recommend Movies List IDs: ['tt0107969', 'tt0117002', 'tt0079758', 'tt0109891', 'tt0111256']
+Recommend movie top1 ID tt0107969, Title: rising sun (1993), Tag: ['action', 'drama', 'mystery']
+Overview: when an escort girl is found dead in the offices of a japanese company in la detectives web smith and john connor act as liaison between the company s executives and the investigating cop tom graham
+
+Recommend movie top2 ID tt0117002, Title: mary reilly (1996), Tag: ['drama', 'horror', 'thriller']
+Overview: a housemaid falls in love with dr jekyll and his darkly mysterious counterpart mr hyde
+
+Recommend movie top3 ID tt0079758, Title: prophecy, the (1995), Tag: ['fantasy', 'horror', 'mystery']
+Overview: a log company s waste mutates the environment creating a giant killer bear monster
+
+Recommend movie top4 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top5 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+

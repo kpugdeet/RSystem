@@ -1,0 +1,19 @@
+Movie ID tt0114798, Title: unstrung heroes (1995), Tag: ['comedy', 'drama']
+Overview: steven lidz unhappy with his home life since his mother got sick goes and lives with his two crazy uncles there he changes and gets closer to his uncles but his parents want him home even though he is finally happy and popular
+
+Recommend Movies List IDs: ['tt3446062', 'tt0115639', 'tt0111127', 'tt0109813', 'tt0257315']
+Recommend movie top1 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top2 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top3 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top4 ID tt0109813, Title: flintstones, the (1994), Tag: ['children', 'comedy', 'fantasy']
+Overview: in this live action feature of the cartoon show fred flintstone finally gets the job he s always wanted but it may just come at a price
+
+Recommend movie top5 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+

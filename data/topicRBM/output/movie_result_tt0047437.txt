@@ -1,0 +1,19 @@
+Movie ID tt0047437, Title: sabrina (1995), Tag: ['comedy', 'romance']
+Overview: linus and david larrabee are the two sons of a very wealthy family linus is all work busily running the family corporate empire with no time for a wife and family david is all play technically employed in the family business but never showing up for work spending all his time entertaining and having been married and divorced three times sabrina fairchild is the young shy and awkward daughter of the household chauffeur who has been infatuated with david all her life but whom david hardly notices till she goes away to paris for two years and returns an elegant sophisticated beautiful woman suddenly she finds she s captured david s attention but just as she does so she finds herself also falling in love with linus and she finds that linus is also falling in love with her
+
+Recommend Movies List IDs: ['tt0111256', 'tt0109891', 'tt0111756', 'tt0111161', 'tt0107507']
+Recommend movie top1 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top2 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top3 ID tt0111756, Title: wyatt earp (1994), Tag: ['western']
+Overview: wyatt earp is a movie about a man and his family the movie shows us the good times and the bad times of one of the west s most famous individuals
+
+Recommend movie top4 ID tt0111161, Title: shawshank redemption, the (1994), Tag: ['crime', 'drama']
+Overview: two imprisoned men bond over a number of years finding solace and eventual redemption through acts of common decency
+
+Recommend movie top5 ID tt0107507, Title: manhattan murder mystery (1993), Tag: ['comedy', 'mystery']
+Overview: a middle aged couple suspects foul play when their neighbor s wife suddenly drops dead
+

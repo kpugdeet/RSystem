@@ -1,0 +1,19 @@
+Movie ID tt0112697, Title: clueless (1995), Tag: ['comedy', 'romance']
+Overview: cher a high school student in beverly hills must survive the ups and downs of adolescent life her external demeanor at first seems superficial but rather it hides her wit charm and intelligence which help her to deal with relationships friends family school and the all important teenage social life
+
+Recommend Movies List IDs: ['tt0106677', '62', 'tt0779794', 'tt0115639', 'tt4947656']
+Recommend movie top1 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top2 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top3 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top4 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top5 ID tt4947656, Title: simple twist of fate, a (1994), Tag: ['drama']
+Overview: quinn must prove himself worthy to take over for his friend and mentor who is retiring from one of the most important positions at their firm
+

@@ -1,0 +1,19 @@
+Movie ID tt0107978, Title: robocop 3 (1993), Tag: ['action', 'crime', 'drama', 'sci-fi', 'thriller']
+Overview: the mega corporation omni consumer products is still bent on creating their pet project delta city to replace the rotting city of detroit unfortunately the inhabitants of the area have no intention of abandoning their homes simply for desires of the company to this end ocp have decided to force them to leave by employing a ruthless mercenary army to attack and harass them an underground resistance begins and in this fight robocop must decide where his loyalties lie
+
+Recommend Movies List IDs: ['tt0079758', 'tt0109579', 'tt0230877', 'tt0111742', 'tt0112572']
+Recommend movie top1 ID tt0079758, Title: prophecy, the (1995), Tag: ['fantasy', 'horror', 'mystery']
+Overview: a log company s waste mutates the environment creating a giant killer bear monster
+
+Recommend movie top2 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top5 ID tt0112572, Title: brady bunch movie, the (1995), Tag: ['comedy']
+Overview: the original t v family is now placed in the where they re even more square and out of place than ever
+

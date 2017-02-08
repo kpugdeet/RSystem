@@ -1,0 +1,19 @@
+Movie ID tt1677073, Title: walk in the clouds, a (1995), Tag: ['drama', 'romance']
+Overview: glacier national park has enormous water preserves as well as one million acres of undeveloped wilderness glacier national park is not currently designated as wilderness all of the beauty and resources of glacier are at risk as long as the park is not set aside as wilderness the text of the film is intended to drive citizens to promote wilderness designation for glacier national park
+
+Recommend Movies List IDs: ['tt0115759', 'tt0230877', 'tt0360307', 'tt0050022', 'tt0111742']
+Recommend movie top1 ID tt0115759, Title: broken arrow (1996), Tag: ['action', 'adventure', 'thriller']
+Overview: terrorists steal nuclear warheads from the u s military but don t count on a pilot and park ranger spoiling their plans
+
+Recommend movie top2 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top3 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top4 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top5 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+

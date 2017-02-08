@@ -1,0 +1,19 @@
+Movie ID tt0111252, Title: spanking the monkey (1994), Tag: ['comedy', 'drama']
+Overview: raymond aibelli is a promising medical student ready to begin a prestigious summer internship but susan his mother is immobilized by a broken leg and his father tom a travelling salesman makes raymond stay home and take care of his mother an attractive though unhappy woman his mother s condition leads them to a degree of immediate physical contact which raymond finds disturbing he soon meets toni a high school girl but his sexual impulses are increasingly confused especially since he is still upset over losing the internship
+
+Recommend Movies List IDs: ['tt0779794', 'tt0111127', '62', 'tt1781922', 'tt0109642']
+Recommend movie top1 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top2 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top3 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top4 ID tt1781922, Title: no escape (1994), Tag: ['action', 'drama', 'sci-fi']
+Overview: in their new overseas home an american family soon finds themselves caught in the middle of a coup and they frantically look for a safe escape from an environment where foreigners are being immediately executed
+
+Recommend movie top5 ID tt0109642, Title: dolores claiborne (1995), Tag: ['drama', 'thriller']
+Overview: a big city reporter travels to the small town where her mother has been arrested for the murder of an elderly woman that she works for as a maid
+

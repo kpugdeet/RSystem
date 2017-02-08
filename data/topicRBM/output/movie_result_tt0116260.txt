@@ -1,0 +1,19 @@
+Movie ID tt0116260, Title: eye for an eye (1996), Tag: ['drama', 'thriller']
+Overview: karen mccann s eldest daughter is raped and murdered whilst on the phone with her when the case against robert doob the perpetrator is dismissed because of a technicality she starts following him and sees how he checks out his next victim a woman he delivers groceries to she tells the police but is only warned she must stop following doob when she tries to warn the woman she is shooed out of the house doob having found out that karen is following him threatens to do something to her youngest daughter she then seeks help from a group of vigilantes connected to a support group in order to shoot doob however a friend from the support group turns out to be an fbi agent investigating the very vigilante activity karen is involved in and warns her that she will go to jail for the rest of her life unless it is self defense in the meantime tension grows between karen and her husband mack because he finds out she has secretly been taking self defense classes and has been learning how to use a gun when doob makes another victim and is again released for lack of evidence she finds a way to lure him into her house and kill him in self defense
+
+Recommend Movies List IDs: ['tt0499556', 'tt0107057', 'tt0380167', 'tt1595680', 'tt0114496']
+Recommend movie top1 ID tt0499556, Title: war, the (1994), Tag: ['adventure', 'drama', 'war']
+Overview: an fbi agent seeks vengeance on a mysterious assassin known as rogue who murdered his partner
+
+Recommend movie top2 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+
+Recommend movie top3 ID tt0380167, Title: addiction, the (1995), Tag: ['drama', 'horror']
+Overview: a brutal act of self defense unleashes a quiet man s inner demons
+
+Recommend movie top4 ID tt1595680, Title: being human (1993), Tag: ['drama']
+Overview: three twenty somethings share a house and try to live a normal life despite being a ghost a werewolf and a vampire
+
+Recommend movie top5 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+

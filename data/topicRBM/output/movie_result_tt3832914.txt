@@ -1,0 +1,19 @@
+Movie ID tt3832914, Title: war room, the (1993), Tag: ['documentary']
+Overview: filled with heart humor and wit war room follows tony and elizabeth jordan a couple who seemingly have it all great jobs a beautiful daughter their dream home but appearances can be deceiving in reality their marriage has become a war zone and their daughter is collateral damage with guidance from miss clara an older wiser woman elizabeth discovers she can start fighting for her family instead of against them as the power of prayer and elizabeth s newly energized faith transform her life will tony join the fight and become the man he knows he needs to be together their real enemy doesn t have a prayer
+
+Recommend Movies List IDs: ['tt0111742', 'tt0114496', 'tt0109198', 'tt0112471', 'tt0107478']
+Recommend movie top1 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top4 ID tt0112471, Title: before sunrise (1995), Tag: ['drama', 'romance']
+Overview: a young man and woman meet on a train in europe and wind up spending one evening together in vienna unfortunately both know that this will probably be their only night together
+
+Recommend movie top5 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+

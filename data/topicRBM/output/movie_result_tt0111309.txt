@@ -1,0 +1,19 @@
+Movie ID tt0111309, Title: sum of us, the (1994), Tag: ['comedy', 'drama']
+Overview: set in sydney australia a heterosexual father and his gay son are trying to find ms mr right respectively the film shows their relationships with one another and the objects of their affection as tradgedy strikes there is no overt message in the film just a very natural entertaining story telling
+
+Recommend Movies List IDs: ['tt1595032', 'tt0779794', '498 ', '62', 'tt0109891']
+Recommend movie top1 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID 498 , Title: mr. jones (1993), Tag: ['drama', 'romance']
+Overview: the story about the relationship between a manic depressive man mr jones and the female doctor who takes more than a professional interest in his treatment
+
+Recommend movie top4 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

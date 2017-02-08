@@ -1,0 +1,19 @@
+Movie ID tt0110647, Title: neverending story iii, the (1994), Tag: ['adventure', 'children', 'fantasy']
+Overview: bastian s dream to get a sibling becomes true when his father re marries but soon he has trouble with his new stepsister nicole and with a gang of school bullies the nasties hiding in the school library bastian finds his favorite book of the neverending story where it is later found by slip the gang leader the latter recognizes the power of the book and begins to form fantasia after his bad intentions when the chaos becomes worse the child like empress requests bastian to move back to the real world get the book back and save fantasia accidentally some fantasia characters travel with him to reality but get lost in different places meanwhile slip and the other nasties spread anarchy finally bastian gets support from nicole who begins to believe in the power of fantasia
+
+Recommend Movies List IDs: ['tt2993648', 'tt0257315', 'tt0110657', 'tt0108101', 'tt0112572']
+Recommend movie top1 ID tt2993648, Title: what's love got to do with it? (1993), Tag: ['drama', 'musical']
+Overview: marriage pressure haven t found the right person in love with the wrong person what s love got to do with it tells real life stories of people like you and me who are simply looking
+
+Recommend movie top2 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top3 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top4 ID tt0108101, Title: shadowlands (1993), Tag: ['drama', 'romance']
+Overview: c s lewis a world renowned christian theologian writer and professor leads a passionless life until he meets a spirited poet from the u s
+
+Recommend movie top5 ID tt0112572, Title: brady bunch movie, the (1995), Tag: ['comedy']
+Overview: the original t v family is now placed in the where they re even more square and out of place than ever
+

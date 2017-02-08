@@ -1,0 +1,19 @@
+Movie ID tt0112302, Title: tom and huck (1995), Tag: ['adventure', 'children']
+Overview: a mischievous young boy tom sawyer jonathan taylor thomas witnesses a murder by the deadly injun joe tom becomes friends with huckleberry finn brad renfro a boy with no future and no family tom has to choose between honoring a friendship or honoring an oath because the town alcoholic is accused of the murder tom and huck go through several adventures trying to retrieve evidence
+
+Recommend Movies List IDs: ['tt0360307', 'tt0115645', 'tt0113691', 'tt0106965', 'tt0113347']
+Recommend movie top1 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top2 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top3 ID tt0113691, Title: losing isaiah (1995), Tag: ['drama']
+Overview: the natural and adoptive mothers of a young boy are involved in a bitter controversial custody battle
+
+Recommend movie top4 ID tt0106965, Title: free willy (1993), Tag: ['adventure', 'children', 'drama']
+Overview: when a boy learns that a beloved killer whale is to be killed by the aquarium owners the boy risks everything to free the whale
+
+Recommend movie top5 ID tt0113347, Title: how to make an american quilt (1995), Tag: ['drama', 'romance']
+Overview: bride to be finn dodd hears tales of romance and sorrow from her elders as they construct a quilt
+

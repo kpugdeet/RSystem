@@ -1,0 +1,19 @@
+Movie ID tt0114660, Title: things to do in denver when you're dead (1995), Tag: ['crime', 'drama', 'romance']
+Overview: jimmy the saint s business is videotaping the terminally ill so that they will be around to give afterlife advice to their survivors he hasn t been doing too well lately and has had to turn to loan sharks to accomodate his failing business as well as his expensive personal tastes when an evil gangster overlord buys up his note and demands a favor of jimmy in exchange for the interest that he can t afford jimmy capitulates jimmy is to scare someone for the gangster overlord really rough them up without giving too much away spoiler the scene goes down badly and jimmy and his crew all end up with contracts on their heads for their trouble
+
+Recommend Movies List IDs: ['tt0257315', 'tt0147800', 'tt0114852', 'tt0109891', 'tt0110357']
+Recommend movie top1 ID tt0257315, Title: my family (1995), Tag: ['drama']
+Overview: comedy about ben a dentist and his family they don t exactly get along well
+
+Recommend movie top2 ID tt0147800, Title: hate (haine, la) (1995), Tag: ['crime', 'drama']
+Overview: a pretty popular teenager can t go out on a date until her ill tempered older sister does
+
+Recommend movie top3 ID tt0114852, Title: village of the damned (1995), Tag: ['horror', 'sci-fi']
+Overview: a small town s women give birth to unfriendly alien children posing as humans
+
+Recommend movie top4 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top5 ID tt0110357, Title: lion king, the (1994), Tag: ['adventure', 'animation', 'children', 'drama', 'musical', 'imax']
+Overview: lion cub and future king simba searches for his identity his eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble
+

@@ -1,0 +1,19 @@
+Movie ID tt0111495, Title: three colors: white (trzy kolory: bialy) (1994), Tag: ['comedy', 'drama']
+Overview: final entry in a trilogy of films dealing with contemporary french society concerns a model who discovers her neighbour is keen on invading people s privacy
+
+Recommend Movies List IDs: ['tt0111495', 'tt0111495', 'tt0114496', 'tt0111003', 'tt0230877']
+Recommend movie top1 ID tt0111495, Title: three colors: blue (trois couleurs: bleu) (1993), Tag: ['drama']
+Overview: final entry in a trilogy of films dealing with contemporary french society concerns a model who discovers her neighbour is keen on invading people s privacy
+
+Recommend movie top2 ID tt0111495, Title: three colors: red (trois couleurs: rouge) (1994), Tag: ['drama']
+Overview: final entry in a trilogy of films dealing with contemporary french society concerns a model who discovers her neighbour is keen on invading people s privacy
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt0111003, Title: puppet masters, the (1994), Tag: ['horror', 'sci-fi']
+Overview: the earth is invaded by stingray shaped alien slugs that ride on people s backs and control their minds
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

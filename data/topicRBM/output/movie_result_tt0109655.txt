@@ -1,0 +1,19 @@
+Movie ID tt0109655, Title: double happiness (1994), Tag: ['drama']
+Overview: twenty two year old chinese canadian jade li comes from a traditional chinese family who try to put on the perfect public persona at all cost so as to save face one primary part of this
+
+Recommend Movies List IDs: ['tt0116483', 'tt0779794', 'tt0230877', 'tt0111127', 'tt0109891']
+Recommend movie top1 ID tt0116483, Title: happy gilmore (1996), Tag: ['comedy']
+Overview: a rejected hockey player puts his skills to the golf course to save his grandmother s house
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

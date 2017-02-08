@@ -1,0 +1,19 @@
+Movie ID tt0108002, Title: rudy (1993), Tag: ['drama']
+Overview: rudy grew up in a steel mill town where most people ended up working but wanted to play football at notre dame instead there were only a couple of problems his grades were a little low his athletic skills were poor and he was only half the size of the other players but he had the drive and the spirit of people and has set his sights upon joining the team
+
+Recommend Movies List IDs: ['tt0360307', 'tt0116483', 'tt0109198', 'tt0230877', 'tt0111256']
+Recommend movie top1 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top2 ID tt0116483, Title: happy gilmore (1996), Tag: ['comedy']
+Overview: a rejected hockey player puts his skills to the golf course to save his grandmother s house
+
+Recommend movie top3 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top4 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top5 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+

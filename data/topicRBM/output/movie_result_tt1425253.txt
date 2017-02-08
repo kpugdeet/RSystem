@@ -1,0 +1,19 @@
+Movie ID tt1425253, Title: shadow, the (1994), Tag: ['action', 'adventure', 'fantasy', 'mystery']
+Overview: when a young soldier leaves for a mountain biking excursion he meets the girl of his dreams as well as a group of violent locals who want to see them dead at any cost
+
+Recommend Movies List IDs: ['tt0230877', 'tt0779794', 'tt0114496', 'tt4103972', 'tt3446062']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top5 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+

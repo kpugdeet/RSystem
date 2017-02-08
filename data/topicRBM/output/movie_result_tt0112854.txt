@@ -1,0 +1,19 @@
+Movie ID tt0112854, Title: destiny turns on the radio (1995), Tag: ['comedy']
+Overview: johnny destiny burns into las vegas in his hot plymouth roadrunner stopping only to pick up a stranger stranded in the desert but then things aren t always as they seem anything can happen in that town of many possibilities especially since there s been some weird electrical disturbances as the stranger fresh out of prison tries to put his life back together to recover his money from an old bank heist and the girl he lost in doing the job something keeps interfering with his plans is it fate or just destiny
+
+Recommend Movies List IDs: ['tt0111742', 'tt1595680', 'tt0111127', 'tt1391741', 'tt0109198']
+Recommend movie top1 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top2 ID tt1595680, Title: being human (1993), Tag: ['drama']
+Overview: three twenty somethings share a house and try to live a normal life despite being a ghost a werewolf and a vampire
+
+Recommend movie top3 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top4 ID tt1391741, Title: walking dead, the (1995), Tag: ['drama', 'war']
+Overview: an old man looks death in the face when a stranger s car hits a tree off an icy road
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

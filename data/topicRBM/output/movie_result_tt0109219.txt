@@ -1,0 +1,19 @@
+Movie ID tt0109219, Title: barcelona (1994), Tag: ['comedy', 'romance']
+Overview: ted a stuffy white guy from illinois working in sales for the barcelona office of a us corporation is paid an unexpected visit by his somewhat less stuffy cousin fred who is an officer in the us navy over the next few months both their lives are irrevocably altered by the events which follow fred s arrival events which are the trivial stuff of a comedy of manners at first but which gradually grow increasingly dramatic
+
+Recommend Movies List IDs: ['tt3446062', 'tt0109444', 'tt4103972', 'tt0230877', 'tt0106292']
+Recommend movie top1 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top2 ID tt0109444, Title: clear and present danger (1994), Tag: ['action', 'crime', 'drama', 'thriller']
+Overview: cia analyst jack ryan is drawn into an illegal war fought by the us government against a colombian drug cartel
+
+Recommend movie top3 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top4 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top5 ID tt0106292, Title: another stakeout (1993), Tag: ['comedy', 'thriller']
+Overview: prankster cops chris and bill are joined by a gina from the da s office to stakeout a lakeside home
+

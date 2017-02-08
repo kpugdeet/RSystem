@@ -1,0 +1,19 @@
+Movie ID tt0112715, Title: congo (1995), Tag: ['action', 'adventure', 'mystery', 'sci-fi']
+Overview: when an expedition to the african congo ends in disaster a new team is assembled to find out what went wrong
+
+Recommend Movies List IDs: ['tt1595032', 'tt0230877', '62', 'tt0360307', 'tt0109891']
+Recommend movie top1 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top2 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top3 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

@@ -1,0 +1,19 @@
+Movie ID tt0106873, Title: fatal instinct (1993), Tag: ['comedy']
+Overview: a spoof of the late and early suspense thrillers and murder mysteries including basic instinct sleeping with the enemy cape fear and others a cop attorney yes he s both is seduced by a woman while his wife is having an affair with a mechanic lots of other sublots and visual gags in the style of naked gun check the rating
+
+Recommend Movies List IDs: ['tt3446062', 'tt0499556', 'tt0114496', 'tt2167202', 'tt0115645']
+Recommend movie top1 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top2 ID tt0499556, Title: war, the (1994), Tag: ['adventure', 'drama', 'war']
+Overview: an fbi agent seeks vengeance on a mysterious assassin known as rogue who murdered his partner
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top5 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+

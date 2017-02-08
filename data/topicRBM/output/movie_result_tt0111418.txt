@@ -1,0 +1,19 @@
+Movie ID tt0111418, Title: threesome (1994), Tag: ['comedy', 'romance']
+Overview: eddy and stuart share two thirds of a dormitory suite due to bureaucratic error a woman named alex is added to their room at first relations among the three are tense soon however alex falls for eddy and stuart lusts after alex eddy comes to realize not only that he s gay but that he s attracted to stuart the three pledge not to act on any romantic or lustful feelings with each other and become close friends while bottling up a lot of sexual tension
+
+Recommend Movies List IDs: ['tt0113044', 'tt0114496', 'tt0111256', 'tt0113749', 'tt0779794']
+Recommend movie top1 ID tt0113044, Title: feast of july (1995), Tag: ['drama']
+Overview: after an abandoned young woman in late century england is taken in by a rural couple with three handsome sons tragic consequences result
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top4 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top5 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+

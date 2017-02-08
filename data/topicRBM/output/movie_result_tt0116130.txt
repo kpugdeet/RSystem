@@ -1,0 +1,19 @@
+Movie ID tt0116130, Title: down periscope (1996), Tag: ['comedy']
+Overview: lt cmdr tom dodge is assigned as captain to the uss stingray an old diesel driven submarine that has seen better days with a crew that consists only of weird guys and a gal he s headed against the atomic powered uss orlando with the mission to destroy a dummy battleship
+
+Recommend Movies List IDs: ['tt0108122', 'tt0111333', 'tt4103972', 'tt0230877', 'tt0114496']
+Recommend movie top1 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top2 ID tt0111333, Title: swan princess, the (1994), Tag: ['animation', 'children']
+Overview: a power hungry sorcerer transforms a princess into a swan by day in this tale of everlasting love
+
+Recommend movie top3 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top4 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top5 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+

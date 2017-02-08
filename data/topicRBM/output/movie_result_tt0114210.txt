@@ -1,0 +1,19 @@
+Movie ID tt0114210, Title: pyromaniac's love story, a (1995), Tag: ['comedy', 'romance']
+Overview: a pastry boy and the son of a hair piece mogul become involved in an arson scandal sergio is offered a bribe in exchange for taking the blame for the fire that destroys his workplace garet the real arsonist is apalled that someone else would try to take credit for his act of love before long sergio and garet become entangled in a zany love quadrangle involving hattie and stephanie
+
+Recommend Movies List IDs: ['tt0113691', 'tt0109306', 'tt0111127', 'tt0111742', 'tt0779794']
+Recommend movie top1 ID tt0113691, Title: losing isaiah (1995), Tag: ['drama']
+Overview: the natural and adoptive mothers of a young boy are involved in a bitter controversial custody battle
+
+Recommend movie top2 ID tt0109306, Title: blue sky (1994), Tag: ['drama', 'romance']
+Overview: jessica lange stars in a period drama about a family moving to a military base and she quickly becomes part of a cover up involving nuclear bomb tests
+
+Recommend movie top3 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top4 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top5 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+

@@ -1,0 +1,19 @@
+Movie ID tt0112427, Title: awfully big adventure, an (1995), Tag: ['drama']
+Overview: set right after world war ii a naive teenage girl joins a shabby theatre troupe in liverpool during a winter production of peter pan the play quickly turns into a dark metaphor for youth
+
+Recommend Movies List IDs: ['tt0114496', 'tt0230877', 'tt0096895', 'tt0109198', 'tt1595032']
+Recommend movie top1 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top2 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top3 ID tt0096895, Title: batman (1989), Tag: ['action', 'crime', 'thriller']
+Overview: the dark knight of gotham city begins his war on crime with his first major enemy being the clownishly homicidal joker
+
+Recommend movie top4 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top5 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+

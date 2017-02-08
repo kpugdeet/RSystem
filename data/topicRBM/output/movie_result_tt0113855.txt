@@ -1,0 +1,19 @@
+Movie ID tt0113855, Title: mortal kombat (1995), Tag: ['action', 'adventure', 'fantasy']
+Overview: based on the popular video game of the same name mortal kombat tells the story of an ancient tournament where the best of the best of different realms fight each other the goal ten wins to be able to legally invade the losing realm outworld has so far collected nine wins against earthrealm so it s up to lord rayden and his fighters to stop outworld from reaching the final victory
+
+Recommend Movies List IDs: ['tt0114478', 'tt0147800', 'tt0074102', 'tt0251413', 'tt1595032']
+Recommend movie top1 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+
+Recommend movie top2 ID tt0147800, Title: hate (haine, la) (1995), Tag: ['crime', 'drama']
+Overview: a pretty popular teenager can t go out on a date until her ill tempered older sister does
+
+Recommend movie top3 ID tt0074102, Title: in the realm of the senses (ai no corrida) (1976), Tag: ['drama']
+Overview: a passionate telling of the story of sada abe a woman whose affair with her master led to a sexual obsession which then came to a violent end
+
+Recommend movie top4 ID tt0251413, Title: star wars: episode iv - a new hope (1977), Tag: ['action', 'adventure', 'sci-fi']
+Overview: in this game you assume the role of luke skywalker and fight past many enemies to to reach and destroy the death star
+
+Recommend movie top5 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+

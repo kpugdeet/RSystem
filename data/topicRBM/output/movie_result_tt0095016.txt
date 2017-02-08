@@ -1,0 +1,19 @@
+Movie ID tt0095016, Title: die hard: with a vengeance (1995), Tag: ['action', 'crime', 'thriller']
+Overview: nypd cop john mcclane goes on a christmas vacation to visit his wife holly in los angeles where she works for the nakatomi corporation while they are at the nakatomi headquarters for a christmas party a group of bank robbers led by hans gruber take control of the building and hold everyone hostage with the exception of john while they plan to perform a lucrative heist unable to escape and with no immediate police response john is forced to take matters into his own hands
+
+Recommend Movies List IDs: ['tt0113277', 'tt0108122', 'tt0116253', 'tt0110657', 'tt0106292']
+Recommend movie top1 ID tt0113277, Title: heat (1995), Tag: ['action', 'crime', 'thriller']
+Overview: a group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist
+
+Recommend movie top2 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top3 ID tt0116253, Title: executive decision (1996), Tag: ['action', 'adventure', 'thriller']
+Overview: when terrorists seize control of an airliner an intelligence analyst accompanies a commando unit for a midair boarding operation
+
+Recommend movie top4 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top5 ID tt0106292, Title: another stakeout (1993), Tag: ['comedy', 'thriller']
+Overview: prankster cops chris and bill are joined by a gina from the da s office to stakeout a lakeside home
+

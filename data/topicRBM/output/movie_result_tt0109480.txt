@@ -1,0 +1,19 @@
+Movie ID tt0109480, Title: cops and robbersons (1994), Tag: ['comedy']
+Overview: when police discover that a mob hitman has moved in next door to the robbersons they want to find out what he is up to so they set up a stakeout in the robbersons home hard nosed tough as nails jake stone is assigned to the stakeout but now it s a question of whether jake can last long enough to capture the bad guys the robbersons want to help so they are driving him crazy
+
+Recommend Movies List IDs: ['tt0107478', 'tt0106292', 'tt0230877', 'tt0114496', 'tt0111400']
+Recommend movie top1 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+
+Recommend movie top2 ID tt0106292, Title: another stakeout (1993), Tag: ['comedy', 'thriller']
+Overview: prankster cops chris and bill are joined by a gina from the da s office to stakeout a lakeside home
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top5 ID tt0111400, Title: terminal velocity (1994), Tag: ['action', 'mystery', 'thriller']
+Overview: a maverick skydiver and a former kgb agent team up to stop the russian mafia from stealing gold
+

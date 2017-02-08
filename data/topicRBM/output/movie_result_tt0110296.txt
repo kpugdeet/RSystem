@@ -1,0 +1,19 @@
+Movie ID tt0110296, Title: ladybird ladybird (1994), Tag: ['drama']
+Overview: this ken loach docu drama relates the story of a british woman s fight with social services over the care of her children maggie has a history of bouncing from one abusive relationship to another she has four children of four different fathers who came to the attention of social services when they were injured in a fire subsequently maggie was found to be an unfit mother and her children were removed from her care she finally meets the man of her dreams a paraguayan expatriate and they start a family together unfortunately social services seems unwilling to accept that her life has changed and rends them from their new children she and jorge together and separately fight social services immigration and other government bureaucrats in a desperate battle to make their family whole again
+
+Recommend Movies List IDs: ['tt0112471', '499', 'tt0111301', 'tt0109198', 'tt0074102']
+Recommend movie top1 ID tt0112471, Title: before sunrise (1995), Tag: ['drama', 'romance']
+Overview: a young man and woman meet on a train in europe and wind up spending one evening together in vienna unfortunately both know that this will probably be their only night together
+
+Recommend movie top2 ID 499, Title: mr. wonderful (1993), Tag: ['comedy', 'romance']
+Overview: electrician gus gets the chance to fulfill a childhood dream by buying an old bowling alley with some of his friends unfortunately due to the alimony payments he has to make to his
+
+Recommend movie top3 ID tt0111301, Title: street fighter (1994), Tag: ['action', 'adventure', 'fantasy']
+Overview: col guile and various other martial arts heroes fight against the tyranny of dictator m bison and his cohorts
+
+Recommend movie top4 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top5 ID tt0074102, Title: in the realm of the senses (ai no corrida) (1976), Tag: ['drama']
+Overview: a passionate telling of the story of sada abe a woman whose affair with her master led to a sexual obsession which then came to a violent end
+

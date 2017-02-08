@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+message Request 
+{
+  string command = 1;
+  string userID = 2;
+  string tagID = 3;
+  string documentID = 4;
+  string documentTitle = 5;
+  string documentText = 6;
+  string unique = 7;
+}
+
+message Return
+{
+  string command = 1;
+  string userID = 2;
+  string documentID = 3;
+  string status = 4;
+  string unique = 5;
+}

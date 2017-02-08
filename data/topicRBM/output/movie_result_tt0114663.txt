@@ -1,0 +1,19 @@
+Movie ID tt0114663, Title: three wishes (1995), Tag: ['drama', 'fantasy']
+Overview: when jane holman is driving with her two sons tom and gunny she accidentally runs into a drifter named jack mccloud who breaks his leg feeling sorry for him jane invites jack and his dog betty jane to stay at her home until his leg has healed after having some difficulties to adapt to this new lifestyle jack soon finds himself loved by the family and they all want him to stay when he starts teaching baseball to tom who misses his father who s missing in the korean war the two of them develop a strong bond meanwhile gunny believes that there s more to jack and betty jane than meets the eye and he s determined to find out
+
+Recommend Movies List IDs: ['tt0110737', 'tt0111161', 'tt3507484', 'tt0111256', 'tt0110305']
+Recommend movie top1 ID tt0110737, Title: only you (1994), Tag: ['comedy', 'romance']
+Overview: destiny faith marisa tomei believes that two soul mates can be united if they find each other from the ouija board she has found the name of her missing half and it is d a m o n
+
+Recommend movie top2 ID tt0111161, Title: shawshank redemption, the (1994), Tag: ['crime', 'drama']
+Overview: two imprisoned men bond over a number of years finding solace and eventual redemption through acts of common decency
+
+Recommend movie top3 ID tt3507484, Title: flesh and bone (1993), Tag: ['drama', 'mystery', 'romance']
+Overview: a talented but emotionally troubled dancer runs away to new york city and quickly finds herself immersed in the cutthroat world of professional ballet
+
+Recommend movie top4 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top5 ID tt0110305, Title: lassie (1994), Tag: ['adventure', 'children']
+Overview: the dog everyone loves now leaps into the in this all new exciting updated version of lassie determined to start a new life in the country the turner family dad stepmom little
+

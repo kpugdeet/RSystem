@@ -1,0 +1,19 @@
+Movie ID tt0114694, Title: tommy boy (1995), Tag: ['comedy']
+Overview: tommy callahan jr is a slow witted clumsy guy who recently graduated college after attending for seven years his father big tom callahan owns an auto parts factory in ohio when tommy arrives back home he finds he has a position at the factory waiting for him his dad also introduces tommy to the new brake pad division of the factory and to tommy s soon to be stepmother beverly and her son paul but when big tom dies the factory threatens to go under unless the new brake pads are to be sold therefore tommy must go on the road to sell them along with the assistance of richard big tom s right hand man will tommy save the company or will the factory and the town go under
+
+Recommend Movies List IDs: ['tt0110657', 'tt2167202', 'tt0111732', 'tt0109891', 'tt0114214']
+Recommend movie top1 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top2 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top3 ID tt0111732, Title: with honors (1994), Tag: ['comedy', 'drama']
+Overview: convinced his thesis will have him graduate with honors from harvard university a stuffy student finds himself at the mercy of a homeless man s demands when he holds the papers hostage
+
+Recommend movie top4 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top5 ID tt0114214, Title: quick and the dead, the (1995), Tag: ['action', 'thriller', 'western']
+Overview: lady avenger returns to western town owned by a ruthless gunslinger hosting an elimination tournament
+

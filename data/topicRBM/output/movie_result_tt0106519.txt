@@ -1,0 +1,19 @@
+Movie ID tt0106519, Title: carlito's way (1993), Tag: ['crime', 'drama']
+Overview: a puerto rican ex con pledges to stay away from his former drug dealing ways but finds himself being dragged back by his past connections and the naive machinations of his lawyer and best friend hoping to raise enough money to get away from new york carlito brigante takes on the job of running a nightclub renews an affair with a dancer but old associates and old instincts suck him back into a world of violence and mistrust
+
+Recommend Movies List IDs: ['tt3507484', 'tt0109198', 'tt0113749', 'tt0110657', 'tt0107057']
+Recommend movie top1 ID tt3507484, Title: flesh and bone (1993), Tag: ['drama', 'mystery', 'romance']
+Overview: a talented but emotionally troubled dancer runs away to new york city and quickly finds herself immersed in the cutthroat world of professional ballet
+
+Recommend movie top2 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top3 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top4 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top5 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+

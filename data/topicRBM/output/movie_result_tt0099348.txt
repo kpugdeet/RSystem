@@ -1,0 +1,19 @@
+Movie ID tt0099348, Title: dances with wolves (1990), Tag: ['adventure', 'drama', 'western']
+Overview: lt john dunbar exiled to a remote western civil war outpost befriends wolves and indians making him an intolerable aberration in the military
+
+Recommend Movies List IDs: ['tt1595032', 'tt0114496', 'tt0230877', 'tt3446062', 'tt4103972']
+Recommend movie top1 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top5 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+

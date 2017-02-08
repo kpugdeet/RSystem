@@ -1,0 +1,19 @@
+Movie ID tt0112342, Title: amazing panda adventure, the (1995), Tag: ['adventure', 'children']
+Overview: young american ryan tyler visits his zoologist father on a panda preserve in china while on summer vacation and gets involved in the rescue of a baby panda from unscrupulous poachers who want to murder the cub s mother and sell the baby to a zoo ling a young chinese girl and her grandfather help in the rescue which if successful will ultimately result in saving the reserve from being shut down by officious bureaucrats
+
+Recommend Movies List IDs: ['tt0113691', 'tt0779794', 'tt4103972', 'tt0058450', 'tt0934676']
+Recommend movie top1 ID tt0113691, Title: losing isaiah (1995), Tag: ['drama']
+Overview: the natural and adoptive mothers of a young boy are involved in a bitter controversial custody battle
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top4 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+
+Recommend movie top5 ID tt0934676, Title: little princess, a (1995), Tag: ['children', 'drama']
+Overview: a little girl lives in a rather strange castle she shares it with her mother father and maid other characters help her realize that just because you are a princess you can t always get what you want
+

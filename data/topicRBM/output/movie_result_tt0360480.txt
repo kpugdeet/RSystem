@@ -1,0 +1,19 @@
+Movie ID tt0360480, Title: city of lost children, the (cit des enfants perdus, la) (1995), Tag: ['adventure', 'drama', 'fantasy', 'mystery', 'sci-fi']
+Overview: in an alternate reality children are being kidnapped by strange cyclopses and taken to the laboratory of an evil scientist named krank who steals their dreams because he has never had any of his own elsewhere an orphan girl named miette is sent on robbery jobs by her keepers a set of female siamese twins known collectively as octopus miette meets a man named one who is the strong man at the local funfair together they embark on a journey to find one s little brother who has been kidnapped by the cyclopses
+
+Recommend Movies List IDs: ['tt0112471', 'tt1425253', 'tt0113089', 'tt0109198', 'tt0107497']
+Recommend movie top1 ID tt0112471, Title: before sunrise (1995), Tag: ['drama', 'romance']
+Overview: a young man and woman meet on a train in europe and wind up spending one evening together in vienna unfortunately both know that this will probably be their only night together
+
+Recommend movie top2 ID tt1425253, Title: shadow, the (1994), Tag: ['action', 'adventure', 'fantasy', 'mystery']
+Overview: when a young soldier leaves for a mountain biking excursion he meets the girl of his dreams as well as a group of violent locals who want to see them dead at any cost
+
+Recommend movie top3 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+
+Recommend movie top4 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top5 ID tt0107497, Title: malice (1993), Tag: ['thriller']
+Overview: a tale about a happily married couple who would like to have children tracy teaches children andy s a college professor things are never the same after she is taken to hospital and operated upon by jed a know it all doctor
+

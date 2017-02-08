@@ -1,0 +1,19 @@
+Movie ID tt0113870, Title: murder in the first (1995), Tag: ['drama', 'thriller']
+Overview: henri young stole five dollars from a post office and ended up going to prison to the most famous or infamous prison of them all alcatraz he tried to escape failed and spent three years and two months in solitary confinement in a dungeon with no light no heat and no toilet milton glenn the assistant warden who was given free reign by his duty shirking superior was responsible for young s treatment glenn even took a straight razor and hobbled young for life after three years and two months young was taken out of solitary confinement and put with the rest of the prisoners almost immediately young took a spoon and stabbed a fellow prisoner in the neck killing him now young is on trial for murder and if he s convicted he ll go to the gas chamber an eager and idealistic young attorney james stamphill is given this impossible case and argues before a shocked courtroom that young had a co conspirator the true murderer he says was alcatraz
+
+Recommend Movies List IDs: ['tt0109403', 'tt0113501', 'tt0109297', 'tt0107756', 'tt0107554']
+Recommend movie top1 ID tt0109403, Title: chasers (1994), Tag: ['comedy']
+Overview: a hapless navy grunt is assigned sp duty the catch he must escort a beautiful female prisoner on her way to prison for going ua she in turn will try anything to escape
+
+Recommend movie top2 ID tt0113501, Title: just cause (1995), Tag: ['mystery', 'thriller']
+Overview: a harvard professor is lured back into the courtroom after years to take the case of a young black man condemned to death for the horrific murder of a child
+
+Recommend movie top3 ID tt0109297, Title: blink (1994), Tag: ['thriller']
+Overview: emma is a blind violinist who finally gets the opportunity to see meanwhile a string of bizarre rapes and murders has taken place all of the victims have had transplants within the last month a coincidence or is emma next
+
+Recommend movie top4 ID tt0107756, Title: orlando (1992), Tag: ['drama', 'fantasy', 'romance']
+Overview: young nobleman orlando is commanded by queen elizabeth i to stay forever young miraculously he does just that the film follows him as he moves through several centuries of british
+
+Recommend movie top5 ID tt0107554, Title: menace ii society (1993), Tag: ['action', 'crime', 'drama']
+Overview: a young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life
+

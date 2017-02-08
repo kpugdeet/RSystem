@@ -1,0 +1,19 @@
+Movie ID tt0114576, Title: sudden death (1995), Tag: ['action']
+Overview: some terrorists kidnap the vice president of the united states and threaten to blow up the entire stadium during the final game of the nhl stanley cup there is only one way and one man to stop them
+
+Recommend Movies List IDs: ['tt0230877', 'tt0109579', 'tt1595032', 'tt0109198', 'tt0107057']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top3 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top4 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top5 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+

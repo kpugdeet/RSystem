@@ -1,0 +1,19 @@
+Movie ID tt0110148, Title: interview with the vampire: the vampire chronicles (1994), Tag: ['drama', 'horror']
+Overview: it hasn t even been a year since a plantation owner named louis lost his wife in childbirth both his wife and the infant died and now he has lost his will to live a vampire named lestat takes a liking to louis and offers him the chance to become a creature of the night a vampire louis accepts and lestat drains louis mortal blood and then replaces it with his own turning louis into a vampire louis must learn from lestat the ways of the vampire
+
+Recommend Movies List IDs: ['tt2167202', 'tt4947656', 'tt0111742', 'tt3446062', 'tt0107057']
+Recommend movie top1 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top2 ID tt4947656, Title: simple twist of fate, a (1994), Tag: ['drama']
+Overview: quinn must prove himself worthy to take over for his friend and mentor who is retiring from one of the most important positions at their firm
+
+Recommend movie top3 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top4 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top5 ID tt0107057, Title: guilty as sin (1993), Tag: ['crime', 'drama', 'thriller']
+Overview: a female lawyer takes an accused wife murderer as a client but finds herself morally compelled to betray him one way or another
+

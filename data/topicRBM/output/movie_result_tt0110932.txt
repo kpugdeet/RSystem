@@ -1,0 +1,19 @@
+Movie ID tt0110932, Title: quiz show (1994), Tag: ['drama']
+Overview: an idealistic young lawyer working for a congressional subcommittee in the late discovers that tv quiz shows are being fixed his investigation focuses on two contestants on the show twenty one herbert stempel a brash working class jew from queens and charles van doren the patrician scion of one of america s leading literary families based on a true story
+
+Recommend Movies List IDs: ['tt0038650', 'tt0111256', 'tt0107478', 'tt0114496', 'tt0230877']
+Recommend movie top1 ID tt0038650, Title: wonderful, horrible life of leni riefenstahl, the (macht der bilder: leni riefenstahl, die) (1993), Tag: ['documentary']
+Overview: an angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed
+
+Recommend movie top2 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top3 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+
+Recommend movie top4 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

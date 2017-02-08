@@ -1,0 +1,19 @@
+Movie ID tt0107206, Title: in the line of fire (1993), Tag: ['action', 'thriller']
+Overview: secret service agent frank horrigan couldn t save kennedy but he s determined not to let a clever assassin take out this president
+
+Recommend Movies List IDs: ['tt0499556', 'tt1595032', 'tt0116483', 'tt0110657', 'tt0230877']
+Recommend movie top1 ID tt0499556, Title: war, the (1994), Tag: ['adventure', 'drama', 'war']
+Overview: an fbi agent seeks vengeance on a mysterious assassin known as rogue who murdered his partner
+
+Recommend movie top2 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top3 ID tt0116483, Title: happy gilmore (1996), Tag: ['comedy']
+Overview: a rejected hockey player puts his skills to the golf course to save his grandmother s house
+
+Recommend movie top4 ID tt0110657, Title: next karate kid, the (1994), Tag: ['action', 'children', 'romance']
+Overview: mr miyagi is back and he takes a new pupil under his wing a troubled adolescent girl
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

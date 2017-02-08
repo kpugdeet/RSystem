@@ -1,0 +1,19 @@
+Movie ID tt0110186, Title: jason's lyric (1994), Tag: ['crime', 'drama']
+Overview: the story of a young man jason allen payne who must confront his trauma induced insecurity about love as well as a sense of owed responsibility to his mother and troubled brother joshua bokeem woodbine jason an assistant manager and sales clerk at an electronics store falls in love with lyric jada pinkett smith and finds happiness but his family history and mentally ill war veteran father maddog forest whitaker plague his life s plans before he can leave it all for a better life
+
+Recommend Movies List IDs: ['tt0779794', 'tt0115639', 'tt0112819', 'tt0111256', 'tt0058450']
+Recommend movie top1 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top2 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top3 ID tt0112819, Title: dead presidents (1995), Tag: ['action', 'crime', 'drama']
+Overview: a vietnam vet adjusts to life after the war while trying to support his family but the chance of a better life may involve crime and bloodshed
+
+Recommend movie top4 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top5 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+

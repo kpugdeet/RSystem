@@ -1,0 +1,19 @@
+Movie ID tt0796366, Title: star trek: generations (1994), Tag: ['adventure', 'drama', 'sci-fi']
+Overview: on the day of james kirk s birth his father dies on his damaged starship in a last stand against a romulan time traveling mining vessel looking for ambassador spock who is also a child on vulcan in this time disdained by his neighbors for his half human heritage years later kirk has grown into a young troublemaker challenged by captain christopher pike to realize his potential in starfleet he comes to annoy instructors like young commander spock suddenly there is an emergency on vulcan and the newly commissioned uss enterprise is crewed with promising cadets like nyota uhura hikaru sulu pavel chekov and even kirk himself thanks to leonard mccoy s medical trickery together this crew will have an adventure in the final frontier where the old legend is altered forever as a new version of the legend begins
+
+Recommend Movies List IDs: ['tt0109198', 'tt0109891', 'tt0114852', 'tt0107756', 'tt0107507']
+Recommend movie top1 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top2 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top3 ID tt0114852, Title: village of the damned (1995), Tag: ['horror', 'sci-fi']
+Overview: a small town s women give birth to unfriendly alien children posing as humans
+
+Recommend movie top4 ID tt0107756, Title: orlando (1992), Tag: ['drama', 'fantasy', 'romance']
+Overview: young nobleman orlando is commanded by queen elizabeth i to stay forever young miraculously he does just that the film follows him as he moves through several centuries of british
+
+Recommend movie top5 ID tt0107507, Title: manhattan murder mystery (1993), Tag: ['comedy', 'mystery']
+Overview: a middle aged couple suspects foul play when their neighbor s wife suddenly drops dead
+

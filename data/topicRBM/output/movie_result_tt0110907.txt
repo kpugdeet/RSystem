@@ -1,0 +1,19 @@
+Movie ID tt0110907, Title: ready to wear (pret-a-porter) (1994), Tag: ['comedy']
+Overview: a fashion show in paris draws the usual bunch of people designers reporters models magazine editors photographers lots of unconnected stories which all revolve around this show and an all star cast
+
+Recommend Movies List IDs: ['tt0230877', 'tt0111256', 'tt0114496', 'tt0112579', 'tt0114478']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt0112579, Title: bridges of madison county, the (1995), Tag: ['drama', 'romance']
+Overview: photographer robert kincaid wanders into the life of housewife francesca johnson for four days in the
+
+Recommend movie top5 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+

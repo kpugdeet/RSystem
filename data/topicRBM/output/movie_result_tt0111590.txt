@@ -1,0 +1,19 @@
+Movie ID tt0111590, Title: vanya on 42nd street (1994), Tag: ['drama']
+Overview: an uniterrupted rehersal of chekhov s uncle vanya played out by a company of actors the setting is their run down theater with an unusable stage and crumbling ceiling the play is shown act by act with the briefest of breaks to move props or for refreshments the lack of costumes real props and scenery is soon forgotten
+
+Recommend Movies List IDs: ['tt0380167', 'tt0114496', 'tt0111161', 'tt0107507', 'tt0109579']
+Recommend movie top1 ID tt0380167, Title: addiction, the (1995), Tag: ['drama', 'horror']
+Overview: a brutal act of self defense unleashes a quiet man s inner demons
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0111161, Title: shawshank redemption, the (1994), Tag: ['crime', 'drama']
+Overview: two imprisoned men bond over a number of years finding solace and eventual redemption through acts of common decency
+
+Recommend movie top4 ID tt0107507, Title: manhattan murder mystery (1993), Tag: ['comedy', 'mystery']
+Overview: a middle aged couple suspects foul play when their neighbor s wife suddenly drops dead
+
+Recommend movie top5 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+

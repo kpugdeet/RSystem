@@ -1,0 +1,19 @@
+Movie ID tt0106339, Title: backbeat (1993), Tag: ['drama', 'musical']
+Overview: a pre fame beatles head for the seedy clubs of hamburg in search of success the band meet up with a group of trendy german beatniks one of whom astrid kircherr bass guitarist stuart sutcliffe falls in love with whilst best friend john lennon can only watch sutcliffe has to choose between rock n roll and a new life in germany
+
+Recommend Movies List IDs: ['tt0111256', 'tt4103972', 'tt0113749', 'tt0360307', 'tt0109198']
+Recommend movie top1 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top2 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top3 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

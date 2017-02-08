@@ -1,0 +1,19 @@
+Movie ID tt0112461, Title: basketball diaries, the (1995), Tag: ['drama']
+Overview: film adaptation of street tough jim carroll s epistle about his kaleidoscopic free fall into the harrowing world of drug addiction as a member of a seemingly unbeatable high school basketball squad jim s life centers around the basketball court and the court becomes a metaphor for the world in his mind a best friend who is dying of leukemia a coach swifty who takes unacceptable liberties with the boys on his team teenage sexual angst and an unhealthy appetite for heroin all of these begin to encroach on young jim s dream of becoming a basketball star soon the dark streets of new york become a refuge from his mother s mounting concern for her son he can t go home and his only escape from the reality of the streets is heroin for which he steals robs and prostitutes himself only with the help of reggie an older neighborhood friend with whom jim picked up a game now and then is he able to begin the long journey back to sanity
+
+Recommend Movies List IDs: ['tt0106677', 'tt0113749', 'tt0779794', 'tt0114478', 'tt0147800']
+Recommend movie top1 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top2 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top3 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top4 ID tt0114478, Title: smoke (1995), Tag: ['comedy', 'drama']
+Overview: a brooklyn smoke shop is the center of neighborhood activity and the stories of its customers
+
+Recommend movie top5 ID tt0147800, Title: hate (haine, la) (1995), Tag: ['crime', 'drama']
+Overview: a pretty popular teenager can t go out on a date until her ill tempered older sister does
+

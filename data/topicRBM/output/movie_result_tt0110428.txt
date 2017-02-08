@@ -1,0 +1,19 @@
+Movie ID tt0110428, Title: madness of king george, the (1994), Tag: ['comedy', 'drama']
+Overview: a meditation on power and the metaphor of the body of state based on the real episode of dementia experienced by george iii now suspected a victim of porphyria a blood disorder as he loses his senses he becomes both more alive and more politically marginalized neither effect desirable to his lieutenants who jimmy the rules to avoid a challenge to regal authority raising the question of who is really in charge
+
+Recommend Movies List IDs: ['tt0230877', 'tt0111742', 'tt0050022', 'tt0779794', 'tt0109579']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top3 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top4 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top5 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+

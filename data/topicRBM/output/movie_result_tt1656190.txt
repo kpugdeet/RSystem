@@ -1,0 +1,19 @@
+Movie ID tt1656190, Title: safe (1995), Tag: ['thriller']
+Overview: in china the girl mei is a genius that looks like a computer in numbers she is abducted by the chinese triads and the boss han jiao ends mei to chinatown in new york to help him in the control of his activities meanwhile the fighter luke wright has his life destroyed when he wins a fight against the will of the russian mafia and accidentally kills his opponent the russian mobsters kill his wife and the alcoholic luke wanders on the streets and hostels with no objective in life one day han jiao asks mei to memorize a long number and soon the russian mafia abducts the girl from the chinese mobs she escapes from the mobsters and is chased by the russians by the corrupt detectives from the nypd and by the triads when luke sees the girl fleeing from the russian mobs in the subway he protects the girl and discovers that the number she had memorized is the combination of a safe where the triads keep million dollars luke is an elite agent and uses his skills to protect the girl
+
+Recommend Movies List IDs: ['tt0113326', 'tt0111400', 'tt0251413', 'tt0106452', 'tt0112744']
+Recommend movie top1 ID tt0113326, Title: rumble in the bronx (hont faan kui) (1995), Tag: ['action', 'adventure', 'comedy', 'crime']
+Overview: a young man visiting and helping his uncle in new york city finds himself forced to fight a street gang and the mob with his martial art skills
+
+Recommend movie top2 ID tt0111400, Title: terminal velocity (1994), Tag: ['action', 'mystery', 'thriller']
+Overview: a maverick skydiver and a former kgb agent team up to stop the russian mafia from stealing gold
+
+Recommend movie top3 ID tt0251413, Title: star wars: episode iv - a new hope (1977), Tag: ['action', 'adventure', 'sci-fi']
+Overview: in this game you assume the role of luke skywalker and fight past many enemies to to reach and destroy the death star
+
+Recommend movie top4 ID tt0106452, Title: body snatchers (1993), Tag: ['horror', 'sci-fi', 'thriller']
+Overview: a teenage girl and her father discover alien clones are replacing humans on a remote u s military base in alabama
+
+Recommend movie top5 ID tt0112744, Title: crossing guard, the (1995), Tag: ['action', 'crime', 'drama', 'thriller']
+Overview: freddie gale is a seedy jeweler who has sworn to kill the drunk driver who killed his little girl
+

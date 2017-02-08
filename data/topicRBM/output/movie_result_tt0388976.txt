@@ -1,0 +1,19 @@
+Movie ID tt0388976, Title: heidi fleiss: hollywood madam (1995), Tag: ['documentary']
+Overview: the story of heidi fleiss known as the hollywood madam who was the daughter of a prominent los angeles doctor and eventually became a prostitute for a well known los angeles madam she
+
+Recommend Movies List IDs: ['tt0108122', 'tt0109198', 'tt0230877', 'tt0038650', 'tt0050022']
+Recommend movie top1 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top2 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+
+Recommend movie top3 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top4 ID tt0038650, Title: wonderful, horrible life of leni riefenstahl, the (macht der bilder: leni riefenstahl, die) (1993), Tag: ['documentary']
+Overview: an angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed
+
+Recommend movie top5 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+

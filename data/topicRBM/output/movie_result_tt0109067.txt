@@ -1,0 +1,19 @@
+Movie ID tt0109067, Title: air up there, the (1994), Tag: ['comedy']
+Overview: jimmy dolan is a college basketball coach who wants a big promotion to get it he needs to make a dramatic find he ends up deep in africa hoping to recruit saleh a huge basketball prodigy jimmy glimpsed in a home movie but saleh is the chief s son and has responsibilities at home since the tribe s land is threatened by a mining company with its own hotshot basketball team
+
+Recommend Movies List IDs: ['tt0230877', 'tt0109305', 'tt0779794', 'tt0112715', 'tt0109891']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0109305, Title: blue chips (1994), Tag: ['drama']
+Overview: pete bell a college basketball coach is under a lot of pressure his team isn t winning and he cannot attract new players the stars of the future are secretly being paid by boosters this practice is forbidden in the college game but pete is desperate and has pressures from all around
+
+Recommend movie top3 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top4 ID tt0112715, Title: congo (1995), Tag: ['action', 'adventure', 'mystery', 'sci-fi']
+Overview: when an expedition to the african congo ends in disaster a new team is assembled to find out what went wrong
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

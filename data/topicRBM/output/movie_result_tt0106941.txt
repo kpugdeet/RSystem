@@ -1,0 +1,19 @@
+Movie ID tt0106941, Title: for love or money (1993), Tag: ['comedy', 'romance']
+Overview: doug is a young man who works all day as a concierge at a luxurious hotel saving money to make his own business unfortunately when he finds the financial supporter he needs he discovers that his saviour is having an affair with the woman he loves now he must choose between money and love
+
+Recommend Movies List IDs: ['tt0114496', 'tt2167202', 'tt4103972', 'tt0111256', 'tt0107478']
+Recommend movie top1 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top2 ID tt2167202, Title: getaway, the (1994), Tag: ['action', 'adventure', 'crime', 'drama', 'romance', 'thriller']
+Overview: to save his kidnapped wife brent magna must drive at the orders of a mysterious man
+
+Recommend movie top3 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top4 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top5 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+

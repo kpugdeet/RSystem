@@ -1,0 +1,19 @@
+Movie ID tt0112857, Title: devil in a blue dress (1995), Tag: ['crime', 'film-noir', 'mystery', 'thriller']
+Overview: it is in la and ezikeal easy rawlins an african american world war ii veteran is looking for work at his friend s bar he is introduced to a white man dewitt albright who is looking for someone to help him find a missing white woman assumed to be hiding somewhere in la s black community this woman daphane monet happens to be the fiance of a wealthy blue blood todd carter who is currently the favorite in the city s mayoralty race daphane monet is known to frequent the black jazz clubs in la easy innocently accepts albright s offer however he quickly finds himself amidst murder crooked cops ruthless politicians and brutalizing hoodlums this is a chandler esque who done it with an african american theme
+
+Recommend Movies List IDs: ['tt0107478', 'tt0114496', 'tt0114928', 'tt1595032', 'tt0380167']
+Recommend movie top1 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0114928, Title: white man's burden (1995), Tag: ['drama']
+Overview: the story takes place in alternative america where the blacks are members of social elite and whites are inhabitants of inner city ghettos louis pinnock is a white worker in a chocolate
+
+Recommend movie top4 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top5 ID tt0380167, Title: addiction, the (1995), Tag: ['drama', 'horror']
+Overview: a brutal act of self defense unleashes a quiet man s inner demons
+

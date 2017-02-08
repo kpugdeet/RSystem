@@ -1,0 +1,19 @@
+Movie ID tt0171804, Title: cry, the beloved country (1995), Tag: ['drama']
+Overview: based on actual events brandon teena is the popular new guy in a tiny nebraska town he hangs out with the guys drinking cussing and bumper surfing and he charms the young women who ve never met a more sensitive and considerate young man life is good for brandon now that he s one of the guys and dating hometown beauty lana however he s forgotten to mention one important detail it s not that he s wanted in another town for gta and other assorted crimes but that brandon teena was actually born a woman named teena brandon when his best friends make this discovery brandon s life is ripped apart
+
+Recommend Movies List IDs: ['tt4103972', 'tt0147800', 'tt4947656', 'tt0113749', 'tt0103639']
+Recommend movie top1 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top2 ID tt0147800, Title: hate (haine, la) (1995), Tag: ['crime', 'drama']
+Overview: a pretty popular teenager can t go out on a date until her ill tempered older sister does
+
+Recommend movie top3 ID tt4947656, Title: simple twist of fate, a (1994), Tag: ['drama']
+Overview: quinn must prove himself worthy to take over for his friend and mentor who is retiring from one of the most important positions at their firm
+
+Recommend movie top4 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top5 ID tt0103639, Title: aladdin (1992), Tag: ['adventure', 'animation', 'children', 'comedy', 'musical']
+Overview: when a street urchin vies for the love of a beautiful princess he uses a genie s magic power to make himself off as a prince in order to marry her
+

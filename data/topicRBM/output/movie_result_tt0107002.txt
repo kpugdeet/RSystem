@@ -1,0 +1,19 @@
+Movie ID tt0107002, Title: germinal (1993), Tag: ['drama', 'romance']
+Overview: in mid nineteenth century northern france a coal mining town s workers are exploited by the mine s owner one day they decide to go on strike and the authorities repress them
+
+Recommend Movies List IDs: ['tt0230877', 'tt0108122', 'tt4103972', 'tt0114496', 'tt0109198']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0108122, Title: short cuts (1993), Tag: ['drama']
+Overview: the day to day lives of a number of suburban los angeles residents
+
+Recommend movie top3 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top4 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

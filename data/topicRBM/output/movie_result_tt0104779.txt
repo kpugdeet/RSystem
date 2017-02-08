@@ -1,0 +1,19 @@
+Movie ID tt0104779, Title: bitter moon (1992), Tag: ['drama', 'film-noir', 'romance']
+Overview: british couple fiona and nigel dobson are sailing to istanbul en route to india they encounter a beautiful french woman and that night nigel meets her while dancing alone in the ship s bar later he meets her crippled american husband oscar who tells him their story while living in paris for several years trying to be a writer he becomes obsessed with a woman he met by chance on a bus he tracks her down and they start a steamy love affair soon oscar finds himself enslaved body and soul by her love and continues to tell nigel the details of this relationship in various stages over a number of visits to oscar s cabin
+
+Recommend Movies List IDs: ['tt0074102', '83', 'tt0114496', 'tt1595032', 'tt0113097']
+Recommend movie top1 ID tt0074102, Title: in the realm of the senses (ai no corrida) (1976), Tag: ['drama']
+Overview: a passionate telling of the story of sada abe a woman whose affair with her master led to a sexual obsession which then came to a violent end
+
+Recommend movie top2 ID 83, Title: once upon a time... when we were colored (1995), Tag: ['drama', 'romance']
+Overview: a narrator tells the story of his childhood years in a tightly knit afro american community in the deep south under racial segregation
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+
+Recommend movie top5 ID tt0113097, Title: forget paris (1995), Tag: ['comedy', 'romance']
+Overview: mickey gordon is a basketball referee who travels to france to bury his father ellen andrews an american living in paris works for the airline mickey flies on they meet and fall in love
+

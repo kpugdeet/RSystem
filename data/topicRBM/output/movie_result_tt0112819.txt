@@ -1,0 +1,19 @@
+Movie ID tt0112819, Title: dead presidents (1995), Tag: ['action', 'crime', 'drama']
+Overview: a vietnam vet adjusts to life after the war while trying to support his family but the chance of a better life may involve crime and bloodshed
+
+Recommend Movies List IDs: ['tt4103972', 'tt0779794', 'tt0058450', 'tt0115639', 'tt0107554']
+Recommend movie top1 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top2 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top3 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+
+Recommend movie top4 ID tt0115639, Title: beautiful girls (1996), Tag: ['comedy', 'drama', 'romance']
+Overview: a piano player at a crossroads in his life returns home to his friends and their own problems with life and love
+
+Recommend movie top5 ID tt0107554, Title: menace ii society (1993), Tag: ['action', 'crime', 'drama']
+Overview: a young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life
+

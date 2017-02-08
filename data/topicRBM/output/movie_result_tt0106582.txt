@@ -1,0 +1,19 @@
+Movie ID tt0106582, Title: cliffhanger (1993), Tag: ['action', 'adventure', 'thriller']
+Overview: whilst crossing a ledge feet above the earth gabe s friend s equipment fails to work and she slips out of his hand falling to the ground almost a year later gabe is asked to go back to the same mountain range and rescue a group of stranded people the only catch is that these so called stranded people are in fact looking for three boxes filled with and they need a mountain ranger to lead them to them
+
+Recommend Movies List IDs: ['tt0111003', 'tt0230877', 'tt0111256', 'tt0360307', 'tt0109198']
+Recommend movie top1 ID tt0111003, Title: puppet masters, the (1994), Tag: ['horror', 'sci-fi']
+Overview: the earth is invaded by stingray shaped alien slugs that ride on people s backs and control their minds
+
+Recommend movie top2 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top3 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top4 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top5 ID tt0109198, Title: bad girls (1994), Tag: ['western']
+Overview: four prostitutes join together to travel the old west
+

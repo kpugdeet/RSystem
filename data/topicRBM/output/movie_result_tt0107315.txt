@@ -1,0 +1,19 @@
+Movie ID tt0107315, Title: kika (1993), Tag: ['comedy', 'drama']
+Overview: kika a young cosmetologist is called to the mansion of nicolas an american writer to make up the corpse of his stepson ramon ramon who is not dead is revived by kika s attentions and she then moves in with him they might live happily ever after but first they have to cope with kika s affair with nicolas the suspicious death of ramon s mother and the intrusive gaze of tabloid tv star and ramon s ex psychologist andrea scarface
+
+Recommend Movies List IDs: ['tt4103972', 'tt0114296', 'tt3446062', 'tt0779794', 'tt0058450']
+Recommend movie top1 ID tt4103972, Title: remains of the day, the (1993), Tag: ['drama', 'romance']
+Overview: a day in the life of a young couple burying their beloved dog it s a comedy
+
+Recommend movie top2 ID tt0114296, Title: roommates (1995), Tag: ['comedy', 'drama']
+Overview: an elderly yet young at heart man moves in with his grandson and both their lives turn upside down
+
+Recommend movie top3 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top4 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top5 ID tt0058450, Title: umbrellas of cherbourg, the (parapluies de cherbourg, les) (1964), Tag: ['drama', 'musical', 'romance']
+Overview: a young girl separated from her lover by war faces a life altering decision
+

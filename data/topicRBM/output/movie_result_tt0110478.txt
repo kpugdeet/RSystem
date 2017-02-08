@@ -1,0 +1,19 @@
+Movie ID tt0110478, Title: maverick (1994), Tag: ['adventure', 'comedy', 'western']
+Overview: maverick is recreated from the character james garner created in the tv program maverick is a gambler who would rather con someone than fight them he needs an additional three thousand dollars in order to enter a winner take all poker game that begins in a few days he tries to win some tries to collect a few debts and recover a little loot for the reward all with a light hearted air he joins forces with a woman gambler with a marvelous though fake southern accent as the two both try and enter the game
+
+Recommend Movies List IDs: ['tt0109891', 'tt0360307', 'tt0111127', 'tt0111742', 'tt0779794']
+Recommend movie top1 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top2 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top3 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
+Recommend movie top4 ID tt0111742, Title: wolf (1994), Tag: ['drama', 'horror', 'romance', 'thriller']
+Overview: publisher will randall becomes a werewolf and has to fight to keep his job
+
+Recommend movie top5 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+

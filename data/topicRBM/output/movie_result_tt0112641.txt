@@ -1,0 +1,19 @@
+Movie ID tt0112641, Title: casino (1995), Tag: ['crime', 'drama']
+Overview: greed deception money power and murder occur between two best friends a mafia underboss and a casino owner for a trophy wife over a gambling empire
+
+Recommend Movies List IDs: ['tt0113749', 'tt0360307', 'tt0115645', 'tt0050022', 'tt0230877']
+Recommend movie top1 ID tt0113749, Title: mallrats (1995), Tag: ['comedy', 'romance']
+Overview: both dumped by their girlfriends two best friends seek refuge in the local mall
+
+Recommend movie top2 ID tt0360307, Title: richie rich (1994), Tag: ['children', 'comedy']
+Overview: the adventures of the poor little rich boy and his friends
+
+Recommend movie top3 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top4 ID tt0050022, Title: gumby: the movie (1995), Tag: ['animation', 'children']
+Overview: innovative claymation adventures of gumby and his horse pokey
+
+Recommend movie top5 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+

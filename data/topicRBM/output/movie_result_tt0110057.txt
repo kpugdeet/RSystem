@@ -1,0 +1,19 @@
+Movie ID tt0110057, Title: hoop dreams (1994), Tag: ['documentary']
+Overview: this documentary follows two young african americans through their high school years as they perfect their skills in basketball in the hopes of getting a college scholarship and eventually play in the nba arthur agee and william gates both show great potential and are are actively recruited as they look to enter high school they start off at the same high school but unable to pay an unexpected bill for tuition fees arthur has to withdraw and go to the local public high school the film follows them through their four years of high school and their trials and tribulations injuries slumps and the never ending battle to maintain their grades through it all their hoop dreams continue
+
+Recommend Movies List IDs: ['tt0106677', '62', 'tt0109035', 'tt0110950', 'tt0114885']
+Recommend movie top1 ID tt0106677, Title: dazed and confused (1993), Tag: ['comedy']
+Overview: the adventures of high school and junior high students on the last day of school in may
+
+Recommend movie top2 ID 62, Title: mr. holland's opus (1995), Tag: ['drama']
+Overview: a frustrated composer finds fulfillment as a high school music teacher
+
+Recommend movie top3 ID tt0109035, Title: above the rim (1994), Tag: ['crime', 'drama']
+Overview: story of kyle lee watson a promising high school basketball star and his relationships with birdie a powerful drug dealer and birdie s brother thomas shep sheppard himself once a promising high school star at kyle s school now employed as a security guard
+
+Recommend movie top4 ID tt0110950, Title: reality bites (1994), Tag: ['comedy', 'drama', 'romance']
+Overview: a documentary filmmaker and her fellow gen x graduates face life after college looking for work and love in houston
+
+Recommend movie top5 ID tt0114885, Title: waiting to exhale (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: based on terry mcmillan s novel this film follows four very different african american women and their relationships with the male gender
+

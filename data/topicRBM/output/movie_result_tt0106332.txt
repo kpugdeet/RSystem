@@ -1,0 +1,19 @@
+Movie ID tt0106332, Title: farewell my concubine (ba wang bie ji) (1993), Tag: ['drama', 'romance']
+Overview: farewell my concubine is a movie with two parallel intertwined stories it is the story of two performers in the beijing opera stage brothers and the woman who comes between them at the same time it attempts to do no less than squeeze the entire political history of china in the twentieth century into a three hour time frame
+
+Recommend Movies List IDs: ['tt0230877', 'tt0109579', 'tt0109891', 'tt0111756', 'tt0113089']
+Recommend movie top1 ID tt0230877, Title: three musketeers, the (1993), Tag: ['action', 'adventure', 'comedy', 'romance']
+Overview: state vs religion in century france
+
+Recommend movie top2 ID tt0109579, Title: death and the maiden (1994), Tag: ['drama', 'thriller']
+Overview: a political activist is convinced that her guest is a man who once tortured her for the government
+
+Recommend movie top3 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+
+Recommend movie top4 ID tt0111756, Title: wyatt earp (1994), Tag: ['western']
+Overview: wyatt earp is a movie about a man and his family the movie shows us the good times and the bad times of one of the west s most famous individuals
+
+Recommend movie top5 ID tt0113089, Title: fluke (1995), Tag: ['children', 'drama']
+Overview: after a man dies in a car crash he is reincarnated as a dog and attempts to reconnect with his family
+

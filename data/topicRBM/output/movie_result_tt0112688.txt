@@ -1,0 +1,19 @@
+Movie ID tt0112688, Title: clockers (1995), Tag: ['crime', 'drama', 'mystery']
+Overview: young drug pushers in the projects of brooklyn live hard dangerous lives trapped between their drug bosses and the detectives out to stop them
+
+Recommend Movies List IDs: ['tt3446062', 'tt0114296', 'tt0114496', 'tt0107478', 'tt0109891']
+Recommend movie top1 ID tt3446062, Title: babysitter, the (1995), Tag: ['drama', 'thriller']
+Overview: a dysfunctional l a family hires a mysterious babysitter who changes their lives
+
+Recommend movie top2 ID tt0114296, Title: roommates (1995), Tag: ['comedy', 'drama']
+Overview: an elderly yet young at heart man moves in with his grandson and both their lives turn upside down
+
+Recommend movie top3 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top4 ID tt0107478, Title: made in america (1993), Tag: ['comedy']
+Overview: a young black woman discovers that her father was a sperm donor and if that weren t bad enough he s white
+
+Recommend movie top5 ID tt0109891, Title: getting even with dad (1994), Tag: ['comedy']
+Overview: a thief s son cons his father into spending more time with him
+

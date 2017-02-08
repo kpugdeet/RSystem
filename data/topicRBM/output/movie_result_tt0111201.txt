@@ -1,0 +1,19 @@
+Movie ID tt0111201, Title: sirens (1994), Tag: ['drama']
+Overview: a young reverend and his wife are on the way from england to australia to minister to their flock the bishop asks him to visit an eccentric artist prone to sexual depictions and requests that he voluntarily withdraw a controversial work call crucified venus from his show the minister who considers himself a progressive is shocked at the amoral atmosphere surrounding the painter his wife and the three models living at his estate the minister s wife is troubled also and has to deal with latent sexual urges while trying to remain loyal to her husband
+
+Recommend Movies List IDs: ['tt0114496', 'tt0111256', 'tt0779794', 'tt0115645', 'tt1595032']
+Recommend movie top1 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top2 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top3 ID tt0779794, Title: boys life (1995), Tag: ['drama']
+Overview: an eccentric single mother tries to raise her young teenage son
+
+Recommend movie top4 ID tt0115645, Title: before and after (1996), Tag: ['drama', 'mystery']
+Overview: two parents deal with the effects when their son is accused of murdering his girlfriend
+
+Recommend movie top5 ID tt1595032, Title: underneath (1995), Tag: ['mystery', 'thriller']
+Overview: john finds out that the tunnels under sacramento have more secrets than history tells
+

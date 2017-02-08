@@ -1,0 +1,19 @@
+Movie ID tt0107362, Title: last action hero (1993), Tag: ['action', 'adventure', 'comedy', 'fantasy']
+Overview: young danny madigan is a big fan of jack slater a larger than life action hero played by arnold schwarzenegger when his best friend nick the projectionist gives him a magic ticket to the new jack slater film danny is transported into slater s world where the good guys always win one of slater s enemies benedict the hitman gets hold of the ticket and ends up in danny s world where he realises that if he can kill schwarzenegger slater will be no more slater and danny must travel back and stop him
+
+Recommend Movies List IDs: ['tt0112883', 'tt0114496', 'tt0112715', 'tt0112744', 'tt0114296']
+Recommend movie top1 ID tt0112883, Title: don juan demarco (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a psychiatrist must cure a young patient that presents himself as don juan the greatest lover in the world
+
+Recommend movie top2 ID tt0114496, Title: something to talk about (1995), Tag: ['comedy', 'drama', 'romance']
+Overview: a woman s world is rocked when she discovers her husband is cheating on her
+
+Recommend movie top3 ID tt0112715, Title: congo (1995), Tag: ['action', 'adventure', 'mystery', 'sci-fi']
+Overview: when an expedition to the african congo ends in disaster a new team is assembled to find out what went wrong
+
+Recommend movie top4 ID tt0112744, Title: crossing guard, the (1995), Tag: ['action', 'crime', 'drama', 'thriller']
+Overview: freddie gale is a seedy jeweler who has sworn to kill the drunk driver who killed his little girl
+
+Recommend movie top5 ID tt0114296, Title: roommates (1995), Tag: ['comedy', 'drama']
+Overview: an elderly yet young at heart man moves in with his grandson and both their lives turn upside down
+

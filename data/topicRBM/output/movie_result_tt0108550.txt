@@ -1,0 +1,19 @@
+Movie ID tt0108550, Title: what's eating gilbert grape (1993), Tag: ['drama']
+Overview: what s eating gibert grape is a beautifully shot movie of tenderness caring and self awareness that is set amongst the fictional working class one street town endora centred around the grape family ellen and amy and their two brothers arnie and gilbert who along with their morbidly obese widowed mother bonnie grape are striving to survive and coexist with the absence of a father figure low wage work and seventeen year old arnie s severe mental condition it is in this awkward and extremely one sided affair that the unfortunate gilbert has to constantly while working for the town s slowly dying convenience store take care of his younger brother arnie gilbert s life his future is thwarted he knows this but it is in this guardian angel that his love and bond for arnie cannot and will not be let go that is until the free spirit of becky arrives in town and with her grandmother are stranded for the week while waiting for parts for their vehicle this realization unties new feelings new thoughts and new hope for the put upon gibert something new is eating gilbert grape
+
+Recommend Movies List IDs: ['tt0111256', 'tt0103639', 'tt0114168', 'tt0106220', 'tt0111127']
+Recommend movie top1 ID tt0111256, Title: speechless (1994), Tag: ['comedy', 'romance']
+Overview: two political speechwriters fall in love before they find out they are working for candidates on opposite sides
+
+Recommend movie top2 ID tt0103639, Title: aladdin (1992), Tag: ['adventure', 'animation', 'children', 'comedy', 'musical']
+Overview: when a street urchin vies for the love of a beautiful princess he uses a genie s magic power to make himself off as a prince in order to marry her
+
+Recommend movie top3 ID tt0114168, Title: powder (1995), Tag: ['drama', 'sci-fi']
+Overview: an off the charts genius who is home schooled and shunned after his last relative dies shows the unconscious residents of his town about connection awareness and the generosity of the spirit
+
+Recommend movie top4 ID tt0106220, Title: addams family values (1993), Tag: ['children', 'comedy', 'fantasy']
+Overview: a comical gothic horror movie type family tries to rescue their beloved uncle from his gold digging new love
+
+Recommend movie top5 ID tt0111127, Title: serial mom (1994), Tag: ['comedy', 'crime', 'horror']
+Overview: a sweet mother takes a little too much at heart for the defense of her family
+
