@@ -10,6 +10,7 @@ import time
 import random
 import pickle
 import ConfigParser
+import os
 
 class RBMK:
 	def __init__(self, configFile, typeRBM):
@@ -233,11 +234,12 @@ class RBMK:
 		pickle.dump(self.screen, open(self.screenObject,'wb'))		
 
 if __name__ == '__main__':
-	userRBMK = RBMK('../data/Config.ini', 'UserRBMK')
+	dir_path = os.path.dirname(os.path.realpath(__file__))
+	userRBMK = RBMK(dir_path+'/../data/Config.ini', 'UserRBMK')
 
 	countExclude = 0
 	print('Read Data')
-	filePointer = open('../data/MovieUserInfo.dat')
+	filePointer = open(dir_path+'/../data/cfRBM/UserInfo.dat')
 	iterLines = iter(filePointer)
 	dataID = []
 	data = [[] for x in range(userRBMK.k)]
@@ -245,7 +247,7 @@ if __name__ == '__main__':
 		tmp = [ [0 for i in range(userRBMK.numVisible) ] for j in range(userRBMK.k) ]
 		ID = line.split('::')[0]
 		line = line.split('::')[1:]
-		exID = np.random.randint(len(line)/4)
+		exID = np.random.randint(len(line))
 		for offset, ele in enumerate(line):
 			try:
 				idTmp = ele.split(',')[0]
@@ -291,7 +293,7 @@ if __name__ == '__main__':
 
 	# Sort and make to correct structure
 	print('Ranking with specific rating')
-	f = open('../data/MovieUserInfoOut.dat','w')
+	f = open(dir_path+'/../data/MovieUserInfoOut.dat','w')
 	outputArray = {'key':'value'}
 	output = np.array(output)
 	for i in range(output.shape[0]):
